@@ -1,0 +1,1376 @@
+2468	1	2	2	2	brain 
+2467	2	2	1	1	c2 2 
+2465	3	2	1	1	cocoon servlet service 
+2464	1	2	1	1	part 
+2463	1	2	2	2	find 
+2461	1	2	1	1	getchannel 
+2460	1	2	1	1	filechannel 
+2459	1	3	2	2	references 
+2458	2	2	2	2	references to 
+2457	1	2	2	2	vikram 
+2456	1	3	3	3	report 
+2455	1	3	3	3	soon 
+2453	1	3	3	3	8 
+2452	1	2	2	2	issues 
+2451	1	2	1	1	grumble 
+2447	1	3	3	3	spam 
+2444	1	2	2	2	expect 
+2443	1	4	4	4	related 
+2442	2	3	3	3	related to 
+2441	1	2	2	2	line 
+2439	1	3	3	3	place 
+2438	1	2	2	2	everyone 
+2437	1	2	2	2	nag 
+2436	1	8	8	8	try 
+2434	1	2	2	2	changed 
+2433	1	5	5	5	attached 
+2432	1	2	2	2	id 
+2431	1	2	2	2	attachment 
+2430	1	3	3	3	ignore 
+2429	1	3	3	3	above 
+2428	1	2	2	2	reading 
+2427	1	2	2	2	problems 
+2426	1	3	3	3	ticket 
+2425	1	2	2	2	him 
+2423	1	4	4	4	missing 
+2422	1	2	1	1	built 
+2420	1	3	3	3	app 
+2419	2	2	2	2	app developers 
+2418	1	2	2	2	yesterday 
+2417	1	2	2	2	resources 
+2416	1	2	2	2	sad 
+2415	1	4	4	4	sooner 
+2413	1	3	2	2	lib 
+2412	1	2	1	1	uima 
+2411	1	2	2	2	sh 
+2410	1	2	2	2	patches 
+2409	1	2	2	2	during 
+2408	1	2	2	2	mess 
+2407	1	2	2	2	session 
+2404	1	4	4	4	misunderstood 
+2403	2	3	3	3	misunderstood the 
+2402	1	4	4	4	busy 
+2400	1	2	2	2	figured 
+2399	2	5	5	5	haven t 
+2395	1	3	3	3	reuse 
+2394	1	4	4	4	trouble 
+2391	1	5	3	3	source 
+2388	1	3	3	3	commented 
+2387	1	2	2	2	second 
+2386	1	2	2	2	sec 
+2385	1	3	2	2	yarn 
+2384	1	2	2	2	keyword 
+2383	1	4	4	4	yet 
+2380	1	3	3	3	notice 
+2379	1	2	2	2	creating 
+2378	1	3	2	2	priorities 
+2377	1	2	2	2	responder 
+2376	1	4	4	4	tried 
+2375	1	2	1	1	jackrabbit 
+2374	1	2	2	2	another 
+2373	1	3	2	2	backport 
+2371	2	2	2	2	figure out 
+2369	1	9	9	9	delay 
+2365	1	2	2	2	manner 
+2364	1	2	2	2	closed 
+2363	1	2	2	2	set 
+2361	1	2	2	2	half 
+2360	1	4	4	4	week 
+2359	2	2	2	3	week and 
+2357	1	7	7	7	yes 
+2356	1	2	2	2	store 
+2355	1	2	2	2	experience 
+2354	1	8	8	8	before 
+2353	2	2	2	3	before doing 
+2352	2	2	2	4	before the 
+2351	1	2	2	2	david 
+2349	1	3	2	2	service 
+2348	2	2	2	2	resolve this 
+2347	1	2	2	2	confirm 
+2345	1	2	1	1	nio 
+2343	1	2	2	2	later 
+2342	1	2	2	2	brandon 
+2341	1	2	2	2	submit 
+2340	1	2	2	2	patching 
+2338	1	2	2	2	clear 
+2337	1	2	2	2	plan 
+2335	1	4	4	4	failing 
+2334	1	2	2	2	checking 
+2333	1	3	3	3	henry 
+2332	1	2	2	2	solution 
+2331	1	10	9	9	sweet 
+2330	2	2	2	4	sweet i 
+2327	1	2	2	2	order 
+2326	1	2	1	1	zookeeper 
+2325	1	6	6	6	look 
+2324	2	4	4	4	look at 
+2323	3	2	2	3	look at it 
+2322	1	4	4	4	taking 
+2319	1	2	2	2	atul 
+2314	1	4	4	4	any 
+2312	1	2	2	2	team 
+2311	1	3	3	3	alejandro 
+2308	1	4	4	4	richard 
+2305	1	2	2	2	sandy 
+2303	1	3	3	3	jing 
+2301	1	3	3	3	todd 
+2296	1	6	6	6	andrew 
+2291	1	2	2	2	adrian 
+2290	1	2	2	2	jon 
+2288	3	2	2	2	providing the patch 
+2287	1	7	7	7	review 
+2286	2	3	3	4	review and 
+2283	1	3	3	3	ivan 
+2281	1	2	2	2	brock 
+2280	1	2	2	2	edward 
+2279	1	2	2	2	ashutosh 
+2277	1	2	2	2	enjoy 
+2275	1	2	2	2	owen 
+2273	1	5	5	5	job 
+2269	1	4	4	4	tests 
+2268	2	2	2	2	tests pass 
+2267	2	18	18	18	thank you 
+2265	4	3	3	3	thank you very much 
+2264	5	2	2	2	thank you very much for 
+2261	1	5	5	5	many 
+2260	2	3	3	3	many thanks 
+2259	1	9	9	9	version 
+2258	2	2	2	2	version of 
+2257	1	2	2	2	b 
+2256	1	2	2	2	two 
+2255	1	2	2	2	finding 
+2254	2	2	2	2	based on 
+2253	1	3	3	3	update 
+2241	1	4	2	2	com 
+2236	1	4	2	2	https 
+2233	1	2	2	2	suggestion 
+2232	1	6	6	6	bit 
+2231	1	2	2	2	daniel 
+2230	1	6	6	6	best 
+2226	1	10	10	10	right 
+2225	2	2	2	2	right now 
+2224	1	2	2	2	current 
+2222	1	4	4	4	mike 
+2221	2	2	2	2	mike for 
+2218	1	8	8	8	revision 
+2217	1	4	4	4	rev 
+2214	1	5	5	5	org 
+2213	2	2	2	4	org apache 
+2212	1	2	2	2	etc 
+2211	1	3	3	3	took 
+2210	2	2	2	2	took me 
+2209	1	7	7	7	committed 
+2208	2	2	2	3	committed in 
+2207	1	2	2	2	save 
+2206	1	5	5	5	reviews 
+2203	1	2	2	2	daryn 
+2201	1	6	6	6	upload 
+2199	1	3	3	3	especially 
+2198	1	7	7	7	stuff 
+2192	1	3	3	3	information 
+2191	2	2	2	3	information to 
+2187	1	7	7	7	help 
+2184	2	7	6	6	able to 
+2183	1	6	6	6	glad 
+2182	2	3	3	5	glad to 
+2181	3	2	2	2	glad to be 
+2180	1	2	2	2	parser 
+2178	1	5	5	5	looking 
+2177	3	2	2	2	looking forward to 
+2175	1	16	16	16	great 
+2174	2	4	4	10	great awesome 
+2173	2	2	2	5	great work 
+2172	1	2	2	2	results 
+2171	1	4	4	4	nice 
+2170	1	4	4	4	away 
+2168	1	2	2	2	clean 
+2167	1	4	4	4	latest 
+2166	2	2	2	3	latest patch 
+2165	1	5	3	3	src 
+2161	1	2	2	2	6 
+2160	1	3	3	3	tested 
+2159	1	4	4	4	explanation 
+2157	1	176	175	175	thanks 
+2142	2	2	2	3	thanks mike 
+2139	2	42	42	69	thanks for 
+2137	3	2	2	2	thanks for spotting 
+2136	3	7	7	11	thanks for your 
+2134	4	2	2	4	thanks for your help 
+2133	3	17	17	31	thanks for the 
+2131	4	4	4	11	thanks for the patch 
+2130	3	2	2	2	thanks in advance 
+2129	2	11	11	18	thanks a 
+2128	3	10	10	10	thanks a lot 
+2127	4	5	5	7	thanks a lot for 
+2126	5	2	2	4	thanks a lot for the 
+2125	2	8	8	21	thanks to 
+2123	3	2	2	2	thanks so much 
+2122	2	2	2	3	thanks guys 
+2119	1	23	23	23	awesome 
+2118	2	2	2	4	awesome stuff 
+2117	2	2	2	5	awesome work 
+2115	1	2	2	2	connection 
+2114	1	5	5	5	over 
+2113	2	2	2	3	over the 
+2112	1	3	3	3	logo 
+2111	2	2	2	2	due to 
+2109	1	2	2	2	kinda 
+2108	1	28	26	26	cool 
+2107	2	2	2	2	cool stuff 
+2106	2	2	2	6	cool thanks 
+2105	2	2	2	8	cool and 
+2104	2	2	2	4	cool i 
+2100	1	8	6	6	apache 
+2097	2	2	2	4	apache org 
+2096	1	2	2	2	turn 
+2095	1	2	1	1	hints 
+2094	1	8	8	8	applied 
+2093	2	2	2	4	applied to 
+2092	1	3	3	3	thats 
+2091	1	2	2	2	guillaume 
+2089	1	3	3	3	uploaded 
+2088	1	3	3	3	probably 
+2087	1	2	2	2	eclipse 
+2086	1	3	3	3	call 
+2085	1	4	4	4	comment 
+2084	1	5	5	5	last 
+2083	2	2	2	2	last patch 
+2081	1	2	2	2	client 
+2080	1	4	4	4	http 
+2079	1	6	6	6	long 
+2077	1	2	2	2	threads 
+2076	1	2	2	2	sharing 
+2074	1	2	2	2	data 
+2073	1	3	3	3	encoding 
+2072	1	3	3	3	log 
+2070	1	2	2	2	gav 
+2069	1	4	4	4	adding 
+2068	1	7	7	7	let 
+2066	2	3	3	4	let s 
+2065	1	2	2	2	fixes 
+2064	1	6	6	6	already 
+2062	1	2	2	2	large 
+2061	2	2	2	2	kind of 
+2060	1	4	4	4	unlikely 
+2058	1	18	13	13	0 
+2053	1	2	2	2	strong 
+2052	1	6	4	4	release 
+2049	1	3	3	3	buggy 
+2046	1	2	2	2	stack 
+2045	1	16	16	16	fixed 
+2044	2	2	2	2	fixed by 
+2043	2	3	3	3	fixed in 
+2039	1	8	7	7	hadoop 
+2038	1	2	2	2	remove 
+2037	1	9	8	8	trunk 
+2034	1	2	2	2	slightly 
+2033	1	9	9	9	weird 
+2030	1	3	3	3	windows 
+2029	1	2	2	2	functionality 
+2028	1	6	6	6	everything 
+2027	2	2	2	3	everything is 
+2026	1	3	3	3	always 
+2025	1	8	8	8	again 
+2024	2	2	2	3	again for 
+2021	1	2	2	2	package 
+2020	1	2	2	2	silly 
+2019	1	8	8	8	which 
+2018	1	3	3	3	hudson 
+2016	1	3	3	3	super 
+2015	2	2	2	2	super slow 
+2014	1	2	2	2	tool 
+2013	1	2	2	2	base 
+2011	1	2	2	2	until 
+2010	1	6	4	4	were 
+2009	1	4	4	4	wiki 
+2008	1	2	2	2	existing 
+2007	1	4	4	4	ie 
+2003	1	4	3	3	calls 
+2002	2	2	1	1	calls genericdata 
+2000	1	6	6	6	than 
+1998	2	3	3	3	faster than 
+1995	2	3	3	3	looked at 
+1994	1	2	2	2	mail 
+1993	1	2	2	2	typo 
+1991	1	7	7	7	done 
+1989	1	4	4	4	once 
+1988	2	2	2	2	once again 
+1987	1	3	3	3	segments 
+1986	1	2	2	2	catch 
+1985	1	3	3	3	replaced 
+1979	1	5	5	5	trivial 
+1977	1	3	3	3	design 
+1975	1	4	4	4	indeed 
+1974	1	3	3	3	someone 
+1972	1	2	2	2	non 
+1971	1	3	3	3	worse 
+1970	1	2	2	2	matters 
+1969	1	7	7	7	got 
+1968	2	2	2	2	went to 
+1967	1	7	7	7	other 
+1966	1	2	1	1	play 
+1965	1	2	2	2	word 
+1964	1	2	2	2	intended 
+1962	1	3	3	3	realized 
+1961	2	2	2	3	realized i 
+1960	1	7	7	7	had 
+1959	2	3	3	4	had a 
+1958	1	2	2	2	repo 
+1957	1	4	2	2	branch 
+1956	2	2	2	2	branch 1 
+1955	1	2	2	2	completely 
+1953	2	2	2	2	starting to 
+1952	1	9	9	9	doing 
+1951	2	2	2	4	doing it 
+1949	1	4	4	4	feature 
+1948	1	4	4	4	however 
+1946	1	3	3	3	sigh 
+1944	1	5	5	5	read 
+1943	1	2	2	2	become 
+1941	1	2	2	2	hdfs 
+1940	1	2	2	2	precommit 
+1939	1	4	4	4	forget 
+1938	1	2	2	2	clearly 
+1937	1	10	10	10	missed 
+1933	1	4	4	4	confused 
+1931	1	2	2	2	without 
+1930	1	3	3	3	such 
+1929	1	3	3	3	discussion 
+1927	1	2	2	2	under 
+1926	1	9	8	8	commit 
+1924	2	2	2	3	commit this 
+1923	1	2	2	2	errors 
+1922	1	2	2	2	seeing 
+1921	1	13	13	13	first 
+1916	1	2	2	2	agree 
+1915	1	3	3	3	simple 
+1914	1	2	2	2	directory 
+1913	1	4	4	4	put 
+1912	1	2	2	2	library 
+1910	1	3	3	3	sign 
+1909	1	7	7	7	comments 
+1908	1	2	2	2	bat 
+1907	1	6	6	6	changes 
+1906	1	5	5	5	every 
+1905	1	11	11	11	care 
+1901	1	5	5	5	class 
+1900	1	2	2	2	asking 
+1899	1	4	4	4	its 
+1898	1	13	13	13	these 
+1895	1	4	4	4	guess 
+1893	1	3	3	3	questions 
+1892	1	2	2	2	ask 
+1891	1	2	2	2	understand 
+1890	1	8	8	8	fine 
+1888	1	2	1	1	logical 
+1887	1	2	2	2	accept 
+1886	1	4	3	3	database 
+1885	1	2	2	2	default 
+1884	1	8	8	8	d 
+1882	2	2	2	2	d have 
+1881	1	2	2	2	advice 
+1880	1	6	6	6	gets 
+1879	2	2	2	2	gets confusing 
+1878	1	2	2	2	ivy 
+1875	1	2	2	2	serious 
+1874	1	7	7	7	sounds 
+1873	2	4	4	4	sounds like 
+1872	3	3	3	3	sounds like a 
+1870	2	2	2	4	sounds good 
+1868	1	3	3	3	heavy 
+1865	1	4	4	4	having 
+1862	1	4	3	3	solr 
+1860	1	4	4	4	around 
+1858	1	3	3	3	4 
+1857	2	2	2	2	4 x 
+1856	1	3	3	3	across 
+1855	1	3	3	3	config 
+1853	1	3	3	3	needed 
+1851	1	11	11	11	oh 
+1849	1	3	3	3	man 
+1848	2	2	2	2	man it 
+1847	1	2	2	2	tricky 
+1845	1	2	2	2	somehow 
+1844	1	2	2	2	detect 
+1843	1	2	2	2	prevent 
+1842	1	9	9	9	love 
+1841	2	2	2	4	love it 
+1840	2	4	4	5	love to 
+1838	1	6	5	5	java 
+1836	1	4	4	4	reason 
+1835	1	3	3	3	maybe 
+1834	1	4	3	3	x 
+1833	1	7	7	7	could 
+1832	1	4	3	3	whatever 
+1831	1	2	2	2	query 
+1830	1	2	2	2	far 
+1828	1	5	5	5	give 
+1827	2	2	2	3	give you 
+1826	1	12	12	12	ll 
+1823	1	2	2	2	unfortunately 
+1822	1	2	2	2	ie6 
+1820	1	4	4	4	removed 
+1819	2	2	2	4	removed the 
+1818	1	12	12	12	ve 
+1816	1	2	2	2	random 
+1815	1	6	6	6	add 
+1814	1	2	2	2	decided 
+1813	1	11	11	11	know 
+1812	2	3	3	3	know how 
+1811	1	3	3	3	server 
+1810	1	3	3	3	method 
+1809	1	2	2	2	saving 
+1808	1	3	2	2	state 
+1807	1	3	3	3	faces 
+1806	1	2	2	2	called 
+1805	1	2	2	2	sun 
+1804	1	7	7	7	working 
+1803	2	3	3	3	working on 
+1801	1	2	2	2	mechanism 
+1800	2	3	3	3	isn t 
+1799	1	5	5	5	them 
+1798	1	3	3	3	attaching 
+1797	1	9	9	9	sure 
+1796	2	2	2	2	sure what 
+1795	2	2	2	3	sure this 
+1794	1	2	2	2	closing 
+1793	1	2	2	2	finally 
+1792	1	3	3	3	request 
+1790	1	6	6	6	need 
+1789	2	2	2	3	need a 
+1788	2	2	2	2	need to 
+1787	1	10	10	10	does 
+1785	2	2	2	4	does not 
+1784	2	2	2	6	does this 
+1782	1	2	2	2	badly 
+1781	1	12	12	12	too 
+1780	2	4	4	4	too bad 
+1775	1	4	4	4	take 
+1774	1	4	4	4	jira 
+1773	1	5	5	5	using 
+1772	1	2	2	2	setup 
+1771	1	2	2	2	loader 
+1770	1	4	4	4	must 
+1769	2	2	2	2	must be 
+1768	1	2	2	2	classes 
+1766	1	11	10	10	code 
+1765	1	3	3	3	lose 
+1764	1	21	21	21	work 
+1763	2	5	5	5	work on 
+1761	3	3	3	5	work on this 
+1760	3	2	2	4	work this is 
+1758	2	17	17	17	didn t 
+1756	1	2	2	2	seemed 
+1755	1	2	2	2	appropriate 
+1754	1	10	10	10	more 
+1753	1	19	19	19	new 
+1752	2	2	2	3	new files 
+1751	2	3	3	5	new patch 
+1750	1	10	10	10	confusing 
+1747	1	3	3	3	named 
+1746	1	9	9	9	also 
+1745	1	3	3	3	happy 
+1744	2	2	2	3	happy to 
+1743	1	8	6	6	xml 
+1741	1	12	12	12	fix 
+1740	2	2	2	9	fix to 
+1739	2	2	2	7	fix the 
+1738	1	17	17	17	much 
+1737	3	2	2	2	much about the 
+1734	1	4	4	4	anything 
+1732	1	2	2	2	turning 
+1731	1	16	16	16	problem 
+1730	2	2	2	3	problem with 
+1729	2	5	5	8	problem is 
+1728	3	2	2	5	problem is that 
+1726	1	6	6	6	found 
+1725	2	4	4	5	found the 
+1724	3	2	2	2	found the issue 
+1722	2	2	2	2	verify that 
+1721	1	11	11	11	forgot 
+1720	2	8	8	9	forgot to 
+1719	3	2	2	2	forgot to mention 
+1718	3	3	3	3	forgot to add 
+1717	1	3	3	3	crap 
+1716	1	16	16	16	wrong 
+1710	1	15	15	15	now 
+1709	2	2	2	7	now that 
+1708	2	2	2	8	now i 
+1704	1	2	2	2	mistake 
+1703	1	2	2	2	connector 
+1702	1	5	5	5	system 
+1701	1	12	12	12	file 
+1699	1	22	21	21	really 
+1698	2	2	2	2	really confusing 
+1695	2	3	3	3	really sucks 
+1693	1	2	2	2	cannot 
+1692	1	11	11	11	why 
+1690	3	3	3	3	why the hell 
+1689	4	2	2	2	why the hell is 
+1688	1	9	9	9	error 
+1686	1	5	5	5	user 
+1683	1	4	4	4	thing 
+1681	1	2	2	2	push 
+1680	1	2	2	2	builds 
+1679	1	2	2	2	matt 
+1678	1	6	5	5	name 
+1677	1	2	2	2	exactly 
+1676	1	29	27	27	one 
+1675	2	2	2	2	one more 
+1674	2	3	3	9	one of 
+1673	3	2	2	6	one of the 
+1670	1	4	4	4	never 
+1669	1	3	3	3	e 
+1668	1	6	6	6	either 
+1666	1	10	9	9	used 
+1665	1	6	6	6	longer 
+1664	1	6	6	6	might 
+1663	2	3	3	6	might be 
+1661	1	2	1	1	ink 
+1660	1	18	18	18	some 
+1658	2	2	2	2	some new 
+1657	2	2	2	2	some of 
+1656	1	15	15	15	seems 
+1655	2	2	2	2	seems really 
+1654	2	3	3	4	seems like 
+1653	3	2	2	2	seems like a 
+1652	2	5	5	9	seems to 
+1651	3	3	3	3	seems to be 
+1650	1	2	2	2	boy 
+1649	1	6	5	5	git 
+1648	1	3	3	3	api 
+1647	1	5	5	5	bq 
+1645	1	4	4	4	public 
+1644	1	2	2	2	noticed 
+1643	1	6	6	6	quite 
+1641	1	5	5	5	us 
+1640	1	4	4	4	life 
+1639	1	4	4	4	their 
+1638	1	23	22	22	out 
+1637	2	5	5	7	out of 
+1636	2	2	2	7	out and 
+1635	2	3	3	12	out the 
+1634	1	3	3	3	years 
+1633	1	2	2	2	standard 
+1632	1	16	15	15	been 
+1630	2	2	2	3	been a 
+1629	1	28	28	28	like 
+1628	2	6	6	8	like a 
+1626	2	5	5	12	like the 
+1625	2	4	4	6	like this 
+1624	1	4	4	4	myself 
+1623	1	6	6	6	fuck 
+1622	1	14	14	14	did 
+1621	2	6	6	7	did not 
+1619	1	4	4	4	instead 
+1618	3	2	2	2	updating it to 
+1617	1	29	25	25	as 
+1616	2	3	3	4	as hell 
+1614	2	2	2	4	as we 
+1613	2	2	2	7	as a 
+1612	2	2	2	7	as if 
+1611	2	3	3	17	as the 
+1610	1	8	8	8	same 
+1609	1	2	2	2	exceptions 
+1608	1	3	3	3	things 
+1606	1	3	3	3	else 
+1605	1	8	8	8	something 
+1604	2	2	2	2	something else 
+1603	1	10	10	10	change 
+1602	2	3	3	9	change the 
+1600	1	16	15	15	or 
+1599	2	2	1	2	or whatever 
+1598	2	2	2	5	or not 
+1597	1	2	2	2	failure 
+1596	1	2	2	2	end 
+1595	2	3	3	3	easy to 
+1594	1	8	8	8	say 
+1593	2	2	2	2	say this 
+1592	1	4	4	4	trying 
+1591	2	3	3	3	trying to 
+1590	3	2	2	2	trying to get 
+1589	1	3	2	2	array 
+1588	2	2	2	2	array of 
+1587	1	8	8	8	idea 
+1584	1	10	10	10	see 
+1582	2	3	3	3	see if 
+1581	1	5	5	5	enough 
+1580	1	16	16	16	here 
+1579	2	2	2	3	here are 
+1578	2	6	6	8	here is 
+1576	3	2	2	3	here is the 
+1574	1	3	2	2	off 
+1573	1	3	3	3	screwed 
+1571	1	62	60	60	my 
+1569	2	2	2	2	my git 
+1568	2	36	36	37	my bad 
+1567	3	2	2	3	my bad i 
+1560	1	2	2	2	configurable 
+1559	1	5	5	5	totally 
+1558	1	3	3	3	said 
+1557	2	2	2	2	said i 
+1556	1	3	3	3	unless 
+1555	2	2	2	2	unless we 
+1554	1	3	3	3	move 
+1553	2	34	30	30	don t 
+1552	3	8	8	8	don t care 
+1551	4	2	2	3	don t care about 
+1549	3	5	5	5	don t know 
+1548	4	2	2	2	don t know how 
+1547	3	2	2	2	don t get 
+1546	3	3	3	3	don t want 
+1545	4	2	2	3	don t want to 
+1544	3	6	6	8	don t have 
+1543	1	2	2	2	local 
+1542	1	3	3	3	goes 
+1541	1	3	3	3	module 
+1540	1	2	2	2	node 
+1539	1	2	2	2	install 
+1538	1	11	11	11	when 
+1537	2	2	2	6	when the 
+1536	2	4	4	6	when i 
+1535	1	22	22	22	pretty 
+1534	2	3	3	3	pretty trivial 
+1532	2	3	3	3	pretty much 
+1531	1	3	3	3	broken 
+1530	1	3	3	3	switch 
+1529	1	3	3	3	c 
+1528	1	2	2	2	ascii 
+1527	1	5	5	5	old 
+1526	1	7	7	7	works 
+1525	1	8	6	6	they 
+1524	1	4	4	4	cases 
+1523	1	16	16	16	use 
+1522	2	2	2	2	use cases 
+1521	2	2	2	3	use case 
+1519	2	2	2	5	use a 
+1518	1	2	2	2	limit 
+1517	1	20	18	18	would 
+1513	2	6	5	6	would be 
+1512	3	2	2	3	would be bad 
+1511	2	2	2	7	would you 
+1510	1	2	2	2	aspect 
+1509	1	5	5	5	performance 
+1508	1	2	2	2	pure 
+1507	1	2	2	2	sense 
+1506	1	8	8	8	make 
+1505	2	3	3	3	doesn t 
+1504	1	23	23	23	all 
+1503	2	5	5	7	all of 
+1501	2	7	7	12	all the 
+1500	3	2	2	2	all i m 
+1499	2	2	2	5	all this 
+1498	1	2	2	2	imo 
+1497	1	6	6	6	since 
+1496	1	2	2	2	assigned 
+1495	1	18	13	13	2 
+1494	2	2	2	3	2 0 
+1493	2	2	2	5	2 2 
+1491	1	17	16	16	1 
+1490	2	2	2	3	1 0 
+1489	2	2	2	3	1 2 
+1487	1	10	7	7	3 
+1486	2	2	1	1	3 sstables 
+1485	2	2	2	2	3 1 
+1484	2	2	2	3	3 3 
+1483	1	2	2	2	created 
+1482	1	15	8	8	files 
+1481	2	4	1	1	files cpp 
+1476	1	4	3	3	output 
+1475	1	19	19	19	from 
+1474	3	2	2	2	from my side 
+1473	2	2	2	2	from hell 
+1472	2	2	2	8	from a 
+1471	2	5	5	10	from the 
+1470	1	19	18	18	test 
+1469	2	2	2	3	test that 
+1468	2	2	2	8	test a 
+1466	1	2	2	2	deleted 
+1465	1	2	2	2	stupidly 
+1464	1	10	9	9	being 
+1463	1	14	13	13	by 
+1461	2	2	2	7	by the 
+1460	1	19	19	19	bug 
+1459	2	2	2	4	bug in 
+1455	1	27	26	26	very 
+1454	2	5	5	6	very cool 
+1452	2	5	5	6	very much 
+1450	2	4	4	4	very bad 
+1449	1	9	9	9	has 
+1448	2	4	4	5	has been 
+1446	1	20	20	20	time 
+1445	2	4	4	11	time to 
+1444	3	2	2	2	time to try 
+1441	1	3	3	3	evil 
+1439	1	3	3	3	attributes 
+1436	1	3	3	3	show 
+1434	1	4	4	4	option 
+1430	1	3	3	3	entry 
+1426	1	6	6	6	go 
+1425	2	3	3	5	go to 
+1423	1	13	13	13	please 
+1422	3	2	2	2	please don t 
+1421	2	3	3	3	please go 
+1419	1	3	3	3	dependency 
+1417	1	22	22	22	an 
+1415	2	8	8	8	an idiot 
+1413	1	18	17	17	there 
+1412	2	2	2	2	there before 
+1411	2	2	2	2	there are 
+1410	2	3	3	3	there s 
+1409	2	8	8	10	there is 
+1407	3	2	2	3	there is no 
+1406	1	13	13	13	way 
+1405	2	4	4	7	way to 
+1403	1	4	4	4	against 
+1402	1	80	79	79	bad 
+1400	3	2	2	2	bad because it 
+1390	1	4	4	4	both 
+1389	1	4	4	4	currently 
+1388	1	3	3	3	environment 
+1387	1	2	2	2	dev 
+1386	1	10	10	10	our 
+1385	1	9	8	8	into 
+1382	1	20	20	20	get 
+1381	3	2	2	3	get back to 
+1379	2	2	2	5	get a 
+1378	2	3	3	15	get to 
+1377	2	3	3	14	get the 
+1376	1	33	33	33	hell 
+1374	2	3	3	10	hell of 
+1373	3	2	2	6	hell of a 
+1372	2	2	2	12	hell i 
+1368	1	2	2	2	linux 
+1367	1	2	2	2	welcome 
+1366	1	6	6	6	wow 
+1365	1	9	9	9	ok 
+1363	1	36	36	36	about 
+1362	2	2	2	4	about it 
+1361	2	11	11	13	about that 
+1357	2	7	7	10	about the 
+1356	2	4	4	6	about this 
+1354	1	30	30	30	your 
+1350	2	2	2	4	your comments 
+1349	2	4	4	6	your patch 
+1348	3	3	3	3	your patch is 
+1347	6	2	2	2	your patch is in trunk at 
+1346	1	11	11	11	want 
+1345	2	7	7	10	want to 
+1344	1	8	8	8	may 
+1343	2	2	2	2	may not 
+1342	1	8	8	8	case 
+1341	1	48	47	47	have 
+1340	2	5	5	6	have been 
+1339	2	2	2	3	have time 
+1338	2	2	2	3	have an 
+1336	2	6	6	14	have a 
+1335	2	4	4	13	have not 
+1334	2	5	5	26	have to 
+1331	2	4	4	23	have the 
+1330	2	2	2	16	have this 
+1329	1	21	21	21	sucks 
+1328	2	2	2	2	sucks why 
+1327	2	2	2	5	sucks to 
+1325	1	33	33	33	me 
+1324	2	2	2	2	me being 
+1323	2	4	4	7	me a 
+1322	2	2	2	19	me to 
+1319	1	2	2	2	reasonable 
+1318	1	29	28	28	looks 
+1317	2	2	2	2	looks fine 
+1316	2	5	5	5	looks like 
+1315	2	12	11	13	looks good 
+1314	3	2	1	1	looks good we 
+1310	1	4	4	4	svn 
+1309	1	4	4	4	hate 
+1308	1	10	10	10	after 
+1307	1	2	1	1	blooper 
+1306	1	26	26	26	damn 
+1304	2	2	2	2	damn time 
+1303	2	6	6	9	damn it 
+1301	2	3	3	6	damn i 
+1298	1	10	10	10	well 
+1296	1	7	7	7	framework 
+1295	2	2	2	2	framework for 
+1294	1	8	8	8	build 
+1293	2	2	2	5	build is 
+1292	1	24	23	23	what 
+1291	2	3	3	4	what we 
+1290	2	2	2	7	what a 
+1289	2	4	4	12	what the 
+1287	2	5	5	16	what i 
+1286	1	2	2	2	format 
+1285	1	12	11	11	only 
+1284	2	2	2	5	only a 
+1283	1	3	3	3	support 
+1270	1	13	13	13	because 
+1269	2	4	4	4	because it 
+1268	2	3	3	8	because the 
+1267	2	2	2	7	because i 
+1266	1	8	8	8	then 
+1264	1	2	2	2	committing 
+1263	1	190	190	190	sorry 
+1261	2	18	18	23	sorry about 
+1260	3	10	10	11	sorry about that 
+1254	2	2	2	18	sorry it 
+1253	2	3	3	12	sorry but 
+1252	2	40	40	46	sorry for 
+1251	4	2	2	3	sorry for all the 
+1249	3	28	28	35	sorry for the 
+1248	4	8	8	8	sorry for the noise 
+1243	4	7	7	8	sorry for the delay 
+1240	2	5	5	28	sorry that 
+1233	2	5	5	28	sorry to 
+1232	2	3	3	72	sorry the 
+1231	2	25	25	54	sorry i 
+1230	3	3	3	3	sorry i thought 
+1228	4	2	2	4	sorry i didn t 
+1227	3	2	2	9	sorry i was 
+1225	2	4	4	8	sorry guys 
+1215	1	7	7	7	made 
+1214	1	6	6	6	who 
+1212	1	75	72	72	patch 
+1211	2	2	2	2	patch erik 
+1210	2	2	2	8	patch applied 
+1209	4	2	2	2	patch has been applied 
+1208	2	6	6	6	patch looks 
+1207	3	4	4	5	patch looks good 
+1205	3	2	2	6	patch but i 
+1204	2	2	2	25	patch for 
+1202	2	2	2	14	patch in 
+1201	2	2	2	5	patch with 
+1200	2	5	5	8	patch was 
+1199	2	2	2	24	patch i 
+1198	2	8	8	15	patch is 
+1190	1	3	3	3	original 
+1189	1	6	6	6	close 
+1188	2	2	2	3	close this 
+1187	1	6	6	6	actually 
+1186	1	75	70	70	t 
+1185	3	2	2	2	t upload the 
+1181	2	7	7	8	t know 
+1179	2	2	2	2	t say 
+1178	2	2	2	3	t use 
+1177	2	2	2	3	t make 
+1176	2	3	3	5	t get 
+1172	2	3	3	8	t be 
+1171	1	21	20	20	can 
+1170	2	7	7	9	can t 
+1169	2	2	2	5	can you 
+1168	1	9	9	9	though 
+1167	2	3	3	6	though i 
+1165	1	10	10	10	stuck 
+1163	1	47	44	44	be 
+1162	3	5	4	4	be able to 
+1160	2	2	2	3	be used 
+1159	2	2	2	3	be very 
+1157	2	2	2	2	be stuck 
+1156	2	3	3	13	be a 
+1155	2	3	3	21	be the 
+1154	2	2	2	2	be lost 
+1153	1	5	5	5	still 
+1152	1	18	18	18	will 
+1151	2	4	4	6	will be 
+1150	2	2	2	2	will still 
+1149	1	7	7	7	suck 
+1147	1	12	12	12	different 
+1144	1	15	15	15	back 
+1142	2	3	3	5	back to 
+1141	1	158	140	140	it 
+1138	2	2	2	5	it also 
+1137	2	2	2	3	it wrong 
+1136	3	2	2	2	it either way 
+1135	2	6	6	6	it seems 
+1133	2	2	2	3	it works 
+1132	2	2	2	6	it would 
+1131	3	2	2	2	it doesn t 
+1130	2	2	2	3	it has 
+1129	2	2	2	4	it into 
+1128	2	4	4	5	it may 
+1127	2	2	2	4	it looks 
+1126	2	4	4	9	it will 
+1125	3	2	2	4	it will be 
+1123	2	3	3	33	it in 
+1122	2	4	4	58	it to 
+1121	2	7	7	13	it was 
+1120	2	22	21	24	it s 
+1118	3	2	2	3	it s been 
+1117	3	6	6	8	it s not 
+1115	2	18	16	43	it is 
+1114	3	3	3	11	it is a 
+1113	4	2	2	2	it is a dup 
+1112	3	2	2	10	it is not 
+1105	1	7	7	7	pull 
+1103	1	6	6	6	making 
+1102	1	11	11	11	where 
+1101	2	3	3	4	where it 
+1100	3	2	2	3	where it is 
+1099	2	2	2	6	where this 
+1097	1	35	34	34	at 
+1096	2	2	2	4	at revision 
+1095	2	3	3	13	at it 
+1094	2	4	4	4	at least 
+1093	2	2	2	14	at a 
+1092	2	5	5	16	at the 
+1091	1	2	2	2	commons 
+1090	1	51	50	50	but 
+1089	3	2	2	3	but then i 
+1088	2	6	6	24	but it 
+1087	4	2	2	2	but it seems like 
+1086	3	3	3	3	but it s 
+1085	2	3	3	7	but we 
+1084	2	2	2	15	but not 
+1083	2	3	3	28	but the 
+1082	2	10	10	31	but i 
+1081	3	2	2	2	but i will 
+1080	2	2	2	11	but this 
+1079	1	2	2	2	while 
+1078	1	26	25	25	good 
+1077	2	2	2	2	good work 
+1074	2	6	6	8	good to 
+1070	1	163	156	156	for 
+1069	2	3	3	3	for taking 
+1068	5	2	2	2	for taking care of this 
+1066	2	2	2	2	for pointing 
+1065	2	2	2	2	for fixing 
+1064	4	3	3	3	for looking into this 
+1063	2	3	3	3	for every 
+1062	2	2	2	3	for some 
+1061	2	2	2	2	for years 
+1059	2	2	2	2	for being 
+1058	2	12	12	14	for your 
+1056	3	4	4	4	for your help 
+1054	2	4	4	15	for that 
+1052	2	4	4	28	for a 
+1051	3	2	2	2	for a different 
+1050	2	65	63	83	for the 
+1041	3	3	3	3	for the review 
+1039	3	4	4	4	for the reviews 
+1036	3	2	2	2	for the moment 
+1035	3	9	9	20	for the patch 
+1033	2	8	8	34	for this 
+1031	1	123	116	116	that 
+1029	2	3	3	3	that does 
+1027	2	2	2	3	that seems 
+1026	2	2	2	9	that my 
+1025	2	3	3	6	that would 
+1024	3	2	2	2	that would be 
+1023	2	8	8	10	that sucks 
+1021	2	5	5	27	that it 
+1020	3	2	2	7	that it s 
+1018	2	3	3	9	that you 
+1017	2	5	5	10	that was 
+1016	2	14	14	24	that s 
+1014	2	5	5	39	that the 
+1013	2	10	10	42	that i 
+1011	4	2	2	3	that i don t 
+1010	3	2	2	4	that i think 
+1009	2	4	4	34	that is 
+1008	2	3	3	24	that this 
+1004	1	45	44	44	on 
+1002	3	2	2	2	on top of 
+1000	2	4	4	4	on earth 
+999	2	4	4	15	on a 
+998	2	12	12	19	on this 
+996	1	11	10	10	idiot 
+993	1	2	2	2	root 
+992	1	3	3	3	kill 
+991	1	30	29	29	just 
+990	1	24	24	24	should 
+989	2	4	4	10	should have 
+988	3	2	2	2	should have been 
+987	2	4	4	7	should be 
+985	1	23	22	22	shit 
+983	2	2	2	9	shit i 
+980	1	72	69	69	of 
+979	2	2	2	2	of mine 
+978	2	3	3	3	of course 
+976	2	2	2	4	of us 
+975	2	2	2	3	of their 
+974	2	3	3	6	of my 
+973	2	2	2	4	of our 
+972	2	5	5	29	of a 
+971	2	7	7	33	of the 
+970	2	4	4	17	of this 
+969	1	15	14	14	up 
+968	2	2	2	3	up in 
+965	1	7	7	7	going 
+964	2	5	5	6	going to 
+963	3	2	2	2	going to do 
+962	1	11	11	11	re 
+960	2	2	2	2	re pretty 
+958	1	44	32	32	we 
+957	2	2	2	2	we were 
+956	2	2	2	3	we ll 
+955	2	2	2	3	we need 
+954	3	3	3	6	we don t 
+953	2	2	2	6	we all 
+952	2	4	4	6	we can 
+951	3	2	2	2	we can t 
+950	2	4	4	4	we should 
+949	3	2	2	3	we should just 
+948	2	3	3	4	we re 
+947	3	2	2	2	we re actually 
+946	2	2	2	4	we are 
+945	2	2	2	5	we do 
+944	1	25	25	25	think 
+943	2	2	2	2	think about 
+941	2	2	2	5	think we 
+935	1	88	83	83	and 
+934	3	3	3	12	and thanks for 
+933	4	2	2	8	and thanks for the 
+932	2	2	2	3	and everything 
+930	2	2	2	13	and sorry 
+929	2	3	3	7	and we 
+928	2	2	2	11	and not 
+927	2	8	8	52	and the 
+926	3	2	2	2	and the other 
+925	3	2	2	5	and the problem 
+924	3	2	2	2	and the whole 
+923	2	7	7	44	and i 
+921	1	98	93	93	in 
+918	2	2	2	2	in fact 
+917	2	2	2	4	in 0 
+916	2	3	3	4	in trunk 
+913	2	8	8	33	in a 
+910	2	25	25	45	in the 
+909	2	4	4	20	in this 
+906	1	5	5	5	down 
+903	1	27	26	26	are 
+901	2	3	3	9	are you 
+900	2	3	2	4	are a 
+899	2	2	2	3	are not 
+898	1	97	89	89	you 
+896	2	2	2	4	you know 
+895	3	2	2	6	you don t 
+891	2	3	3	9	you have 
+890	2	3	3	3	you made 
+888	2	4	4	6	you re 
+887	3	2	2	2	you re right 
+886	2	7	7	11	you think 
+884	2	4	4	9	you are 
+882	2	4	4	4	you guys 
+878	1	3	2	2	quote 
+877	1	161	143	143	a 
+876	2	2	2	2	a little 
+875	2	2	2	4	a look 
+874	2	3	3	3	a bit 
+872	2	2	2	2	a long 
+871	2	3	3	3	a few 
+867	2	2	2	2	a shot 
+866	2	12	12	12	a lot 
+863	3	2	2	2	a lot of 
+862	2	5	5	7	a new 
+861	3	2	2	2	a really bad 
+860	2	3	3	4	a pretty 
+859	2	2	2	8	a test 
+858	2	4	4	9	a bug 
+856	2	2	2	5	a way 
+855	2	3	3	11	a bad 
+854	2	2	2	2	a chance 
+853	2	5	5	13	a patch 
+852	3	2	2	5	a patch that 
+850	2	4	4	7	a good 
+848	2	3	3	4	a whole 
+847	2	3	3	6	a stupid 
+846	1	2	2	2	generate 
+845	1	8	8	8	even 
+843	1	70	66	66	not 
+842	2	5	5	6	not sure 
+841	3	2	2	2	not too bad 
+840	2	2	2	3	not get 
+839	2	3	3	13	not have 
+838	3	2	2	2	not going to 
+837	2	4	4	19	not a 
+835	2	2	2	3	not even 
+834	2	3	3	25	not to 
+833	2	3	3	33	not the 
+831	1	27	26	26	do 
+830	2	3	3	9	do it 
+829	2	2	2	5	do that 
+828	2	2	2	15	do the 
+827	2	3	3	6	do this 
+825	1	2	2	2	u 
+824	1	45	44	44	if 
+822	2	2	2	2	if they 
+821	3	2	2	3	if can t 
+820	2	2	2	20	if it 
+819	2	2	2	7	if that 
+818	2	2	2	4	if we 
+817	2	15	15	18	if you 
+816	3	2	2	2	if you want 
+815	3	2	2	3	if you can 
+813	2	2	2	18	if the 
+812	2	3	3	22	if i 
+811	3	2	2	5	if i can 
+809	2	4	4	13	if this 
+807	1	21	20	20	issue 
+806	2	2	2	5	issue and 
+801	1	241	191	191	to 
+799	2	2	2	2	to hear 
+797	2	2	2	2	to help 
+796	3	2	2	2	to let you 
+795	2	2	2	3	to read 
+794	2	2	2	2	to sign 
+793	2	2	2	2	to give 
+792	2	4	4	5	to add 
+791	2	2	2	3	to take 
+790	4	2	2	2	to ensure that the 
+789	2	3	3	6	to work 
+788	2	4	4	9	to fix 
+787	2	2	2	2	to include 
+786	2	2	2	5	to change 
+785	2	4	4	7	to see 
+784	3	2	2	2	to see if 
+783	2	2	1	7	to my 
+782	2	7	7	11	to use 
+781	3	2	2	7	to use it 
+780	2	4	4	6	to make 
+779	2	2	2	7	to 1 
+778	2	3	3	10	to test 
+777	3	2	2	2	to test this 
+775	2	2	2	5	to go 
+773	2	10	10	15	to get 
+772	3	3	3	13	to get it 
+771	3	2	2	6	to get to 
+770	2	11	10	26	to have 
+769	3	2	2	12	to have it 
+768	3	2	2	9	to have a 
+767	3	2	2	13	to have the 
+766	2	10	10	19	to me 
+764	2	2	2	4	to build 
+763	2	12	11	23	to be 
+762	4	2	1	3	to be able to 
+761	3	2	2	9	to be a 
+760	2	3	3	58	to it 
+758	2	2	2	3	to kill 
+757	2	2	2	9	to just 
+756	2	4	4	31	to you 
+754	2	3	3	55	to a 
+753	2	9	9	14	to do 
+752	3	2	2	5	to do this 
+751	2	12	12	90	to the 
+750	3	3	3	4	to the wrong 
+748	2	4	4	51	to this 
+746	1	13	12	12	am 
+744	2	2	2	12	am i 
+743	1	14	14	14	how 
+741	2	4	4	11	how to 
+740	2	2	2	6	how the 
+739	1	5	5	5	nothing 
+738	1	25	23	23	no 
+737	2	5	5	5	no longer 
+733	4	2	2	2	no it s not 
+732	1	32	31	31	with 
+731	2	2	2	3	with thanks 
+730	2	2	2	12	with a 
+729	2	4	4	12	with the 
+728	1	50	48	48	was 
+727	2	2	2	2	was committed 
+726	2	2	2	3	was fixed 
+725	2	2	2	2	was trying 
+723	2	3	3	13	was a 
+722	2	4	4	8	was not 
+721	2	2	2	23	was the 
+720	1	57	54	54	s 
+713	2	2	2	2	s pretty 
+712	2	7	7	10	s not 
+710	2	3	3	20	s the 
+709	1	5	5	5	hbase 
+707	1	4	4	4	cause 
+706	1	2	2	2	morning 
+705	1	9	9	9	whole 
+703	1	352	264	264	the 
+702	2	2	2	3	the report 
+701	2	9	9	9	the noise 
+698	2	2	2	3	the missing 
+697	2	3	3	3	the confusion 
+695	2	3	3	4	the trouble 
+693	2	4	2	3	the source 
+692	3	3	1	1	the source release 
+691	4	2	1	1	the source release is 
+690	2	2	2	2	the port 
+684	2	2	2	3	the tests 
+683	2	4	4	5	the right 
+680	2	2	2	2	the resource 
+679	2	2	2	3	the latest 
+677	2	2	1	1	the black 
+675	2	2	2	2	the biggest 
+674	2	2	2	3	the encoding 
+673	2	2	2	3	the wiki 
+672	2	3	3	5	the other 
+671	3	2	1	1	the complexity of 
+670	2	4	4	5	the first 
+669	3	3	3	3	the first time 
+667	2	2	2	3	the comments 
+666	2	3	2	3	the database 
+665	2	3	3	5	the code 
+664	2	4	4	7	the new 
+663	2	2	2	7	the fix 
+662	2	7	7	12	the problem 
+661	3	3	3	7	the problem is 
+660	2	7	7	10	the wrong 
+658	3	2	2	4	the wrong patch 
+657	2	2	2	2	the federated 
+656	2	2	2	9	the file 
+655	2	3	3	6	the error 
+654	2	6	6	7	the same 
+653	2	2	2	9	the change 
+652	2	7	7	11	the test 
+651	2	2	2	9	the very 
+650	2	2	2	12	the time 
+648	2	10	10	16	the hell 
+646	2	2	2	4	the case 
+645	2	2	2	4	the framework 
+644	2	25	25	40	the patch 
+643	3	2	2	4	the patch was 
+642	3	2	2	7	the patch is 
+638	2	2	2	2	the original 
+637	2	6	6	10	the issue 
+634	2	4	4	5	the whole 
+633	1	5	5	5	lost 
+632	2	2	2	2	lost the 
+631	1	297	236	236	i 
+630	2	2	2	2	i meant 
+629	2	2	2	2	i misunderstood 
+628	3	3	3	5	i haven t 
+627	2	2	2	2	i hope 
+626	2	3	3	3	i believe 
+625	2	5	5	5	i thought 
+624	4	2	2	2	i won t be 
+623	2	2	2	2	i ran 
+622	2	2	2	3	i had 
+621	2	6	6	6	i missed 
+620	3	2	2	2	i missed some 
+619	3	2	2	4	i missed the 
+618	2	2	2	2	i sent 
+617	4	2	2	2	i guess i m 
+616	2	5	5	5	i d 
+615	3	2	2	2	i d say 
+614	2	2	2	2	i disagree 
+613	2	3	3	8	i love 
+612	2	2	2	4	i could 
+611	2	8	8	10	i ll 
+610	4	2	2	2	i ll commit shortly 
+608	2	11	11	11	i ve 
+607	3	3	3	3	i ve been 
+606	3	8	8	12	i didn t 
+605	4	2	2	2	i didn t know 
+604	2	2	2	5	i also 
+603	2	4	4	6	i found 
+602	3	3	3	5	i found the 
+601	2	6	6	7	i forgot 
+600	3	4	4	6	i forgot to 
+599	4	2	2	3	i forgot to add 
+598	2	5	4	10	i really 
+596	2	2	2	6	i used 
+595	2	3	3	14	i like 
+594	2	9	9	10	i did 
+593	3	5	5	6	i did not 
+592	4	2	2	4	i did not have 
+591	3	2	2	3	i see that 
+590	4	2	2	2	i screwed up the 
+589	3	19	17	23	i don t 
+588	4	4	4	5	i don t care 
+587	4	4	4	5	i don t know 
+586	4	2	2	3	i don t want 
+585	4	5	5	7	i don t have 
+584	2	5	5	10	i would 
+583	3	4	4	4	i would love 
+582	4	3	3	3	i would love to 
+581	5	2	2	2	i would love to have 
+580	2	2	2	13	i get 
+579	2	3	3	7	i want 
+578	3	2	2	7	i want to 
+577	2	12	12	29	i have 
+576	3	2	2	8	i have not 
+575	4	3	3	3	i have no idea 
+574	5	2	2	2	i have no idea if 
+573	2	2	2	3	i hate 
+572	2	44	43	43	i m 
+571	3	2	2	2	i m glad 
+570	3	3	3	3	i m confused 
+567	3	6	6	7	i m an 
+566	4	5	5	5	i m an idiot 
+564	3	2	2	2	i m against 
+563	3	3	3	9	i m sorry 
+562	3	8	8	11	i m not 
+561	4	3	3	3	i m not sure 
+560	2	5	5	10	i can 
+559	3	2	2	4	i can t 
+558	2	7	7	10	i will 
+557	2	6	6	16	i just 
+556	2	14	14	18	i think 
+555	3	2	2	4	i think you 
+553	3	3	3	8	i think i 
+552	4	2	2	2	i think i found 
+550	2	11	10	12	i am 
+549	3	2	2	2	i am currently 
+548	2	11	11	26	i was 
+547	1	17	17	17	stupid 
+546	3	2	2	2	stupid user error 
+544	1	36	34	34	so 
+543	2	2	2	2	so quickly 
+542	3	2	2	2	so long to 
+541	2	4	4	4	so much 
+539	2	2	1	2	so very 
+538	2	2	2	9	so it 
+537	2	2	2	5	so a 
+536	2	2	2	12	so the 
+535	2	7	7	18	so i 
+534	1	171	160	160	is 
+533	2	2	2	2	is failing 
+530	2	2	2	5	is cool 
+529	2	2	2	4	is already 
+527	2	2	2	4	is doing 
+524	2	2	2	3	is working 
+522	2	2	2	5	is now 
+521	2	3	3	6	is really 
+520	2	4	4	4	is quite 
+518	2	5	5	9	is pretty 
+516	2	2	2	2	is broken 
+515	2	2	2	4	is being 
+514	2	3	3	6	is very 
+513	2	3	3	4	is an 
+511	2	6	6	22	is bad 
+509	2	3	3	4	is only 
+508	2	3	3	4	is stuck 
+506	2	3	3	43	is it 
+505	2	8	8	34	is that 
+504	3	2	2	15	is that it 
+503	3	2	2	15	is that the 
+501	2	4	4	29	is in 
+499	2	15	15	45	is a 
+496	2	7	7	26	is not 
+494	2	2	2	49	is to 
+491	2	3	3	10	is so 
+490	2	2	2	63	is this 
+488	1	188	176	176	this 
+486	2	2	2	2	this ticket 
+485	2	2	2	3	this code 
+484	2	2	2	6	this problem 
+483	2	2	2	8	this really 
+482	2	8	8	15	this one 
+479	2	2	2	7	this out 
+478	2	2	2	6	this would 
+477	2	3	3	9	this bug 
+476	3	2	2	6	this bug is 
+475	2	2	2	4	this has 
+473	2	6	6	7	this looks 
+472	3	2	2	2	this looks good 
+471	2	5	5	11	this patch 
+470	2	2	2	15	this just 
+469	2	2	2	8	this should 
+468	2	2	2	6	this shit 
+467	2	2	2	20	this in 
+466	2	7	6	6	this issue 
+463	2	2	2	51	this to 
+462	2	9	9	12	this was 
+460	3	2	2	4	this was a 
+458	2	2	2	37	this the 
+457	2	35	35	63	this is 
+456	3	5	5	7	this is awesome 
+450	3	3	3	4	this is just 
+449	3	5	5	22	this is a 
+448	4	2	2	2	this is a great 
+441	1	13	13	13	guys 

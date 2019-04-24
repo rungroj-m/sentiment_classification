@@ -1,0 +1,1852 @@
+
+guys this is so stupid 
+
+i lost the whole morning cause hbase s regionserver was dying with no logs no nothing how am i supposed to debug the issue if u do not even generate a core dump 
+
+ quote you are messing down deep below hbase in dfs 
+
+and i think if we re going to do a sweep up of shit we should just kill root 
+
+ idiot yeah i was on that idiot path for a good while but commons lang is a hairball at least where this hashcode making and equals is concerned 
+
+pull it back in if you think different 
+
+i suck 
+
+will still be stuck in the loop though if ca n t actually close regions 
+
+original edited patch was messed up stupid sed 
+
+who made this stupid rule 
+
+sorry but this is just stupid 
+
+but i will quit committing to hama then because i m not going to support only a binary format 
+
+this is not what i build a framework for 
+
+well damn 
+
+blooper after blooper i hate svn 
+
+this looks reasonable to me sucks we have to special case handling of 
+
+you may want to carefully examine your assumption about this 
+
+ok wow welcome to linux hell 
+
+if i get a chance i may even roll it into our dev environment but i am currently in the middle of mem leak hell 
+
+both equally bad 
+
+negative i am against fetch groups in principle 
+
+this way lies metadata hell 
+
+shit there is an dependency please go to preferences ldap entry editor and enable the option show operational attributes 
+
+damn 
+
+damn 
+
+damn 
+
+the evil npe strik back 
+
+bloody hell 
+
+damn time has flown 
+
+damn it 
+
+this was a very bad bug introduced by me being an idiot 
+
+i have stupidly deleted the original test dir but judging from the suite s output files no output was created after 3 1 2 hours 
+
+damn this was assigned to you since months 
+
+imo all this just does n t make sense from a pure performance aspect 
+
+inserting timestamps automagically would be bad because it would limit a whole swath of use cases 
+
+if they do then suse s cpio works for old ascii but the c switch is broken 
+
+this is pretty embarassing 
+
+when you install a node module globally it goes into usr local where you do n t have permissions to move shit into unless you sudo 
+
+that being said i m not totally opposed to making the limit configurable 
+
+my bad i screwed up the assertion runtimeexception transition 
+
+well that sucks 
+
+no it s not off the table but it s moot unless we decide we want cqlsh in tree at all 
+
+ok here is a patch that works i was stupid enough not to see it 
+
+it was a pretty stupid idea to use a static array of instances for quorumopmonitor 
+
+all i m trying to say is that it s pretty easy to end up in propagation failure hell here or change something else that blows things up for use cases that are not foreseen 
+
+just to clarify you made the dtpe handle exceptions the same way as cassandradaemon by updating it to use nbhs instead of csls did you just tell me to go fuck myself 
+
+ 1 damn intellij it s not like patch format has n t been standard for years 
+
+wow it s like thrift is going out of their way to make life suck for us this month 
+
+here is quite bad 
+
+ the samples you gave are different 
+
+i just noticed your public tweet bq wilhelmbierbaum true fuck the avro c api 
+
+if so can you see if you can git bisect this bad boy 
+
+it seems some of the wrappers in ink hrtime h might no longer be used either e g ink gettimeofday is never used so lets get rid of that shit 
+
+heh that s one hell of a bug 275 bytes exactly eh 
+
+what a stupid name i chose for that object 
+
+i think it s time to just close this issue 
+
+i m not entering bogus reports for the hell of it matt
+
+i am currently trying to get it into ajdt dev builds but my git push is timing out damn thing 
+
+stupid maven
+
+ok stupid user error here 
+
+why the hell do they deliver duration if they can not instantiate it 
+
+the defect from hell 666 be scared 
+
+this really sucks 
+
+why the hell is this not a bug 
+
+what the hell are you waiting for 
+
+i suspect it has nothing to do with the file system connector or infinispan connectors and is simply a stupid mistake in the federated join processor 
+
+i m an idiot 
+
+it really sucks that there is now way currently to include transitive dependencies 
+
+i m an idiot there s nothing wrong with the readme txt 
+
+crap forgot to verify that this is inconsistant with mri it s not 
+
+please close as this is just me being stupid 
+
+holy hell i think i found one problem with turning a bignum into anything else 
+
+this sucks so much 
+
+damn i would close this out from the fix to jbseam 3742 except the quartz and seampay examples use a custom xml namespace and the xml schema validator is not happy with that 
+
+ damn i forgot 
+
+also your username was stupidly named and confusing so i deleted it and created a new one more appropriate 
+
+damn it seemed it did n t work 
+
+it sucks to lose the code readability but it seems like a reasonable price to pay 
+
+i do n t have to ensure that the classloader knows groovy classes you must do that 
+
+and debugging is hell because the test environment needs to have the exact same loader setup 
+
+who the hell starts using our jira for typing lessons 
+
+fuck u
+
+hell this is gon na take me a lot of work to raise 
+
+that irritated the hell out of me too but i did n t realise it was configurable in the launch file 
+
+this sucks badly 
+
+why on earth does createlink need a request 
+
+finally closing this bug from hell 
+
+i sure as hell do n t want to start attaching models for the sake of detaching them directly afterwards 
+
+that sucks why is n t the escape mechanism working 
+
+i am an idiot this was a dupe of guvnor 84
+
+sun ri sucks why the hell is savestate and restorestate not called with with javax faces state saving method server 
+
+swear to god i m not a total idiot 
+
+i do n t know how the hell my diff program decided to add seemingly random cr chars but i ve removed them now 
+
+durrrh that sucks 
+
+i m stuck with ie6 unfortunately 
+
+what the hell i ll give this a shot 
+
+ quote searcher getatomicreader getsorteddocvalues uniquekey quote this is a performance killer 
+
+as far as the query shit i have no idea if solrdispatchfilter or whatever could should do thread currentthread setname x or whatever and maybe restore after 
+
+btw this is one reason why i hate this autoboxing shit since java 5 i would love to have a way to prevent it in code forbidden checks should detect this somehow 
+
+hmm that sucks 
+
+tricky shit man i think i found the issue 
+
+oh man it s a fucking precendence problem 
+
+ugh well that sucks 
+
+i did n t know we needed to retain backwards config capability across 3 x to 4 x that sucks and it ll make old code stick around longer 
+
+bq this is solr s fault by having a getter that does some heavy duty xml shit 
+
+that sounds like some serious buck passing 
+
+this whole thing is very distressing to me 
+
+i think we all know it just sucks 
+
+though i disagree with a signficant amount of statements you made i do n t think we would ever come to agreement anyway 
+
+ that s some freaky shit 
+
+i think you made mistakes in ivy xml 
+
+this is where it gets confusing 
+
+if i can give you one advice on this one i d say this fuck derby use h2 instead as the default embedded database 
+
+what the hell 
+
+ do nothing are you serious about that 
+
+ oleg please accept that my logical is different from your logical 
+
+so i m fine with your logic but given that i do n t understand it please do n t get upset when i ask questions on how i have to use it 
+
+this was my bad 
+
+the rest are totally unrelated 
+
+oh fuck sorry not my day more beer needed 
+
+sorry i guess i m against never computing this shit because you guys think returning nan is ok 
+
+ if you want to make these optimizations fix the apis so its intuitive otherwise no way 
+
+who the fuck is asking for scores but not the max score and why does their insanely specialized use case justify all these booleans on a central lucene class 
+
+i do n t care about code duplication here 
+
+ we should not invoke the global synced fieldnumbers shit for every element only when the setting actually changes
+
+i disagree and i guess i m willing to go to bat for this 
+
+holy shit 
+
+ i think the comments here are a bad sign i sent us down an unfortunate slippery slope we are a search engine library do n t put shit in the index directory or we will delete your shit dead simple 
+
+i wholeheartedly agree this api is confusing as hell 
+
+not only it s the first one in my life i m seeing multiple ways of closing the same thing it also conceals programming errors 
+
+sucks to rush a commit when an issue is under discussion 
+
+i m against such heavy committing myself without some consensus to do so 
+
+i m confused 
+
+ i hated that aspect of working for commercial companies 
+
+my bad 
+
+my bad 
+
+igor is an idiot and we do need gmake 
+
+shit i missed a cast 
+
+but even if it was n t it would be totally worthless where it is at 
+
+this is clearly bad webserver behaviour 
+
+forget what i made d8067 
+
+precommit hdfs build is stuck 
+
+so it is stuck somewhere 
+
+i do n t want one offs like this to become lost and forgotten 
+
+but now that i think about it it may crap out when coming back to read even on a recovered file 
+
+ matt i m an idiot i used the wrong patch sigh 
+
+i m however very interested in this feature as it is essential to me 
+
+bq this is solr s fault by having a getter that does some heavy duty xml shit 
+
+holy complicated as shit algorithm batman the complexity of our implementation vs the complexity of what we re actually doing is starting to worry me here 
+
+it also happens at the very startup after he has loaded only 3 sstables hence datatracker likely have 3 sstables not a shit load 
+
+shit my bad the posted patch is from a completely wrong branch of my git repo i had not realized i ran the test patch against a branch not branch 1 
+
+ in this particular case hoss clearly intended to use the no no word as an intensifier and not to stir shit 
+
+maybe only one of us should play lawyer and the other one play engineer 
+
+ i used to be the latter but then i went to law school and got a degree in this shit 
+
+then to make matters worse since the mid 1990 s i ve been offering pro bono advice to non profit foundations whose members insult me regularly and assume i m an amateur 
+
+someone but i m not sure who owes me a public apology here larry 
+
+shit there is an dependency please go to preferences ldap entry editor and enable the option show operational attributes 
+
+that s bad content type from gsoap 
+
+pull it back in if you think different 
+
+hmm this is quite bad 
+
+you are messing down deep below hbase in dfs 
+
+damn it sry lost the orientation 
+
+oh my stupid 
+
+oh geez i m an idiot 
+
+ jira i wish you did n t suck so much 
+
+indeed that would be very bad design 
+
+my bad 
+
+ how bad is this 
+
+i m confused 
+
+this is pretty trivial 
+
+of course it could doh 
+
+then you re pretty well screwed 
+
+damn chuck is scary 
+
+this is bad 
+
+well that sucks 
+
+bad memory 
+
+the state stuck at allocated state it is a dup of 3788 
+
+this is a pretty awful bug 
+
+replaced patch with fix to catch more bad variables
+
+does this suck 
+
+of course strfieldsource is a private class no it s not 
+
+css is really confusing sometimes 
+
+django is a fullstack framework click is not 
+
+my bad 
+
+credit of course goes to dick 
+
+it seems really confusing 
+
+ 1 for this my bad 
+
+hell or high water 
+
+ 1 to jar hell 
+
+that would suck 
+
+if so a test that succeeds with errors is confusing as hell 
+
+if the different segments are somewhat homogeneous then these stats should pretty much be very close anyway 
+
+this is pretty trivial just adds three asserts to testpath testnormalize 
+
+i doubt that squid is so bad at it 
+
+it s not too bad once cacheconfig is in 
+
+not too bad though since clearing out commitlog segments is easily done 
+
+ah my bad 
+
+my bad had a typo in the subscription e mail 
+
+my bad 
+
+yep my bad 
+
+pull it back in if you think different 
+
+tabs are evil 
+
+i looked at our distributed pom xml and they re pretty obscure 
+
+once per every bad disk 
+
+hell unaryfunction might even be faster than all of these calls in a row 
+
+this was very bad documented 
+
+damn 
+
+pull it back in if you think different 
+
+ie both at are bad 
+
+durrrh that sucks 
+
+my bad 
+
+i m an idiot 
+
+splitting an existing sub shard gets stuck up 
+
+this is bad 
+
+oopps bad move 
+
+the recommendation in the wiki is bad 
+
+my bad 
+
+i m starting to think of dll hell 
+
+ there were a hell of a bigger problem though as we were blocked in the executor until the searchrequest was totally processed all the responses were enqueued 
+
+fix bad patch
+
+logger on top of log4j and its abstract base class for supporting other frameworks 
+
+my bad 
+
+well either you query the database every damn time and your plugin tool code will be super slow 
+
+damn it 
+
+hudson seems to be stuck on this 
+
+my bad 
+
+which is silly bad package encapsulation 
+
+my bad 
+
+oops had a bad comparator in the testcli config 
+
+my bad 
+
+the food is very bad 
+
+ gmcdonald my bad 
+
+my bad 
+
+my bad 
+
+pull it back in if you think different 
+
+aaarrggh how stupid of mine to have a system out again 
+
+hell unaryfunction might even be faster than all of these calls in a row 
+
+i always get the same stupid error 
+
+damn maven 
+
+i do n t care if everything is pretty or not but we should at least support basic admin functionality in ie imo though i have not used it for years for just about anything 
+
+i ve looked at what can be done within the nsis framework we use to build the windows installer 
+
+a feature with wrong functionality is as bad as if not worse than a bad performance 
+
+doh 
+
+doh 
+
+sounds weird to me could you package a totally 
+
+am i doing something stupid here 
+
+ replaced treemap with an array of final segment objects now very slightly faster than trunk rebased for trunk removed the patch renaming sstablereadertest to segmentedfiletest i did n t remove the builder pattern because the alternative seems pretty ugly copying the segments array for every append 
+
+hadoop 2949 if tarball is specified hod no longer validates for the pkgs directory in gridservice hdfs or mapred sections as these are not going to be used anyway 
+
+it must be lost somewhere 
+
+too bad we ca n t use position fixed in ie6 
+
+i think the correct resolution is to ensure that the prefix stack mechanism gets reset each time the xmlreader is used 
+
+this is always a really bad way to design software 
+
+it may suck but at least i wo n t be the one bringing in a dumb dependency to a logging library 
+
+how on earth is it buggy 
+
+i did n t do that because that seems bad in hive so i returned null from the operation 
+
+this sucks 
+
+they do n t vote they whine that something or everything sucks 
+
+damn dyslexia 
+
+damn it 
+
+doing it at the hackathon you d have a few fellas at your shoulder to give you pointers should you get stuck 
+
+ah that was my bad 
+
+my bad 
+
+it s my bad 
+
+my bad 
+
+ah too bad 
+
+damn chuck is scary 
+
+here is quite bad 
+
+this name gets confusing with all of our prenamed worker and master classes 
+
+ release of the framework 
+
+i m a pretty strong 0 on this 
+
+not pretty 
+
+that s pretty unlikely 
+
+pretty much everything that fsnamesystem ie 
+
+kind of sucks 
+
+since this patch is so damn large already i wo n t be making anymore changes to this other than critical blocker bug fixes 
+
+but please do n t say that my reasoning is bad because it is not 
+
+ we ca n t let fear of back compat prevent us from making progress 
+
+i really do n t care 
+
+i am planning to use this framework for some new rpcs i am adding 
+
+do n t hate me just throwing this out there 
+
+weird 
+
+this is weird 
+
+gav hoping i m not teaching you how to suck eggs 
+
+for those of us who do n t care about ivy in fact lose something a easy to build hbase 
+
+where on earth are you anyway 
+
+my bad 
+
+my bad this is already done 
+
+that is bad 
+
+filling diags log is bad mojo since it s never rotated 
+
+how bad is it 
+
+my bad 
+
+my bad 
+
+bad ie 
+
+bad 
+
+pull it back in if you think different 
+
+stupid user error 
+
+weird 
+
+that s weird 
+
+actually i do n t want to specify the encoding because i do n t care how the data is transported to me 
+
+and boy hell broke loose so the biggest issue i m facing is indeed with random sharing across threads 
+
+i do n t care what we do as long as we do n t change the attributes in jsp significantly 
+
+the async api in http client 4 x really sucks 
+
+ forget the patch for the moment 
+
+i ll just put fix in under this issue 
+
+please forget last comment it is incorrect 
+
+umm call me crazy but why are we making this public 
+
+ cmccabe oh hell no 
+
+damn 
+
+i d say to hell with windows minority 
+
+because we do n t care for this in cases where we there is no node that is down 
+
+the eclipse ui was completly stuck which was similiar to the other experinces 
+
+my bad 
+
+juhani my bad i was mistaken 
+
+my bad 
+
+that s my bad 
+
+seeking back is pretty inefficient in dfs 
+
+doh 
+
+hudson is stuck 
+
+weird 
+
+weird 
+
+that s weird 
+
+if that would be the case this would be bad design 
+
+this just seems really evil 
+
+it may cause conflicts but if your intent is to break system security you probably do n t care 
+
+my bad uploaded the wrong patch 
+
+i just hate having no clue what a file is really depending on 
+
+ah damn i thought it was fixed guillaume 
+
+i abbreviated the heck out of my arguments and thinking but damn it that s what i think 
+
+a stupid bug in a patch that is already applied 
+
+in this case data would pretty much just silently be lost 
+
+this whole thing is really pretty trivial 
+
+an output connector should also have a say in what urls it will accept 
+
+turning off hints is basically intended as a oh shit something is broken with hints let s turn it off switch 
+
+why on earth would it match anything you have not even touched the apache install 
+
+ fouseragent getstream is cool and very easy to use now that it s properly documented 
+
+i kinda like the black acctually but that may largely be due to my prefering the fire solr logo over the futuristic magnifying glass the red orange contrasts nicely with the black grey to my mind the solr sun connection has allways been really cool 
+
+awesome discussion 
+
+got it thanks for the explanation 
+
+the patch looks good 
+
+cool cool thanks stack 
+
+awesome this tool is cool 
+
+thanks guys for saving mankind 
+
+this looks safe also
+
+i ve just tested the shiro trunk with karaf 2 2 release and everything works fine 
+
+pretty sure this was fixed by the time we released jruby 1 6 
+
+interesting i just replaced my src with the latest in the trunk and did a compleatly clean build and the problem seems to have gone away 
+
+this is awesome stefan thanks a million 
+
+this is awesome works in a one liner 
+
+awesome 
+
+nice i did not think about using the system tables 
+
+you re results are awesome paul great work looking forward to see your new json parser in trunk whenever you think is ready 
+
+awesome you rock drew 
+
+very cool 
+
+awesome speedup finally all this work shows great results 
+
+ subbu glad i was able to help 
+
+i believe in relativity 
+
+great it s been good to be able to contribute and i hope to be able to more for this awesome project when i have the spare time 
+
+thanks uwe 
+
+code looks cool 
+
+cool good information to have thanks lance 
+
+hey very cool 
+
+hi very cool 
+
+ i like the elegant parser 
+
+thanks for fixing it so quickly 
+
+jonathan over to you 
+
+cool looks good 
+
+cool sounds good to me 
+
+hi carlos this looks awesome lots of cool stuff 
+
+waaaaay cool i especially like the upload file option 
+
+cool stuff a good candidate to put on myfaces commons utils so the user can just add the resource handler on its webapp faces config 
+
+thanks daryn 
+
+thanks for the reviews 
+
+wow thanks raghu that s awesome and will save me a ton of time 
+
+so very cool and so very committed thanks matthias this is awesome 
+
+took me a few seconds to get it but then i realized how awesome it is 
+
+i m happy to use it as the standard logo i e website etc 
+
+http svn apache org viewvc view rev revision 468444 deepal thanks 
+
+awesome stuff stephen 
+
+thanks alexei the patch is fine 
+
+awesome co op thanks robert mike for picking this up 
+
+cheers 
+
+thanks galder 
+
+daryn the current patch looks good 
+
+sounds good 
+
+this is awesome 
+
+v2 looks good to me 
+
+hey you re right that idea was probably not the best approach to the problem 0 6 looks really nice looking forward to it 
+
+thanks for moving so quickly on this guys 
+
+thanks sanjay 
+
+cool thanks daniel we re actually cool with either updating it to e9ff8c4928 or flipping the write bit and we ll push the delta ourselves whatever s the fastest to get to writeable thanks tim
+
+this is a great suggestion 
+
+great thanks joel 
+
+thanks for reporting solved 
+
+it belongs to faces 1 2 
+
+ok cool this is just a matter of adding strings to the various notfound https github com apache mesos blob 0 15 0 rc4 src files files cpp l160 returns in files cpp there are a number of error cases in the browse https github com apache mesos blob 0 15 0 rc4 src files files cpp l204 and read https github com apache mesos blob 0 15 0 rc4 src files files cpp l204 endpoints i d imagine one could change the javascript to generate bad requests which should be sufficient to test this 
+
+cool no worries 
+
+cool feature performance it looks like scripts are read from the resource loader and parsed again eval for every update request 
+
+thanks ram that seems like a definite improvement 
+
+interesting that you decided not to detect the error based on finding two similarly named operations 
+
+it s ok 
+
+hi suran the new catalogs b patch looks very good 
+
+nice feature lars 
+
+ i ve renamed componentcolorproperty to be componentcolorelement and relationshipaggregation to twistieaggregation 
+
+looks like this is fixed 
+
+version 2 2 0rc3 is fine 
+
+sounds like a good idea 
+
+many thanks for your help 
+
+thank you 
+
+i ve tested them out and everything is fine 
+
+is that ok for this file b c i have no idea how to do the svn move now after i ve made all the changes already 
+
+thanks once again 
+
+bq ok w the latest patch all tests pass for me great awesome 
+
+great awesome thanks dims
+
+great awesome work nick and thanks for the clarification bill 
+
+great work this is awesome stuff 
+
+great awesome job sergey 
+
+awesome great stuff maria thanks 
+
+thanks for doing that uma 
+
+wow 
+
+thanks bryan 
+
+patch looks good to me 
+
+thanks jeff 
+
+it is good to have the test 
+
+thanks owen 
+
+thanks 
+
+thanks dhruba 
+
+patch applied with thanks 
+
+looks quite perfect after solving pdfbox 490 
+
+thanks ashish 
+
+many thanks neeme 
+
+thanks for the help bj 
+
+thanks tomas 
+
+thanks 
+
+applied patch with thanks to scott 
+
+enjoy 
+
+thanks to ernst fastl for adding this 
+
+thanks for the patch mubarak 
+
+thanks koji 
+
+long life myfacesssssssssss 
+
+looks good thanks laura 
+
+thanks ashish 
+
+thank you guys 
+
+thanks ashutosh and gunther for your help 
+
+i really appreciate your comments and i really enjoy our discussions 
+
+awesome work this is a great first cut 
+
+thanks to edward and brock for the reviews 
+
+looks good 
+
+thank you ivan 
+
+ d
+
+thanks to both of you and to deepesh for the initiative 
+
+cool 
+
+sounds like a good idea 
+
+cool that s all good news too thanks guys one less on my radar 
+
+cool man it looks good we need a changes entry but from my side this looks good we can tackle the todos on trunk
+
+looks pretty cool fresh and minimalist love it good work 
+
+cool will do thanks for the review and good questions and the whole idea 
+
+this looks good to me 
+
+ automatic location selection is very cool 
+
+thanks tony 
+
+thanks for providing the patch 
+
+thank you 
+
+thanks laura 
+
+thanks kathey 
+
+thanks adrien for looking into this nice explanation 
+
+super i ll commit shortly thanks yonik 
+
+thanks a lot jon for signing up this 
+
+thanks sravya 
+
+i like richards update as well what i did was out of pure anger so it may not have been the sexiest 
+
+thanks cnauroth tomwhite for the reviews 
+
+thanks for being patient devaraj 
+
+hi bruno i like it seems to work well at 1st glance thanks 
+
+thanks adrian 
+
+thanks bob your patch is in trunk at r932317
+
+thanks again uwe
+
+best regards andrew
+
+thanks alexei 
+
+thanks myrna 
+
+thanks tom 
+
+thank you harit himanshu 
+
+thanks arvind
+
+committed a slightly cleaned up version of the patch in revision 1464605 thanks for your help todd 
+
+897392 thanks sharan 
+
+thanks karthik 
+
+thanks andrew committed in rev 
+
+thanks edgar for finding this one 
+
+thanks ilya 
+
+thanks jimmy 
+
+thank you jing for the review 
+
+thanks ravi 
+
+thanks sandy 
+
+hello leo the patch has been applied at revision r479576 thanks a lot for this enhancement please verify that the problem is fully fixed as you expected 
+
+best regards richard
+
+thank you jing 
+
+thanks for your work on this allen 
+
+thank you 
+
+forgot to mention thanks to alejandro and his team for pointing this one 
+
+thanks karl 
+
+please contact me if you need any clarifications 
+
+thanks tom 
+
+thanks for the explanation 
+
+thanks oliver that s fixed it 
+
+thanks a lot 
+
+adrian thanks for the patch rev 
+
+thanks nandana
+
+thanks for review and test case knut 
+
+thanks suresh 
+
+thanks for your patience 
+
+hi atul that looks good at a first glace 
+
+thank you ravi 
+
+ 1 thanks tom 
+
+thanks joseph 
+
+thanks again for this really great patch andrew 
+
+hi edward thanks for spotting it 
+
+thanks andrew the patch was applied to sql module at r525019 
+
+thanks for taking care of this alejandro 
+
+fixed in svn revision 533916 thanks dims
+
+thanks oliver 
+
+thanks a lot for your help 
+
+cheers ashwin 
+
+thanks martina 
+
+thanks christian 
+
+thanks for taking a look jiannan 
+
+ mahadev i would love to help test a patch i m currently using 3 3 1 zookeeper 744 zookeeper 790 applied in that order 
+
+thanks atul your patch is in trunk at r933169 i just added some mod for ofbiz layered lookups comments around changes as suggested sascha
+
+thanks for you work on this jayachandra 
+
+thanks areek new patch looks great i ll commit shortly 
+
+thanks a lot kiran for the patch 
+
+thanks mayank
+
+thank you thejas for the patch and ivan for the review 
+
+thanks alejandro 
+
+thanks mayank
+
+i would love it in 3 3 2 will upload a patch for that version 
+
+thanks mike 
+
+thanks ravi 
+
+sweet git i love git 
+
+thanks sijie 
+
+thank you for the patch sergey 
+
+i love a solution that s simpler and easier to understand than the original 
+
+hi henry thanks for checking it out 
+
+in fact if you happen to know why observerhammerquorumtest is failing with this latest patch i d love to hear 
+
+thanks jing 
+
+that sounds like a plan i love peer reviews 
+
+thanks for the very clear explanation of the needed change dag 
+
+thanks for reminding me i agree i ll do it 
+
+thanks jinjie 
+
+thanks brock 
+
+thanks thomas 
+
+thanks divesh your patch is commited at revision 762863 
+
+hi sagara thank you very much for looking into this 
+
+a pleasure 
+
+thanks tom 
+
+i would love to have it right now for storm too if you want me to sign up as a use case i am happy to 
+
+thanks for the patch erik and jon 
+
+thanks for figuring this one out and providing the patch jamie 
+
+ ashutosh thanks a lot for the comments 
+
+thanks for the quick patching donald 
+
+thanks bilgin it is working fine now 
+
+thanks henry and pat we ll have to re submit all the pa s so trigger hudson 
+
+thanks senaka for the patch 
+
+thank you very much richard 
+
+thanks for the patch niall 1
+
+thanks henry 
+
+taking it over thanks mayank
+
+ best regards fabian 
+
+thanks rishi solanki to review the patch 
+
+thanks hari 
+
+best regards richard
+
+hello george the fix looks fine many thanks 
+
+best regards andrew
+
+thank you brandon 
+
+i really like what i am seeing so far 
+
+this is quality work 
+
+thanks dianne 
+
+thanks elena 
+
+thanks suresh
+
+thanks to both for these usability enhancements 
+
+thanks a lot for the reviews todd 
+
+thanks stepan 
+
+thanks doug for the change 
+
+great investigations doron 
+
+thanks for your patience 
+
+thanks ivan 
+
+hi sandy thanks so much to give me such comments that s really helpful i will update this later 
+
+ahhh sweet i m guessing you have an ide that does this if the tests pass commit this kinda crap goes out of date too fast 
+
+i want to integrate the sweet sweet logo andrew crafted 
+
+thanks oliver 
+
+thanks to fabrizio for the patch 
+
+regex is your friend 
+
+thanks awdesh done at r821748 
+
+thanks richard patch applied to nio char module java nio charsetencoder at repo revision 389784 
+
+thanks tom
+
+thanks for your comments konstantin 
+
+marcelo thanks for pointing out this it is now fixed in rev 
+
+looks fine thank you 
+
+thanks for spotting this fixed at r487519
+
+thanks areek patch looks good 
+
+hi james this patch has been applied by chirino in the revision 576522 at sep 17 
+
+this patch really helped 
+
+it will be great if you could confirm it either way first 
+
+thanks todd glad to be on board 
+
+sweet i will review and apply 
+
+thanks amar 
+
+thanks for sweet patch erik 
+
+owen thanks for the slides 
+
+i m glad we were able to resolve this issue 
+
+megan glad to be of service 
+
+thanks andi 
+
+hi daniel thanks in advance for your support 
+
+thanks hairong 
+
+thank you very much for your effort david 
+
+thanks in advance jens 
+
+aha thanks for the information that makes sense glad to hear that it helped 
+
+thanks for looking into this suresh 
+
+thanks a lot for sharing that josh 
+
+thanks a lot subin 
+
+brilliant feedback thanks i m glad you found the issue and the solution 
+
+sweet you got there before me
+
+bq first of welcome thank you 
+
+that s sweet that you have the prior experience hacking this on top of a store already 
+
+excellent work do acan thank you 
+
+this looks simple and sweet to me 
+
+sweet kickstart for our new wiki 
+
+hello thanks a lot it works lisa 
+
+yes please pull request away my friend 
+
+if someone wants to take this over that s cool i m unlikely to have time in the next week and a half though 
+
+it is a nasty bug that i ve seen in real life though 
+
+yes exactly sorry to be so unclear 
+
+i m not sure what the problem is but the behavior at least in 0 1 4 is that the isclosed atomicboolean is not being set to closed in a timely manner 
+
+sorry for the delay and thanks for the good work works like a charm 
+
+sorry i thought submit patch was the way to attach a patch 
+
+i do n t have very much experience on branch 1 would you like to take a shot at the port 
+
+especially i do n t know very much about the test framework differences 
+
+i will figure out the details and do the port later this week if you do n t get to it first 
+
+sorry unassigning myself from this backport 
+
+another backport for a different jira of mine is failing and i want to see if i can figure out what might be wrong there before doing a new backport 
+
+to upgrade to a recent version of jackrabbit see http wiki apache org jackrabbit backupandmigration i m afraid i ca n t say much about the risk 
+
+i ve tried something similar i removed the handlers and kept the readers but the performance was not visible 
+
+the responder seemed to be a bottleneck 
+
+but it was not the only issue we also want to manage priorities between the tasks but we need to read them to get enough information to make the right priorities 
+
+while creating the derbytest i did notice that this problem is caused by the database pool because it tries to connect to the database in the background 
+
+sorry fiberlijun have nt had a chance to look at it yet 
+
+ i could not get what keyword means 
+
+i am checking out the dojo fixes and patching them in sorry for the delay it has been a long time 
+
+ then we do n t save io by limiting the buffer size to 1 kb i m confused by this 
+
+seems to be failing for a different reason now testcontainerlaunch org apache hadoop yarn server nodemanager testlinuxcontainerexecutorwithmocks time elapsed 0 523 sec failure 
+
+sorry for all the issue mails i forgot to mention the second 2 there is commented source in the test should it be enabled or removed 
+
+i m very sorry 
+
+sorry guys i was the reason for this trouble 
+
+i should have been very careful before doing this 
+
+my bad forgot to include the test file in the patch resubmitting in a second 
+
+ sorry 
+
+damn 
+
+git is tricky that way 
+
+sigh i do n t like this overall if ca n t reuse everywhere 
+
+sorry to let you lose a wild goose chase 
+
+you are going to kill me when i say this but it seems like we should just commit your first patch 
+
+this half reuse is more confusing for new devs who see this code for the first time 
+
+sorry probably a misunderstanding from my side 
+
+i meet the same problem on eclipse recently but have n t figured out how to get through 
+
+sorry chris i missed it done 
+
+one of the error is that hiddenactivations can not be resolved 
+
+i m very busy for the moment so i did n t know when i d be able to the change myself so if you can your contribution would be one more time really appreciated 
+
+oh i did n t consider one flow like after the edit log conversion immediately store failed 
+
+i misunderstood the case and sorry for the confusion 
+
+aside from the job succeeding it does n t what effect should i be able to measure in order to see if this is doing anything 
+
+you misunderstood the response stopfilter indeed did not change 
+
+you would need to implement session resume that s a whole new can of worms 
+
+sorry for a mess in uploaded files my connection got broken during first upload 
+
+here are 2 patches one for adjustexamplepaths bat sh and the other a new file holding 2 user libraries uima lib uima as lib not sure where this should go 
+
+i found the class so there is no bug sorry
+
+i was not aware of being required to call that method 
+
+this is a silly one 
+
+seems we did n t enforce an exec for sh but we did for fs 
+
+the patch should be relatively trivial but like i said i have no idea if there is other important stuff going on there or not 
+
+igor sorry it took me so long to get back to this 
+
+hey sorry i did not get back to you sooner 
+
+i found the sad attempt at a script you asked about and uploaded it to mapreduce 4282 
+
+sorry for the delay 
+
+i do n t have resources to hand to test this at mo 
+
+yes it is a dup thanks mike for taking care of this i planned to do this yesterday but did n t make it 
+
+forgot to add that i also tried this with and without hbase 5864
+
+but app developers should always explicitly set it based on their application my guess is that a large enough group of people take the defaults that it matters 
+
+app developers never do what they should 
+
+problem the bit to sign the source release is being called when the source release is n t being built because the source release is only built at the executionroot 
+
+excuse me for stolen assignement 
+
+in current version the same error cause different messages because there are many commiters 
+
+sorry for the missing class src java org apache jdo tck lifecycle statetransitionsreturnedobjects java 
+
+sorry if this was not clear and yes by blank i meant an empty string 
+
+qianshi is working on the ssl session reuse but this buggy bug system does not allow him assign this ticket sigh
+
+hi guillaume i did not have an answer right away so i sent you question to leonard rosenthol 
+
+sorry should have commented on this much sooner 
+
+it is not yet tested i ran into strange build problems with apr 
+
+done sorry for all the mess on a simple patch 
+
+secondly reading this code i can see why this bug is happening after completing stage 2 above when adding the new item the code does ordered cancelled quantity which equates to 1 1 0 
+
+keep repeating this and the problem just gets worse 
+
+please ignore attachment id 6938 
+
+it was attached to the wrong bug 
+
+ back from holidays so a bit delayed but i confirm andrzej s suggestion a plain text only summarized is ideal for clustering for example 
+
+html is quite uncomfortable to work with 
+
+hi marco i changed the name of patch because it was made in java earliar sorry for inconvenience 
+
+sorry for the mistake 
+
+not sure i want the transient inability to clean up some local log or other trivial task to kill a whole pig job 
+
+first guess something s getting confused about reversed ness 
+
+sorry i took martin s comment to mean the patch was committed and issue closed which certainly discarded all the patches the first time around 
+
+i do n t know what just happened 
+
+the patch went to the wrong bug 
+
+sorry again 
+
+our caller may not notice what happend right now 
+
+sorry for my poor review did n t notice try catch 
+
+it does not look very useful 
+
+oh i m sorry i was unclear 
+
+sorry jacques i ll upload another file 
+
+i did it wrong this time 
+
+sorry i had attached an older version let s try this one 
+
+however i figured it was better to get it in the public domain sooner and let the iterative process do it s work 
+
+this is only a problem with exceptions from java 
+
+incidentally if we all nag joe walnes enough we might be able to persuade him to release a new qdox which can ignore annotations etc though it will still struggle with generics i think 
+
+sorry i kind of forget about this one 
+
+i do n t have strong opinions about it either way 
+
+bugs like this make me sad 
+
+snappycodec check for hadoop native lib is wrong 
+
+sorry for the delay i m recreating the mirror now 
+
+brandon sorry 
+
+i misread 
+
+ignore comment 
+
+seems to be a faulty mailserver setup at laguna industries com 
+
+unfortunately in these days where everyone that can put a cd the right way up in a drive is a linux unix windows internet expert this has become pretty common 
+
+and with a network that tolerates almost everything to get a mail somehow in the right place it is only seldom noticed or when it is it is blamed on microsoft 
+
+mac looks like the tests are failing especially testharfilesystem 
+
+ luke sorry for the late attaching latest version patch
+
+rmappattemptimpl recoverappattempttokens looks like all changes in rmappimpl are unnecessary 
+
+bug in existing testdelegationtokenrestoredonrmrestart 
+
+sorry we are no longer using xerces 
+
+that is a bit too lax i think 
+
+the cause is that the call to specificresponder writeerror in responder respond ultimately calls genericdata resolveunion which in turn calls genericdata getschemaname before the line where the unresolvedunionexception gets thrown 
+
+i am new to mina and the whole environment 
+
+i have this issue where my server and client is creating a lot of loopback threads that i believe must be related to this issue 
+
+any word on whether it will be fixed 
+
+i did not have time to do it yesterday 
+
+sorry for being confusing 
+
+i am not really sure what does the receive payment do before the shipment it does n t sound as if it is doing what we expect it to do 
+
+unable to reproduce issue 
+
+oh ok 
+
+sorry this affects 0 9 3 version too 
+
+phabricator is being a little buggy 
+
+tests no longer sleep
+
+sorry this should be yarn jira filed yarn 350 instead
+
+sorry if this spam s things however it s unlikely that i ll work on these 
+
+forgot about these sorry 
+
+maurice i do n t have such option or maybe i do n t know where it is 
+
+ sorry about that 
+
+sorry about the noise was trying out the precommit job 
+
+sorry about that 
+
+grumble grumble 
+
+i was in too much of a hurry sorry hold on a sec 
+
+sorry i see that you say the same mike 
+
+sorry for the huge delay fabio 
+
+yup sorry just fixed 
+
+i screwed up the encoding of the stopwords file sorry 
+
+so i also changed a test to test a non ascii stopword 
+
+sorry about the confusion before
+
+sorry 
+
+sorry folks the full fix was committed in rather a messy manner due to some platform specific issues 
+
+sorry did n t look at the code until commit can you test making it hash to a long or a 8 byte bytebuffer 
+
+sorry the above comes across as terse 
+
+i really do n t know how to solve this problem 
+
+if you know of a way please describe it 
+
+sorry 
+
+ha sorry varun thanks for the reminder i will have a look at it soon 
+
+sorry 
+
+sorry for the wild goose chase 
+
+sorry db name is tpcdb user name tpc pwd whatever 
+
+sorry my code base is a little old looks like hadoop 9147 add some new test in testfilestatus 
+
+i m sorry 
+
+sorry i hit close by accident 
+
+sorry i ve been mia on this issue 
+
+i have n t had any time to try re upgrading after having to back out 2 0 8 but i will be sure to let you know how it works out as soon as i get the opportunity 
+
+sorry for that 
+
+sorry missed that select box 
+
+sorry for letting you guys wait 
+
+ shazron sorry that was weird 
+
+missed 2 new files sorry 
+
+sorry no longer working on this
+
+sorry patch is attached
+
+on 2008 10 20 11 43 52 354 woflexair commented joan sorry for the noise in the bugbase but it s not a bug 
+
+sorry once again for the wrong report stephane
+
+sorry i forgot to change the priority of this one 
+
+sorry 
+
+sorry that should have said fixed via hadoop 4980 not 6980 
+
+sorry about the report 
+
+ugh sorry thanks 
+
+sorry about that 
+
+sorry i did n t use your patch but i think you ll like the end result 
+
+some file were missing in the last patch sorry 
+
+the biggest problem is that we ve had too many committers over the years and we d have to get all of their permission to change it 
+
+so sorry i ca n t be more obliging 
+
+last try 
+
+sorry 
+
+sorry redeploy patch
+
+sorry for the trouble vikram 
+
+sorry for the misspelling 
+
+ sorry if that was confusing 
+
+sorry for your time 
+
+i must have looked at this before my morning coffee 
+
+sorry 1 
+
+wow that was some bad copy paste work 
+
+sorry 
+
+sorry 
+
+sorry about that http bit ly 12uias
+
+sorry thiru i hope you have n t already started working on this 
+
+huh i thought i did resolve this 
+
+sorry 
+
+sorry misunderstood the issue 
+
+sorry for the delay 
+
+sorry for delay
+
+sorry for the delay was away 
+
+sorry 
+
+this was my bad 
+
+sorry it seems i forgot a few references to 2 0 2 in deps cxf all i m attaching a new patch to fix these references 
+
+thanks jukka for fixing this sorry 
+
+sorry that should be filechannel inputchannel input getchannel filechannel outputchannel output getchannel in the try block 
+
+sorry svenkat i just committed this 
+
+no sorry 
+
+did n t got the time to try it yet 
+
+sorry to have not spotted this one and thanks for your care 
+
+sorry i missed the overwrite keyword 
+
+this might be a bug indeed 
+
+sorry everyone 
+
+sorry last patch was missing new files
+
+sorry for misleading attachment name 
+
+sorry avdhesh i forgot to add these two files to the patch here is the new patch containing the missing files
+
+hey vikram sorry about that i have n t paid much attention to this issue 
+
+sorry should ask first 
+
+thanks to mathias werlitz sorry for the delay 
+
+sorry 
+
+the problems i was talking about are mostly fixed by hadoop 3575 and hadoop 3480 
+
+i opened hadoop 3607 to fix a wrong url but appart from that i do n t there s still references to the old structure 
+
+no sorry priorities have been shifted around 
+
+um sorry i thought this ticket was about something else patch attached david would you give a try 
+
+sorry for the noise 
+
+sorry about that 
+
+sorry i missed some of this the first time 
+
+sorry fixed 
+
+sorry gav done committed revision 2487 
+
+sorry but look at mapsubtract and further down in the source you will find plenty 
+
+sorry 
+
+thanks for the report and sorry its taken so long to fix it 
+
+well sorry i did n t upload the right files
+
+whoops sorry 
+
+sorry about the trouble 
+
+sorry in rushing to commit i forgot to add author during the commit 
+
+actually that s what this change did sorry for the noise 
+
+sorry for the noise 
+
+completely missed issue 614 
+
+sorry typo our part in place of one part above 
+
+sorry i thought issue and provided patch were about cocoon servlet service impl used by either c2 2 and c3 but only now i see that instead they are related to cocoon servlet service components c2 2 only 
+
+i m sorry mark i came back here to remove my comment as after building the app from scratch i have found that by default it used whenexhaustedaction grow and not block 
+
+sorry about that tiredness 
+
+sorry about the error guys 
+
+yes sorry 
+
+sorry this bug is not fixed 
+
+sorry 
+
+resolving again 
+
+sorry yes i believe this has been resolved 
+
+sorry for the spam but which test method ca n t find any related to the snappuller on trunk 
+
+sorry about that 
+
+yes the patch is badly named sorry 
+
+sorry attached the file to the wrong issue 
+
+sorry about that 
+
+i have a really bad habit of not reading thru all the bug comments before asking questions 
+
+sorry i tought i could commit this patch but i did not realize that one of the files is in the framework and i have not access to it 
+
+sorry on holiday last week and just catching up 
+
+thanks so much sorry that this is n t in the appropriate place 
+
+sorry guys i ve been pretty busy work but i have been watching this 
+
+sorry for the confusion 
+
+sorry https bugzilla mozilla org show bug cgi id 514760 is related but not same 
+
+sorry i have n t tried you patch 
+
+sorry for the noise 
+
+i will try to do more research on it 
+
+sorry i meant to have this patch in sooner but got quite busy i expect to have it soon 
+
+oh sorry 
+
+i missed the context 
+
+for some reason i could n t upload the straight patch 
+
+sorry guys
+
+oh signed shift 
+
+sorry 
+
+sorry the federated build is still working out kinks 
+
+the problem is that it builds awt and that requires some dependencies 
+
+if someone wants to work on this please go ahead i still plan to just no time yet 
+
+sorry 
+
+sorry for the hassle 
+
+wow you are right i m deeply sorry to bother you guys and i m also a bit embarrassed 
+
+sorry to nag 
+
+sorry should have been getdatamodel not getdatatable 
+
+sorry i m wrong about 2 
+
+brain fart 
+
+no unit test sorry but there s not much deltaquery coverage anyway 
+
+sorry for that 
+
+ah sorry i misunderstood you 
+
+sorry for the noise 
+
+aaron sorry about this 
+
+the guy on our team that was going to do this was swamped so i re assigned this to you 
+
+sorry missed this 
+
+sorry for the noise 
+
+my patch would n t compile 
+
+here is addendum to fix sorry about build breakage 
+
+sorry you re right 
+
+line 1664 sorry the 0 94 codeline 
+
+sorry i just did n t read the issues carefull enough 
+
+sorry about that fixed now 
+
+sorry about this 
+
+my error 
+
+tried some more stuff and realized i was doing it wrong 
+
+sorry 
+
+sorry here s the test that reproduces the issue 
+
+sorry if this spam s things however it s unlikely that i ll work on these 
+
+sorry for the trouble 
+
+sorry old xml here is the used one xml version 1 0 encoding utf 8 root value und 
+
+sorry kumarr let s just do this in 0 96 
+
+sorry for the super slow uptake on this the new job is using up all of my limited brain resources 
+
+well it s me that did n t get the whole point now i got more sorry for the noise 
+
+sorry i was trying to get to the wiki but it s been a busy week 
+
+s apurtell lhofhansl sorry guys 
+
+sorry grabbed the wrong ticket 
+
+sorry that i think i missed some discussion in the mailing list 
+
+unless we switch to antlr 3 0 and even though i m not sure this would fix the problem there is nothing we can do 

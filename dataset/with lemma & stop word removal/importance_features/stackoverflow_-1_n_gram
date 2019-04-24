@@ -1,0 +1,459 @@
+646	2	2	2	2	jpa hibernate 
+645	1	2	2	2	rather 
+644	1	2	1	1	translucent 
+643	1	2	2	2	correct 
+642	2	2	2	2	rely on 
+641	1	2	2	2	update 
+640	1	2	2	2	part 
+639	1	2	2	2	handle 
+638	1	2	2	2	proxy 
+637	1	2	2	2	cglib 
+636	1	2	2	2	property 
+635	1	2	2	2	tool 
+634	1	2	2	2	solution 
+631	1	3	3	3	read 
+630	1	2	2	2	hard 
+629	1	2	2	2	except 
+628	1	2	2	2	correctly 
+626	2	2	2	2	native library 
+625	1	3	2	2	jna 
+624	1	4	4	4	now 
+623	2	3	3	4	now pron 
+622	1	3	3	3	possible 
+621	2	2	2	2	possible to 
+620	1	2	2	2	mean 
+619	1	2	2	2	good 
+617	1	2	1	1	drl 
+616	1	2	2	2	project 
+615	1	4	2	2	app 
+614	2	2	2	2	token and 
+612	1	2	2	2	report 
+611	1	5	5	5	think 
+608	1	3	3	3	write 
+607	1	2	1	1	spring 
+606	1	2	2	2	very 
+605	1	2	2	2	day 
+604	1	2	2	2	processing 
+603	1	2	2	2	these 
+602	1	2	2	2	between 
+601	1	3	3	3	understand 
+599	1	5	4	4	method 
+597	1	2	2	2	complicated 
+596	1	5	5	5	little 
+595	1	2	2	2	leave 
+594	1	4	4	4	since 
+592	1	2	2	2	false 
+590	1	4	2	2	message 
+589	1	2	2	2	warning 
+588	1	3	3	3	just 
+586	1	2	2	2	crash 
+585	1	4	4	4	call 
+584	2	2	2	3	call pron 
+583	1	3	3	3	seem 
+582	1	2	2	2	should 
+581	1	7	7	7	which 
+580	3	2	2	3	which do not 
+579	2	3	3	4	which be 
+578	1	6	6	6	wrong 
+576	1	2	2	2	open 
+575	1	2	2	2	or 
+574	1	2	2	2	documentation 
+573	2	2	2	2	because pron 
+572	1	2	2	2	sort 
+571	1	5	5	5	out 
+569	2	3	3	3	figure out 
+568	3	2	2	2	figure out how 
+567	1	2	2	2	occur 
+566	1	2	2	2	way 
+565	1	2	2	2	source 
+564	1	4	3	3	data 
+563	2	2	2	2	data structure 
+562	1	2	1	1	driver 
+561	1	2	2	2	lib 
+560	1	3	3	3	into 
+559	2	2	2	2	into the 
+558	1	4	4	4	example 
+557	1	2	2	2	result 
+555	1	3	3	3	receive 
+554	2	2	2	2	receive a 
+553	2	2	2	2	service but 
+552	1	5	5	5	need 
+550	3	2	2	2	need to be 
+549	1	3	3	3	other 
+548	1	3	3	3	guess 
+547	1	4	3	3	process 
+546	1	2	2	2	properly 
+545	1	2	2	2	dependency 
+544	1	2	2	2	ide 
+543	1	4	4	4	start 
+542	1	2	2	2	server 
+541	1	2	2	2	base 
+540	1	7	6	6	type 
+539	1	2	2	2	information 
+538	1	6	6	6	by 
+537	2	2	2	6	by the 
+536	1	2	2	2	jackson 
+535	1	8	8	8	any 
+534	1	3	3	3	though 
+532	1	2	2	2	catch 
+530	1	5	5	5	know 
+529	1	3	3	3	really 
+527	1	2	2	2	keep 
+526	1	2	2	2	number 
+525	1	5	5	5	approach 
+524	2	2	2	5	approach be 
+523	1	4	4	4	say 
+522	1	2	2	2	text 
+521	1	8	8	8	library 
+520	2	2	2	7	library pron 
+519	1	4	3	3	want 
+518	2	3	2	2	want to 
+517	1	4	4	4	response 
+514	1	2	2	2	xml 
+513	1	2	2	2	full 
+512	1	3	3	3	generate 
+511	2	2	2	3	generate the 
+510	1	8	8	8	would 
+509	2	2	2	7	would be 
+508	1	2	2	2	even 
+507	1	2	2	2	mess 
+506	1	3	3	3	output 
+505	1	7	7	7	show 
+503	1	4	4	4	display 
+502	2	2	2	2	must be 
+501	1	3	3	3	datum 
+500	1	2	2	2	click 
+499	1	3	2	2	enter 
+498	1	2	2	2	exist 
+497	1	2	2	2	thing 
+496	1	3	3	3	such 
+495	1	7	7	7	no 
+494	1	2	2	2	maybe 
+493	1	2	2	2	unfortunately 
+492	1	6	6	6	create 
+491	2	2	2	4	create the 
+490	1	5	5	5	fail 
+489	2	2	2	3	fail to 
+488	1	4	4	4	then 
+487	1	3	3	3	only 
+486	1	7	6	6	thread 
+485	2	2	1	3	thread be 
+484	1	2	2	2	guarantee 
+483	1	5	5	5	still 
+482	1	2	2	2	again 
+481	1	5	5	5	see 
+480	2	2	2	4	see the 
+479	1	3	3	3	one 
+478	1	3	3	3	at 
+477	1	10	8	8	may 
+476	2	4	4	6	may not 
+475	2	2	2	3	may be 
+474	1	3	3	3	s 
+473	1	4	4	4	eclipse 
+472	1	4	4	4	from 
+471	2	2	2	4	from pron 
+470	1	10	9	9	if 
+469	2	2	2	7	if the 
+468	2	5	5	8	if pron 
+467	1	2	2	2	reason 
+466	1	6	6	6	some 
+464	1	2	2	2	machine 
+463	1	14	14	14	on 
+462	2	4	4	8	on the 
+461	2	2	2	9	on pron 
+460	1	5	5	5	compile 
+459	2	2	2	4	compile the 
+458	1	2	2	2	directly 
+457	1	4	4	4	below 
+455	1	5	5	5	like 
+454	1	3	3	3	something 
+453	2	2	2	2	something like 
+452	1	3	3	3	time 
+451	1	4	4	4	first 
+450	1	14	12	12	as 
+449	3	2	2	2	as show below 
+448	2	2	2	4	as an 
+447	2	5	5	9	as pron 
+441	1	4	4	4	avoid 
+440	1	2	1	1	array 
+439	1	7	5	5	return 
+438	2	2	1	3	return type 
+436	1	6	6	6	how 
+435	2	3	3	4	how to 
+434	1	12	11	11	api 
+433	2	10	9	9	api name 
+431	1	6	6	6	java 
+429	1	7	7	7	issue 
+428	2	3	3	3	issue with 
+426	1	7	7	7	same 
+424	1	2	2	2	come 
+423	1	13	11	11	i 
+422	2	2	2	3	i do 
+421	2	3	3	6	i be 
+420	1	7	7	7	follow 
+419	2	3	3	4	follow error 
+417	1	3	3	3	throw 
+416	1	2	2	2	client 
+415	1	3	3	3	while 
+414	1	34	31	31	and 
+413	3	2	2	3	and now pron 
+412	2	3	3	3	and i 
+411	1	5	5	5	why 
+410	2	2	2	4	why pron 
+409	1	2	2	2	bug 
+408	1	14	13	13	there 
+407	2	2	2	2	there may 
+406	2	10	10	12	there be 
+405	3	2	2	2	there be no 
+404	3	2	2	3	there be some 
+403	3	3	3	5	there be a 
+402	1	2	2	2	note 
+401	1	2	2	2	main 
+400	1	19	18	18	of 
+399	2	2	2	6	of that 
+398	2	8	8	13	of the 
+397	1	41	30	30	code 
+396	2	29	20	20	code fragment 
+395	3	2	2	4	code fragment and 
+394	3	3	3	7	code fragment but 
+391	2	2	2	10	code to 
+390	1	5	5	5	above 
+389	2	2	2	2	above approach 
+387	1	2	2	2	implementation 
+386	1	2	2	2	map 
+385	1	4	4	4	about 
+384	1	6	6	6	sure 
+382	1	3	3	3	hang 
+380	1	5	4	4	will 
+379	1	2	2	2	gui 
+378	1	2	2	2	else 
+377	1	2	2	2	solve 
+376	2	4	4	4	able to 
+375	1	20	18	18	an 
+374	3	2	2	2	an issue with 
+373	2	3	3	3	an error 
+372	3	2	2	2	an error and 
+371	1	2	2	2	size 
+370	1	24	22	22	with 
+369	2	9	9	14	with the 
+368	2	2	2	15	with pron 
+367	1	2	2	2	workaround 
+366	1	3	3	3	add 
+365	1	3	3	3	without 
+364	1	23	23	23	problem 
+363	2	3	3	4	problem with 
+357	1	2	2	2	batch 
+356	1	20	19	19	for 
+355	2	2	2	10	for a 
+354	2	8	8	11	for the 
+352	1	2	2	2	specify 
+350	1	22	20	20	can 
+349	2	12	12	14	can not 
+348	3	2	2	7	can not be 
+347	1	2	2	2	system 
+346	1	5	4	4	give 
+345	2	3	3	4	give the 
+344	1	11	11	11	run 
+342	2	2	2	9	run pron 
+341	1	2	2	2	however 
+340	1	19	19	19	use 
+339	2	2	2	8	use a 
+338	3	2	2	4	use pron to 
+336	1	36	32	32	do 
+335	2	27	25	27	do not 
+332	3	2	2	4	do not use 
+330	3	4	4	5	do not have 
+328	3	4	4	5	do not work 
+327	1	48	38	38	a 
+326	2	2	2	2	a lot 
+325	2	4	4	4	a little 
+324	2	2	2	2	a weird 
+323	3	5	5	6	a code fragment 
+321	2	2	2	8	a problem 
+320	1	26	25	25	in 
+319	2	5	5	12	in a 
+318	2	6	6	11	in the 
+317	2	3	3	17	in pron 
+316	2	3	3	6	in this 
+315	1	5	5	5	make 
+314	1	33	29	29	have 
+311	2	4	4	11	have a 
+310	2	2	2	16	have the 
+308	1	10	9	9	all 
+307	2	3	3	5	all the 
+306	2	2	2	9	all pron 
+305	1	9	9	9	exception 
+304	2	3	3	7	exception be 
+301	1	3	3	3	null 
+299	1	9	9	9	what 
+298	2	2	2	7	what pron 
+297	2	2	2	7	what be 
+296	1	37	32	32	that 
+295	2	2	2	5	that there 
+294	2	3	3	20	that the 
+293	2	5	5	25	that pron 
+292	2	6	6	24	that be 
+291	3	2	2	12	that be not 
+290	1	19	19	19	error 
+288	2	2	2	6	error when 
+285	1	10	10	10	find 
+284	2	2	2	2	find any 
+283	1	26	23	23	name 
+282	2	4	4	13	name file 
+279	1	27	20	20	file 
+277	2	13	12	13	file name 
+276	3	3	3	6	file name file 
+274	2	2	1	15	file pron 
+272	1	18	18	18	get 
+271	2	3	3	6	get a 
+270	2	5	5	10	get the 
+269	3	2	2	2	get the file 
+268	2	2	2	17	get pron 
+267	1	5	5	5	application 
+266	1	131	89	89	the 
+265	2	2	2	3	the other 
+264	2	3	3	4	the response 
+263	3	2	2	4	the response pron 
+262	2	2	2	2	the first 
+261	3	3	2	5	the api name 
+260	2	2	2	4	the java 
+259	2	6	6	7	the same 
+258	3	3	3	3	the same issue 
+257	2	6	6	6	the follow 
+255	2	6	5	17	the code 
+254	3	4	3	11	the code fragment 
+253	2	3	3	4	the above 
+252	3	2	2	3	the above code 
+251	3	8	8	11	the problem be 
+249	4	2	2	5	the problem be the 
+248	2	2	2	2	the path 
+247	3	2	2	2	the exception be 
+246	2	3	3	15	the error 
+245	2	7	7	14	the file 
+244	3	2	2	3	the file on 
+243	3	3	3	8	the file name 
+242	2	2	2	3	the application 
+241	3	2	2	4	the pron would 
+240	2	2	1	2	the build 
+238	1	66	52	52	to 
+237	2	2	2	3	to start 
+236	2	3	3	4	to show 
+235	2	2	2	3	to compile 
+234	3	2	2	2	to return an 
+232	2	2	2	6	to use 
+231	2	4	4	10	to do 
+230	2	2	2	3	to make 
+229	2	3	3	9	to get 
+228	2	4	4	27	to the 
+227	4	2	2	4	to the api name 
+226	2	2	2	2	to deploy 
+225	2	2	2	2	to work 
+224	2	4	4	30	to be 
+223	1	14	13	13	try 
+222	2	10	9	9	try to 
+220	1	227	126	126	pron 
+219	2	2	2	2	pron expect 
+218	2	2	2	2	pron app 
+217	2	4	4	5	pron think 
+215	3	2	2	3	pron think the 
+214	2	2	2	3	pron write 
+213	2	2	2	3	pron seem 
+212	3	2	2	2	pron need all 
+210	2	2	2	2	pron search 
+209	2	3	3	3	pron say 
+208	2	3	3	3	pron want 
+207	3	2	2	2	pron want to 
+206	2	5	5	8	pron would 
+205	2	3	2	5	pron may 
+204	2	2	2	2	pron throw 
+203	3	2	2	15	pron code fragment 
+202	2	2	2	2	pron add 
+200	2	2	2	15	pron for 
+199	2	15	15	19	pron can 
+198	3	9	9	14	pron can not 
+197	3	2	2	3	pron give the 
+196	2	4	4	9	pron run 
+195	3	2	2	6	pron run the 
+194	2	14	12	21	pron do 
+193	3	13	11	19	pron do not 
+192	4	2	2	2	pron do not understand 
+191	4	4	4	4	pron do not know 
+190	4	2	2	3	pron do not make 
+189	5	2	2	2	pron do not have any 
+188	2	21	19	27	pron have 
+187	3	2	2	3	pron have create 
+186	3	2	2	11	pron have a 
+185	3	2	2	12	pron have not 
+184	2	3	3	9	pron find 
+183	2	2	2	15	pron file 
+182	2	6	6	17	pron get 
+181	3	2	2	6	pron get a 
+180	3	3	3	9	pron get the 
+179	2	4	4	43	pron to 
+178	2	7	7	12	pron try 
+177	3	5	5	8	pron try to 
+175	2	3	3	60	pron pron 
+174	2	47	45	80	pron be 
+173	3	3	3	13	pron be use 
+171	3	3	3	11	pron be get 
+170	4	2	2	4	pron be try to 
+169	3	18	18	39	pron be not 
+168	4	2	2	3	pron be not possible 
+167	4	3	3	5	pron be not sure 
+166	5	3	3	4	pron be not able to 
+164	1	15	15	15	when 
+163	2	2	2	12	when the 
+162	2	10	10	14	when pron 
+160	4	4	4	5	when pron try to 
+159	5	2	2	2	when pron try to run 
+158	3	2	2	8	when pron be 
+157	1	2	2	2	fine 
+156	1	3	2	2	build 
+155	1	2	2	2	everything 
+154	1	7	7	7	so 
+153	2	3	3	6	so pron 
+151	1	14	14	14	work 
+149	1	87	81	81	not 
+146	2	2	2	2	not necessary 
+144	2	4	4	6	not sure 
+143	3	2	2	2	not sure why 
+141	2	4	4	15	not use 
+137	2	4	4	7	not find 
+136	2	3	3	9	not get 
+135	2	9	9	12	not work 
+133	2	3	3	48	not be 
+132	1	139	103	103	be 
+131	2	2	2	2	be ignore 
+130	2	2	2	3	be really 
+128	2	3	3	5	be some 
+127	3	2	2	2	be some problem 
+126	2	3	3	14	be an 
+125	2	4	4	15	be use 
+123	2	2	2	13	be do 
+122	2	8	8	24	be a 
+121	3	2	2	3	be a little 
+119	2	5	5	24	be that 
+118	2	5	5	11	be get 
+117	2	6	6	50	be the 
+116	3	2	2	3	be the same 
+115	2	3	3	5	be try 
+113	2	3	3	80	be pron 
+112	2	30	29	48	be not 
+108	3	2	2	5	be not work 
+107	1	28	27	27	this 
+106	2	3	3	6	this code 
+105	2	12	12	20	this be 
+103	3	5	5	9	this be not 
+102	1	43	43	43	but 
+101	2	2	2	3	but still 
+100	2	3	3	5	but i 
+99	3	2	2	6	but that be 
+98	2	5	5	21	but the 
+97	2	13	13	35	but pron 
+96	3	8	8	24	but pron be 
+95	4	2	2	6	but pron be get 
+94	4	6	6	16	but pron be not 
+93	2	4	4	5	but when 
+92	3	3	3	5	but when pron 
+91	5	2	2	2	but when pron try to 
+90	2	2	2	6	but this 

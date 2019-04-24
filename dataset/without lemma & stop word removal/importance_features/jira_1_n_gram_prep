@@ -1,0 +1,580 @@
+
+ FOUserAgent getStream is cool and very easy to use now that it s properly documented 
+
+i kinda like the black acctually but that may largely be due to my prefering the fire solr logo over the futuristic magnifying glass the red orange contrasts nicely with the black grey to my mind the Solr Sun connection has allways been really cool 
+
+Awesome discussion 
+
+Got it thanks for the explanation 
+
+The patch looks good 
+
+Cool cool thanks stack 
+
+Awesome This tool is cool 
+
+Thanks guys for saving mankind 
+
+This looks safe also
+
+I ve just tested the shiro trunk with karaf 2 2 release and everything works fine 
+
+Pretty sure this was fixed by the time we released JRuby 1 6 
+
+Interesting I just replaced my src with the latest in the trunk and did a compleatly clean build and the problem seems to have gone away 
+
+This is Awesome Stefan thanks a million 
+
+This is awesome works in a one liner 
+
+Awesome 
+
+Nice I did not think about using the system tables 
+
+You re results are awesome Paul Great work Looking forward to see your new JSON parser in trunk whenever you think is ready 
+
+Awesome you rock Drew 
+
+Very cool 
+
+Awesome speedup Finally all this work shows great results 
+
+ Subbu Glad I was able to help 
+
+I believe in relativity 
+
+Great It s been good to be able to contribute and I hope to be able to more for this awesome project when I have the spare time 
+
+Thanks Uwe 
+
+Code looks cool 
+
+Cool good information to have Thanks Lance 
+
+Hey very cool 
+
+Hi very cool 
+
+ I like the elegant parser 
+
+Thanks for fixing it so quickly 
+
+Jonathan over to you 
+
+Cool looks good 
+
+Cool sounds good to me 
+
+Hi Carlos This looks awesome Lots of cool stuff 
+
+Waaaaay cool I especially like the upload file option 
+
+cool stuff a good candidate to put on myfaces commons utils so the user can just add the resource handler on its webapp faces config 
+
+Thanks Daryn 
+
+Thanks for the reviews 
+
+Wow thanks Raghu that s awesome and will save me a ton of time 
+
+So very cool and so very committed thanks Matthias this is awesome 
+
+Took me a few seconds to get it but then I realized how awesome it is 
+
+I m happy to use it as the standard logo i e website etc 
+
+http svn apache org viewvc view rev revision 468444 Deepal Thanks 
+
+Awesome stuff Stephen 
+
+Thanks Alexei the patch is fine 
+
+Awesome co op Thanks Robert Mike for picking this up 
+
+Cheers 
+
+Thanks Galder 
+
+Daryn the current patch looks good 
+
+Sounds good 
+
+This is awesome 
+
+v2 Looks good to me 
+
+Hey you re right that idea was probably not the best approach to the problem 0 6 looks really nice looking forward to it 
+
+Thanks for moving so quickly on this guys 
+
+Thanks Sanjay 
+
+Cool thanks Daniel we re actually cool with either updating it to e9ff8c4928 or flipping the write bit and we ll push the delta ourselves whatever s the fastest to get to writeable Thanks tim
+
+This is a great suggestion 
+
+great thanks Joel 
+
+Thanks for reporting solved 
+
+it belongs to faces 1 2 
+
+Ok cool this is just a matter of adding strings to the various NotFound https github com apache mesos blob 0 15 0 rc4 src files files cpp L160 returns in files cpp There are a number of error cases in the browse https github com apache mesos blob 0 15 0 rc4 src files files cpp L204 and read https github com apache mesos blob 0 15 0 rc4 src files files cpp L204 endpoints I d imagine one could change the javascript to generate bad requests which should be sufficient to test this 
+
+cool no worries 
+
+Cool feature Performance It looks like scripts are read from the resource loader and parsed again eval for every update request 
+
+Thanks Ram That seems like a definite improvement 
+
+Interesting that you decided not to detect the error based on finding two similarly named operations 
+
+It s OK 
+
+Hi Suran The new catalogs b patch looks very good 
+
+Nice feature lars 
+
+ I ve renamed ComponentColorProperty to be ComponentColorElement and RelationshipAggregation to TwistieAggregation 
+
+Looks like this is fixed 
+
+Version 2 2 0RC3 is fine 
+
+Sounds like a good idea 
+
+Many thanks for your help 
+
+Thank you 
+
+I ve tested them out and everything is fine 
+
+Is that ok for this file b c I have no idea how to do the svn move now after I ve made all the changes already 
+
+Thanks once again 
+
+bq OK w the latest patch all tests pass for me Great Awesome 
+
+Great Awesome thanks Dims
+
+Great Awesome work Nick and thanks for the clarification Bill 
+
+Great work this is awesome stuff 
+
+great awesome job sergey 
+
+Awesome great stuff Maria Thanks 
+
+Thanks for doing that Uma 
+
+Wow 
+
+Thanks Bryan 
+
+Patch looks good to me 
+
+Thanks Jeff 
+
+It is good to have the test 
+
+Thanks Owen 
+
+Thanks 
+
+Thanks Dhruba 
+
+Patch applied with thanks 
+
+Looks quite perfect after solving PDFBOX 490 
+
+Thanks Ashish 
+
+Many thanks Neeme 
+
+Thanks for the help BJ 
+
+thanks Tomas 
+
+Thanks 
+
+Applied patch with thanks to Scott 
+
+Enjoy 
+
+thanks to Ernst Fastl for adding this 
+
+Thanks for the patch Mubarak 
+
+Thanks Koji 
+
+Long Life MyFacesssssssssss 
+
+Looks good thanks Laura 
+
+Thanks Ashish 
+
+Thank you guys 
+
+Thanks Ashutosh and Gunther for your help 
+
+I really appreciate your comments and I really enjoy our discussions 
+
+Awesome work this is a great first cut 
+
+Thanks to Edward and Brock for the reviews 
+
+Looks good 
+
+Thank you Ivan 
+
+ D
+
+Thanks to both of you and to Deepesh for the initiative 
+
+Cool 
+
+Sounds like a good idea 
+
+Cool that s all good news too Thanks guys One less on my radar 
+
+cool man it looks good we need a changes entry but from my side this looks good we can tackle the todos on trunk
+
+Looks pretty cool Fresh and minimalist Love it Good work 
+
+Cool will do Thanks for the review and good questions and the whole idea 
+
+This looks good to me 
+
+ Automatic location selection is very cool 
+
+Thanks Tony 
+
+Thanks for providing the patch 
+
+Thank you 
+
+Thanks Laura 
+
+Thanks Kathey 
+
+Thanks Adrien for looking into this nice explanation 
+
+Super I ll commit shortly thanks Yonik 
+
+Thanks a lot Jon for signing up this 
+
+Thanks Sravya 
+
+I like Richards update as well What I did was out of pure anger so it may not have been the sexiest 
+
+Thanks cnauroth tomwhite for the reviews 
+
+Thanks for being patient Devaraj 
+
+Hi Bruno I like it seems to work well at 1st glance Thanks 
+
+Thanks Adrian 
+
+Thanks Bob your patch is in trunk at r932317
+
+thanks again Uwe
+
+Best regards Andrew
+
+Thanks Alexei 
+
+Thanks Myrna 
+
+Thanks Tom 
+
+Thank you Harit Himanshu 
+
+Thanks Arvind
+
+Committed a slightly cleaned up version of the patch in revision 1464605 Thanks for your help Todd 
+
+897392 Thanks Sharan 
+
+Thanks Karthik 
+
+Thanks Andrew committed in rev 
+
+thanks edgar for finding this one 
+
+Thanks Ilya 
+
+Thanks Jimmy 
+
+Thank you Jing for the review 
+
+Thanks Ravi 
+
+Thanks Sandy 
+
+Hello Leo The patch has been applied at revision r479576 thanks a lot for this enhancement please verify that the problem is fully fixed as you expected 
+
+Best regards Richard
+
+Thank you Jing 
+
+Thanks for your work on this Allen 
+
+Thank you 
+
+Forgot to mention Thanks to Alejandro and his team for pointing this one 
+
+Thanks Karl 
+
+Please contact me if you need any clarifications 
+
+Thanks Tom 
+
+thanks for the explanation 
+
+Thanks Oliver that s fixed it 
+
+Thanks a lot 
+
+Adrian thanks for the patch rev 
+
+thanks nandana
+
+Thanks for review and test case Knut 
+
+Thanks Suresh 
+
+Thanks for your patience 
+
+Hi Atul that looks good at a first glace 
+
+Thank you Ravi 
+
+ 1 thanks Tom 
+
+Thanks Joseph 
+
+Thanks again for this really great patch Andrew 
+
+Hi Edward Thanks for spotting it 
+
+Thanks Andrew the patch was applied to SQL module at r525019 
+
+Thanks for taking care of this Alejandro 
+
+Fixed in svn revision 533916 thanks dims
+
+Thanks Oliver 
+
+Thanks a lot for your help 
+
+Cheers Ashwin 
+
+Thanks Martina 
+
+Thanks Christian 
+
+Thanks for taking a look Jiannan 
+
+ mahadev I would love to help test a patch I m currently using 3 3 1 ZOOKEEPER 744 ZOOKEEPER 790 applied in that order 
+
+Thanks Atul Your patch is in trunk at r933169 I just added some mod for OFBiz layered lookups comments around changes as suggested Sascha
+
+Thanks for you work on this Jayachandra 
+
+Thanks Areek new patch looks great I ll commit shortly 
+
+Thanks a lot Kiran for the patch 
+
+Thanks Mayank
+
+Thank you Thejas for the patch and Ivan for the review 
+
+Thanks Alejandro 
+
+Thanks Mayank
+
+I would love it in 3 3 2 will upload a patch for that version 
+
+Thanks Mike 
+
+Thanks Ravi 
+
+Sweet Git I love git 
+
+Thanks Sijie 
+
+Thank you for the patch Sergey 
+
+I love a solution that s simpler and easier to understand than the original 
+
+Hi Henry Thanks for checking it out 
+
+In fact if you happen to know why ObserverHammerQuorumTest is failing with this latest patch I d love to hear 
+
+Thanks Jing 
+
+That sounds like a plan I love peer reviews 
+
+Thanks for the very clear explanation of the needed change Dag 
+
+Thanks for reminding me I agree I ll do it 
+
+Thanks JinJie 
+
+Thanks Brock 
+
+Thanks Thomas 
+
+Thanks Divesh Your patch is commited at revision 762863 
+
+Hi Sagara Thank you very much for looking into this 
+
+A pleasure 
+
+Thanks Tom 
+
+I would love to have it right now for storm too If you want me to sign up as a use case I am happy to 
+
+Thanks for the patch Erik and Jon 
+
+Thanks for figuring this one out and providing the patch Jamie 
+
+ Ashutosh thanks a lot for the comments 
+
+Thanks for the quick patching Donald 
+
+Thanks Bilgin it is working fine now 
+
+Thanks henry and pat we ll have to re submit all the PA s so trigger hudson 
+
+Thanks senaka for the patch 
+
+Thank you very much Richard 
+
+Thanks for the patch Niall 1
+
+thanks henry 
+
+Taking it over Thanks Mayank
+
+ Best regards Fabian 
+
+Thanks Rishi Solanki to review the patch 
+
+Thanks Hari 
+
+Best regards Richard
+
+Hello George The fix looks fine many thanks 
+
+Best regards Andrew
+
+Thank you Brandon 
+
+I really like what I am seeing so far 
+
+This is quality work 
+
+Thanks Dianne 
+
+Thanks Elena 
+
+Thanks Suresh
+
+Thanks to both for these usability enhancements 
+
+Thanks a lot for the reviews Todd 
+
+Thanks Stepan 
+
+Thanks Doug for the change 
+
+Great investigations Doron 
+
+Thanks for your patience 
+
+Thanks Ivan 
+
+Hi Sandy Thanks so much to give me such comments that s really helpful I will update this later 
+
+ahhh sweet i m guessing you have an IDE that does this If the tests pass commit this kinda crap goes out of date too fast 
+
+I want to integrate the sweet sweet logo Andrew crafted 
+
+Thanks Oliver 
+
+Thanks to Fabrizio for the patch 
+
+Regex is your friend 
+
+Thanks Awdesh Done at r821748 
+
+Thanks Richard Patch applied to NIO CHAR module java nio CharsetEncoder at repo revision 389784 
+
+Thanks Tom
+
+Thanks for your comments Konstantin 
+
+Marcelo thanks for pointing out this it is now fixed in rev 
+
+looks fine thank you 
+
+Thanks for spotting this fixed at r487519
+
+Thanks Areek patch looks good 
+
+Hi James This patch has been applied by chirino in the revision 576522 at Sep 17 
+
+This patch really helped 
+
+It will be great if you could confirm it either way first 
+
+Thanks Todd glad to be on board 
+
+Sweet I will review and apply 
+
+Thanks Amar 
+
+Thanks for sweet patch Erik 
+
+Owen thanks for the slides 
+
+I m glad we were able to resolve this issue 
+
+Megan Glad to be of service 
+
+Thanks Andi 
+
+Hi Daniel thanks in advance for your support 
+
+Thanks Hairong 
+
+Thank you very much for your effort David 
+
+Thanks in advance Jens 
+
+Aha thanks for the information That makes sense Glad to hear that it helped 
+
+Thanks for looking into this Suresh 
+
+Thanks a lot for sharing that Josh 
+
+Thanks a lot Subin 
+
+Brilliant feedback thanks I m glad you found the issue and the solution 
+
+Sweet You got there before me
+
+bq First of welcome Thank you 
+
+Thats sweet that you have the prior experience hacking this on top of a store already 
+
+Excellent work Do acan thank you 
+
+This looks simple and sweet to me 
+
+Sweet kickstart for our new wiki 
+
+Hello Thanks a lot It works Lisa 
+
+Yes please pull request away my friend 

@@ -1,0 +1,2401 @@
+3824	1	2	2	2	hc 
+3821	3	2	2	2	ec cc pt 
+3820	1	2	1	1	newsletter 
+3817	5	2	2	2	region s wall clock time 
+3815	1	2	2	2	20 
+3814	1	7	7	7	appointment 
+3813	3	2	2	2	appointment can be 
+3812	2	2	2	2	book time 
+3810	1	4	2	2	renderer 
+3808	1	2	2	2	decorate 
+3807	1	2	2	2	ideally 
+3805	1	4	4	4	register 
+3804	1	2	2	2	direct 
+3803	1	2	2	2	float 
+3801	1	2	2	2	again 
+3800	1	4	4	4	customer 
+3799	1	4	4	4	callback 
+3798	1	2	2	2	iis 
+3797	1	2	2	2	those 
+3794	1	3	3	3	moment 
+3788	1	2	2	2	off 
+3787	1	4	3	3	record 
+3786	1	3	2	2	survey 
+3785	1	2	2	2	template 
+3784	1	2	2	2	bit 
+3783	2	2	2	2	camel jaxb 
+3782	1	4	3	3	jaxb 
+3781	1	3	3	3	true 
+3780	1	2	1	1	locale 
+3779	1	2	2	2	limitation 
+3778	1	2	2	2	everyone 
+3774	2	2	2	2	sample1 sample2 
+3773	1	6	4	4	music 
+3772	1	2	2	2	adapter 
+3771	1	2	2	2	midnight 
+3769	3	2	2	2	daylight saving change 
+3766	1	2	2	2	become 
+3765	1	2	1	1	cest 
+3764	1	2	1	1	59 
+3763	1	2	2	2	versus 
+3760	1	10	7	7	utc 
+3758	1	9	4	4	00 
+3757	2	3	2	2	00 utc 
+3752	1	7	3	3	march 
+3751	3	6	2	2	march 30 2010 
+3750	4	3	1	1	march 30 2010 01 
+3749	6	2	1	1	march 30 2010 01 00 utc 
+3748	1	3	2	2	selenium 
+3747	1	3	3	3	description 
+3746	2	2	2	2	description of 
+3745	1	2	2	2	script 
+3744	1	3	3	3	container 
+3743	2	2	2	2	container that 
+3742	1	2	1	1	websocket 
+3740	1	2	2	2	very 
+3739	1	2	2	2	website 
+3738	1	5	5	5	host 
+3736	1	2	1	1	connection 
+3735	1	2	2	2	device 
+3734	1	2	2	2	whatev 
+3733	1	2	2	2	red 
+3732	1	2	2	2	jackson 
+3731	1	2	2	2	scroll 
+3730	1	2	2	2	increment 
+3729	1	2	2	2	jdk 
+3728	1	2	2	2	decide 
+3727	1	2	2	2	vector 
+3725	1	2	2	2	scoped 
+3724	1	2	2	2	interesting 
+3723	1	2	2	2	cglib 
+3722	2	2	2	2	obtain the 
+3721	1	2	2	2	exclude 
+3720	1	2	2	2	image 
+3719	1	2	2	2	chat 
+3718	1	2	2	2	2nd 
+3717	1	2	2	2	price 
+3715	1	2	2	2	big 
+3714	1	5	4	4	term 
+3712	1	4	3	3	collector 
+3711	2	2	2	2	garbage collector 
+3710	1	3	3	3	cms 
+3709	1	4	3	3	gc 
+3708	1	2	2	2	previous 
+3706	2	2	2	2	computer s 
+3705	1	2	2	2	technical 
+3704	1	3	3	3	mode 
+3703	1	7	6	6	append 
+3702	2	2	2	2	append mode 
+3701	2	2	2	4	append to 
+3699	1	2	2	2	syntax 
+3698	1	2	2	2	view 
+3697	1	2	2	2	determine 
+3696	1	2	2	2	home 
+3695	1	2	2	2	final 
+3694	1	3	3	3	core 
+3692	1	4	4	4	scope 
+3691	1	8	5	5	static 
+3690	2	2	2	3	static method 
+3689	1	4	4	4	exactly 
+3688	1	3	2	2	test1 
+3687	1	2	2	2	instantiate 
+3686	1	2	2	2	retry 
+3685	1	2	2	2	design 
+3684	1	2	2	2	fully 
+3681	1	3	3	3	stop 
+3680	1	2	1	1	dash 
+3679	1	3	3	3	represent 
+3678	1	3	3	3	compare 
+3677	1	2	2	2	clarify 
+3676	1	4	4	4	replace 
+3674	1	6	6	6	oracle 
+3673	2	2	2	2	oracle function 
+3672	1	4	3	3	match 
+3671	1	3	3	3	strings 
+3669	1	2	2	2	framework 
+3668	1	4	4	4	configure 
+3667	2	2	2	3	configure in 
+3666	1	3	2	2	int 
+3665	1	8	8	8	detail 
+3662	1	2	1	1	quantify 
+3661	1	2	2	2	regular 
+3660	1	4	4	4	assign 
+3659	1	2	2	2	last 
+3658	1	2	2	2	understand 
+3657	1	3	3	3	style 
+3656	1	5	5	5	heap 
+3654	1	2	2	2	manage 
+3653	1	5	5	5	copy 
+3652	1	3	3	3	jsonarray 
+3651	1	2	2	2	comparator 
+3650	1	3	3	3	dynamic 
+3649	1	4	3	3	sort 
+3647	1	2	1	1	sunpkcs11 
+3646	1	2	2	2	provider 
+3645	1	3	3	3	link 
+3644	1	2	1	1	three 
+3643	1	2	2	2	bytebuffer 
+3642	1	3	3	3	quick 
+3641	2	2	2	2	quick fix 
+3640	1	2	2	2	vbox 
+3637	1	2	1	1	neo4j 
+3636	1	3	3	3	jna 
+3635	1	2	2	2	debug 
+3634	1	2	2	2	bundle 
+3633	2	3	2	2	length of 
+3632	3	2	1	1	length of utf 
+3631	1	3	3	3	pair 
+3630	1	2	2	2	reduce 
+3629	1	3	3	3	easy 
+3628	1	2	2	2	ascii 
+3627	1	2	2	2	symbol 
+3625	1	4	3	3	utf 
+3623	2	2	2	2	utf 8 
+3622	1	2	2	2	yet 
+3621	2	2	2	2	programmatically create 
+3620	1	2	2	2	local 
+3619	1	2	2	2	plug 
+3618	1	3	3	3	jre 
+3616	1	3	3	3	insert 
+3615	2	2	2	3	insert the 
+3614	1	2	2	2	enough 
+3613	1	3	2	2	state 
+3611	1	4	4	4	usually 
+3610	1	2	2	2	ask 
+3609	1	4	4	4	old 
+3608	3	2	2	2	instantiation through jsf 
+3607	1	2	1	1	ide 
+3606	1	2	2	2	better 
+3605	1	8	7	7	jsf 
+3604	1	2	2	2	keyword 
+3603	1	2	2	2	manually 
+3602	1	8	8	8	basically 
+3601	2	2	2	5	basically pron 
+3600	1	5	4	4	xml 
+3599	2	2	2	2	xml and 
+3598	1	2	2	2	random 
+3597	1	2	2	2	customize 
+3596	1	6	6	6	accept 
+3595	2	2	2	4	accept a 
+3594	1	2	2	2	produce 
+3593	1	5	5	5	repository 
+3592	1	2	2	2	hit 
+3591	1	4	4	4	seem 
+3590	1	2	2	2	pro 
+3589	1	2	2	2	vs 
+3588	2	2	2	2	hence the 
+3587	1	3	3	3	close 
+3586	1	6	5	5	level 
+3585	2	2	2	3	level of 
+3583	1	2	2	2	likely 
+3582	1	3	3	3	perform 
+3581	1	4	4	4	se 
+3580	1	3	3	3	exact 
+3579	1	5	5	5	format 
+3578	1	3	3	3	python 
+3576	1	10	8	8	text 
+3575	2	2	2	2	text file 
+3573	1	3	3	3	report 
+3572	1	2	2	2	interrupt 
+3571	1	7	7	7	tell 
+3570	2	5	5	6	tell pron 
+3569	1	2	2	2	blockingqueue 
+3568	1	4	4	4	node 
+3567	1	6	6	6	process 
+3566	1	3	3	3	logic 
+3564	1	5	3	3	os 
+3562	1	2	2	2	throughout 
+3561	1	4	4	4	choose 
+3560	1	2	2	2	gradle 
+3559	1	3	2	2	appcompat 
+3558	1	3	3	3	refer 
+3557	2	2	2	2	refer to 
+3556	1	6	6	6	modify 
+3555	2	4	4	4	modify the 
+3553	1	5	5	5	otherwise 
+3552	2	3	3	4	otherwise pron 
+3551	1	2	2	2	position 
+3550	1	6	6	6	remove 
+3546	1	3	3	3	range 
+3545	1	2	2	2	expand 
+3544	1	2	2	2	flag 
+3543	1	2	2	2	vm 
+3542	1	8	8	8	issue 
+3541	2	3	3	5	issue be 
+3538	1	8	5	5	char 
+3536	1	4	4	4	encoding 
+3535	2	2	2	4	encoding use 
+3534	1	2	2	2	platform 
+3533	1	4	4	4	translate 
+3532	1	2	2	2	println 
+3531	1	4	4	4	though 
+3530	2	2	2	2	though pron 
+3528	1	2	2	2	terminate 
+3527	1	4	4	4	receive 
+3526	2	2	2	3	receive the 
+3525	1	5	4	4	binary 
+3523	1	2	2	2	location 
+3522	1	4	4	4	extract 
+3521	1	2	2	2	fun 
+3520	1	2	2	2	jni 
+3519	1	4	4	4	native 
+3518	2	2	2	2	native library 
+3517	1	2	2	2	j 
+3516	1	2	2	2	src 
+3515	1	2	2	2	artifact 
+3514	1	2	1	1	js 
+3513	1	2	2	2	forward 
+3512	1	3	3	3	article 
+3510	1	2	2	2	party 
+3509	1	3	3	3	bower 
+3508	2	2	2	2	bower component 
+3507	1	3	3	3	consume 
+3506	1	4	4	4	back 
+3505	1	2	2	2	around 
+3504	1	2	2	2	equality 
+3503	1	3	3	3	against 
+3502	1	3	3	3	guide 
+3500	1	2	2	2	logcat 
+3499	1	3	3	3	warning 
+3498	2	2	2	2	allow pron 
+3497	1	4	3	3	item 
+3496	1	2	2	2	operation 
+3495	1	3	3	3	parallel 
+3494	1	14	14	14	stream 
+3491	1	4	4	4	count 
+3490	1	3	3	3	later 
+3488	1	8	8	8	reference 
+3487	2	2	2	5	reference to 
+3486	1	2	2	2	group 
+3485	1	2	2	2	capture 
+3484	1	2	2	2	explain 
+3483	1	9	8	8	regex 
+3482	2	2	2	2	regex for 
+3479	1	2	2	2	ago 
+3478	1	4	4	4	expression 
+3477	1	7	7	7	map 
+3476	2	2	2	2	heat map 
+3475	1	2	2	2	scenario 
+3474	1	2	2	2	2008 
+3473	1	5	5	5	hold 
+3472	2	2	2	5	hold the 
+3471	1	11	11	11	show 
+3470	2	2	2	2	show time 
+3469	2	2	2	2	show only 
+3468	2	2	2	4	show that 
+3467	2	2	2	5	show pron 
+3466	1	3	3	3	controller 
+3465	1	3	3	3	collection 
+3464	1	3	3	3	over 
+3463	1	3	3	3	tag 
+3462	1	2	2	2	jstl 
+3461	1	3	3	3	header 
+3460	1	4	4	4	display 
+3459	1	5	5	5	particular 
+3458	1	2	2	2	behaviour 
+3457	1	3	3	3	reason 
+3456	1	3	3	3	constraint 
+3455	2	2	2	2	constraint and 
+3454	1	2	2	2	fact 
+3453	1	5	4	4	exist 
+3452	2	2	1	1	exist one 
+3451	1	2	2	2	intend 
+3450	1	2	2	2	locate 
+3449	1	3	2	2	encrypt 
+3448	2	2	1	1	encrypt text 
+3447	1	3	2	2	servlet 
+3446	1	2	2	2	github 
+3445	1	2	2	2	objectmapper 
+3444	1	4	4	4	inject 
+3443	1	4	4	4	proxy 
+3441	1	3	3	3	cause 
+3440	2	2	2	2	cause by 
+3439	1	3	3	3	constructor 
+3438	1	3	3	3	setter 
+3437	1	2	2	2	generally 
+3436	1	6	6	6	field 
+3434	1	6	6	6	equivalent 
+3433	1	2	2	2	token 
+3432	1	4	4	4	move 
+3431	1	11	10	10	loop 
+3429	2	2	2	3	loop through 
+3428	2	2	2	4	loop and 
+3427	1	2	2	2	break 
+3424	1	4	4	4	enter 
+3423	1	4	4	4	press 
+3422	2	2	2	2	press enter 
+3421	1	2	2	2	keyboard 
+3420	1	6	5	5	iterate 
+3419	2	2	2	3	iterate the 
+3418	1	6	5	5	hour 
+3417	2	2	2	2	hour to 
+3416	1	2	2	2	month 
+3415	1	3	3	3	year 
+3414	1	2	1	1	album 
+3413	1	9	9	9	such 
+3412	2	2	2	2	such problem 
+3411	2	5	5	5	such as 
+3410	1	2	2	2	special 
+3409	1	2	1	1	rsa 
+3408	1	2	2	2	along 
+3407	1	4	4	4	public 
+3405	1	2	2	2	2013 
+3404	1	11	9	9	date 
+3402	1	7	7	7	url 
+3397	1	2	2	2	plugin 
+3396	1	2	2	2	tutorial 
+3395	2	2	1	1	pure java 
+3394	1	2	2	2	protocol 
+3393	1	7	7	7	database 
+3391	1	5	3	3	driver 
+3390	1	3	3	3	c 
+3389	1	4	4	4	window 
+3388	2	2	2	2	window open 
+3387	1	4	3	3	tab 
+3384	1	4	4	4	control 
+3383	2	2	2	2	control panel 
+3382	1	7	6	6	click 
+3381	2	5	4	4	click on 
+3380	3	2	2	2	click on the 
+3379	1	5	5	5	7 
+3378	2	2	2	3	7 use 
+3377	1	4	4	4	windows 
+3376	1	2	2	2	dsn 
+3375	1	4	3	3	event 
+3374	2	2	2	2	event mechanism 
+3373	1	4	4	4	still 
+3372	1	4	3	3	bug 
+3370	1	7	7	7	1 
+3367	1	4	4	4	ant 
+3365	1	4	4	4	junit 
+3364	1	4	4	4	guava 
+3363	1	6	6	6	comment 
+3362	1	2	2	2	challenge 
+3361	1	5	4	4	jpa 
+3360	2	2	1	1	jpa number 
+3359	1	4	4	4	resolve 
+3358	2	2	2	2	resolve this 
+3357	2	2	2	3	resolve pron 
+3356	1	5	5	5	happen 
+3353	1	3	3	3	pointer 
+3352	1	2	2	2	never 
+3351	1	3	3	3	netbean 
+3350	1	2	2	2	unique 
+3349	1	3	3	3	important 
+3345	1	3	3	3	session 
+3344	1	8	8	8	configuration 
+3343	2	2	2	2	configuration file 
+3342	1	15	12	12	component 
+3341	5	2	2	2	component family and renderer type 
+3339	3	2	2	2	recommend that pron 
+3338	2	2	2	2	mobile application 
+3337	1	2	2	2	odata 
+3336	1	6	6	6	consider 
+3335	3	3	3	3	consider the follow 
+3334	1	4	3	3	future 
+3333	1	14	14	14	please 
+3332	2	3	3	3	please see 
+3331	3	2	2	2	please see the 
+3330	2	4	4	4	please help 
+3329	3	3	3	3	please help pron 
+3328	1	10	10	10	version 
+3326	2	6	6	6	version of 
+3325	3	2	2	2	version of jsf 
+3324	1	5	5	5	log 
+3323	3	2	2	2	log and find 
+3322	1	2	2	2	lib 
+3321	1	6	6	6	simply 
+3320	2	2	2	2	simply add 
+3319	1	3	3	3	outside 
+3318	1	13	13	13	where 
+3317	2	4	4	9	where pron 
+3316	3	2	2	6	where pron be 
+3315	1	2	2	2	hierarchy 
+3314	1	3	3	3	parent 
+3313	1	4	4	4	almost 
+3312	2	2	2	2	manifest file 
+3311	1	4	4	4	classpath 
+3310	2	2	2	2	classpath in 
+3308	1	2	2	2	external 
+3307	1	13	12	12	include 
+3306	2	3	3	8	include the 
+3304	1	4	4	4	sure 
+3302	1	3	3	3	quote 
+3301	1	3	3	3	double 
+3300	1	5	5	5	currently 
+3298	1	2	2	2	batik 
+3297	1	4	4	4	document 
+3295	1	6	6	6	finally 
+3294	1	28	26	26	string 
+3293	2	2	2	4	string as 
+3292	2	2	2	9	string be 
+3289	1	7	7	7	json 
+3286	1	3	3	3	someone 
+3282	1	2	2	2	subclass 
+3281	1	2	2	2	abstract 
+3280	1	7	7	7	non 
+3279	2	2	2	2	non parallel 
+3278	1	2	2	2	instruction 
+3277	1	2	2	2	short 
+3276	1	5	5	5	suggest 
+3275	2	2	2	2	suggest use 
+3272	1	3	3	3	nothing 
+3271	1	2	2	2	goal 
+3270	1	4	4	4	id 
+3269	1	9	9	9	str 
+3268	2	3	3	3	str object 
+3266	1	2	2	2	row 
+3265	1	5	5	5	index 
+3263	1	3	2	2	finish 
+3262	2	3	3	3	until pron 
+3261	1	2	2	2	side 
+3260	1	2	2	2	accordingly 
+3259	1	10	10	10	update 
+3258	2	2	2	6	update the 
+3257	1	3	3	3	status 
+3256	1	3	3	3	processing 
+3255	1	4	4	4	via 
+3254	1	2	2	2	periodically 
+3253	1	3	3	3	desire 
+3252	1	2	2	2	javascript 
+3251	1	7	7	7	maybe 
+3250	2	2	2	4	maybe pron 
+3249	1	15	15	15	know 
+3248	2	5	5	6	know if 
+3247	2	5	5	8	know the 
+3246	2	2	2	2	know what 
+3245	1	2	2	2	filename 
+3244	1	2	2	2	supply 
+3243	1	6	5	5	second 
+3241	1	2	2	2	sleep 
+3240	1	10	9	9	page 
+3238	1	10	8	8	progress 
+3236	1	19	14	14	list 
+3235	2	2	2	2	list several 
+3234	2	4	4	5	list of 
+3233	2	2	2	5	list in 
+3231	1	13	12	12	problem 
+3230	2	2	2	8	problem pron 
+3227	1	4	3	3	additional 
+3226	2	2	1	1	additional type 
+3225	1	6	6	6	open 
+3224	2	2	2	3	open a 
+3223	1	3	3	3	is 
+3222	1	8	4	4	30 
+3218	1	7	7	7	day 
+3217	2	2	2	3	day and 
+3216	1	3	3	3	end 
+3215	1	10	10	10	go 
+3214	2	4	4	5	go to 
+3213	1	2	2	2	even 
+3212	1	4	4	4	private 
+3211	2	2	2	2	private method 
+3210	1	3	3	3	mock 
+3209	1	2	2	2	pick 
+3208	1	8	8	8	3 
+3207	2	2	2	2	3 hour 
+3206	2	6	5	5	able to 
+3205	1	9	9	9	store 
+3204	2	2	2	4	store the 
+3203	2	2	2	6	store pron 
+3202	3	2	2	5	store in a 
+3201	1	2	1	1	yahoo 
+3200	1	10	10	10	anyone 
+3197	1	3	3	3	jsp 
+3196	1	2	2	2	compiler 
+3195	1	9	9	9	exception 
+3194	2	3	3	4	exception be 
+3193	3	2	2	2	exception be not 
+3190	1	3	3	3	whether 
+3189	2	2	2	2	whether pron 
+3188	1	2	2	2	tip 
+3187	1	3	3	3	socket 
+3186	1	12	11	11	message 
+3185	2	3	3	5	message be 
+3183	1	6	6	6	support 
+3177	1	17	17	17	web 
+3176	2	15	15	15	web address 
+3171	2	2	2	2	web application 
+3170	1	5	5	5	sample 
+3169	2	3	3	3	sample code 
+3168	1	6	6	6	available 
+3167	2	2	2	3	available which 
+3166	2	2	2	5	available to 
+3165	1	2	2	2	quite 
+3164	1	2	2	2	guid 
+3163	1	2	2	2	purpose 
+3161	1	2	2	2	explicitly 
+3160	1	8	8	8	6 
+3158	1	3	3	3	suggestion 
+3157	1	6	6	6	hibernate 
+3156	1	6	6	6	re 
+3155	2	2	2	2	re use 
+3154	1	8	8	8	point 
+3153	2	2	2	2	point out 
+3152	2	3	3	4	point to 
+3150	1	3	3	3	extra 
+3149	1	3	2	2	valid 
+3148	1	12	12	12	answer 
+3145	1	2	2	2	area 
+3144	2	2	2	2	attempt to 
+3143	1	11	10	10	character 
+3141	1	4	4	4	svg 
+3140	2	2	2	2	svg file 
+3139	1	8	8	8	convert 
+3138	2	2	2	5	convert pron 
+3137	2	3	3	7	convert to 
+3136	1	3	3	3	content 
+3135	2	2	2	2	content use 
+3134	1	4	4	4	pdf 
+3133	1	4	4	4	load 
+3132	2	2	2	4	load the 
+3131	1	30	28	28	number 
+3130	3	2	1	1	number second with 
+3129	2	4	4	5	number of 
+3128	2	2	2	6	number and 
+3127	2	3	3	14	number be 
+3123	1	16	15	15	no 
+3122	2	2	1	1	no problem 
+3119	1	7	6	6	word 
+3117	1	2	2	2	bigdecimal 
+3116	1	5	5	5	integer 
+3115	1	7	7	7	print 
+3114	2	2	2	3	print a 
+3113	1	12	11	11	button 
+3112	2	2	2	2	button be 
+3111	1	3	3	3	listener 
+3110	1	11	11	11	compile 
+3109	2	2	2	2	compile time 
+3108	2	2	2	4	compile and 
+3107	1	4	4	4	getter 
+3106	2	2	2	2	getter method 
+3105	1	2	2	2	standard 
+3104	1	6	6	6	entity 
+3102	1	9	9	9	property 
+3098	1	15	13	13	byte 
+3097	2	2	2	2	byte buffer 
+3096	3	2	2	2	byte instead of 
+3095	2	2	1	2	byte for 
+3094	1	4	4	4	far 
+3093	1	3	3	3	next 
+3090	1	18	17	17	contain 
+3089	2	3	3	5	contain a 
+3088	3	2	2	4	contain code fragment 
+3087	1	4	4	4	body 
+3086	1	6	6	6	http 
+3085	1	4	4	4	form 
+3084	1	4	4	4	separate 
+3083	1	10	10	10	send 
+3081	1	2	2	2	attribute 
+3080	1	20	19	19	type 
+3079	2	4	4	8	type of 
+3078	2	2	2	3	type by 
+3077	2	2	2	10	type code 
+3076	2	3	3	8	type be 
+3073	1	4	4	4	mention 
+3072	1	2	2	2	caveat 
+3071	1	4	4	4	wrong 
+3069	1	2	2	2	correct 
+3068	1	2	1	1	w3schools 
+3067	1	2	2	2	encode 
+3066	1	7	6	6	memory 
+3064	1	2	2	2	turn 
+3063	1	2	2	2	tree 
+3062	1	6	5	5	root 
+3061	2	2	1	1	root value 
+3060	1	2	2	2	linux 
+3059	1	18	18	18	something 
+3058	2	14	14	15	something like 
+3057	3	10	10	11	something like this 
+3054	1	3	3	3	figure 
+3053	2	2	2	3	figure out 
+3052	1	4	3	3	export 
+3051	1	3	3	3	full 
+3050	1	4	4	4	avoid 
+3049	1	3	3	3	hint 
+3047	1	3	3	3	enable 
+3046	1	30	29	29	find 
+3044	2	5	5	5	find out 
+3043	3	3	3	3	find out that 
+3042	2	3	3	5	find a 
+3041	3	2	2	2	find a solution 
+3040	2	4	4	15	find the 
+3039	2	2	2	8	find that 
+3038	2	2	2	21	find pron 
+3036	1	6	5	5	own 
+3035	1	3	3	3	graph 
+3034	1	8	8	8	generate 
+3033	2	3	3	3	generate a 
+3032	4	2	2	2	generate a code fragment 
+3031	1	3	3	3	play 
+3029	1	11	11	11	android 
+3027	2	2	2	2	android app 
+3026	2	2	2	2	android application 
+3025	1	6	6	6	few 
+3024	1	4	4	4	download 
+3022	1	6	6	6	response 
+3020	1	3	3	3	requirement 
+3018	1	2	2	2	account 
+3017	2	2	2	2	thus pron 
+3016	1	5	5	5	case 
+3015	2	2	2	5	case pron 
+3014	1	19	19	19	each 
+3013	4	2	2	2	each str object contain 
+3012	1	4	3	3	parser 
+3010	1	2	2	2	dynamically 
+3009	1	3	3	3	reader 
+3008	2	2	2	2	reader be 
+3007	2	6	6	6	kind of 
+3006	1	5	5	5	both 
+3005	1	2	2	2	combine 
+3004	1	5	5	5	course 
+3002	1	4	4	4	pattern 
+3000	1	2	2	2	factory 
+2999	1	8	8	8	table 
+2997	1	3	3	3	save 
+2996	2	2	2	2	save pron 
+2995	1	17	17	17	same 
+2994	1	6	6	6	every 
+2993	1	9	8	8	give 
+2992	2	4	4	5	give pron 
+2991	3	2	2	2	give pron a 
+2990	3	2	2	3	give pron the 
+2989	1	15	15	15	input 
+2988	2	3	3	4	input stream 
+2987	2	2	2	7	input be 
+2986	1	7	7	7	single 
+2985	1	8	8	8	another 
+2984	1	13	13	13	why 
+2983	2	2	2	5	why not 
+2982	2	3	3	4	why do 
+2981	3	2	2	4	why do pron 
+2980	2	2	2	5	why this 
+2979	2	3	3	10	why pron 
+2978	1	4	4	4	argument 
+2977	1	20	18	18	line 
+2976	2	2	2	2	line number 
+2975	2	4	4	4	line of 
+2974	3	2	2	2	line of datum 
+2973	2	2	2	5	line and 
+2972	2	2	2	5	line be 
+2971	1	4	4	4	command 
+2970	1	5	5	5	parse 
+2969	2	4	4	4	parse the 
+2968	1	5	4	4	empty 
+2966	1	10	10	10	base 
+2965	2	8	8	8	base on 
+2964	3	4	4	7	base on the 
+2963	1	6	6	6	achieve 
+2960	1	15	15	15	good 
+2959	2	5	5	5	good practice 
+2958	2	2	2	3	good way 
+2957	1	14	14	14	may 
+2955	2	2	2	3	may have 
+2954	2	4	4	6	may be 
+2953	1	8	8	8	right 
+2950	1	6	6	6	always 
+2949	1	3	3	3	arraylist 
+2948	2	10	10	10	let pron 
+2945	1	3	3	3	concurrent 
+2944	1	11	11	11	above 
+2942	2	3	3	8	above pron 
+2941	1	3	3	3	ensure 
+2940	1	19	19	19	check 
+2938	2	5	5	8	check the 
+2937	3	2	2	2	check the return 
+2936	1	6	6	6	before 
+2935	2	3	3	5	before pron 
+2934	3	2	2	4	before pron be 
+2933	1	5	5	5	lot 
+2932	2	2	2	2	lot of 
+2931	1	5	5	5	anything 
+2930	1	7	7	7	miss 
+2925	1	13	12	12	folder 
+2924	2	2	2	2	folder outside 
+2922	1	2	2	2	bin 
+2921	1	10	10	10	eclipse 
+2920	2	2	2	3	eclipse s 
+2918	1	18	17	17	take 
+2916	2	3	3	7	take a 
+2915	4	2	2	2	take a look at 
+2913	1	11	10	10	variable 
+2912	1	11	11	11	instance 
+2911	2	3	3	5	instance variable 
+2909	1	11	10	10	structure 
+2908	2	2	2	2	structure in 
+2906	1	6	6	6	data 
+2905	2	2	2	2	data structure 
+2904	1	2	2	2	share 
+2903	1	6	6	6	implement 
+2902	2	2	2	3	implement a 
+2901	1	5	5	5	multiple 
+2900	1	2	2	2	straight 
+2899	1	14	14	14	instead 
+2898	2	10	10	10	instead of 
+2895	1	4	4	4	language 
+2893	1	17	17	17	note 
+2892	2	8	8	9	note that 
+2890	3	2	2	5	note that pron 
+2889	2	3	3	11	note pron 
+2887	1	37	30	30	time 
+2886	2	8	8	8	time zone 
+2884	2	2	2	15	time pron 
+2883	2	2	2	6	time in 
+2880	1	8	8	8	statement 
+2878	1	4	4	4	switch 
+2877	1	8	6	6	select 
+2876	7	2	2	2	select which function be to be call 
+2875	1	13	13	13	user 
+2874	2	2	2	3	user input 
+2873	2	2	2	6	user be 
+2872	1	11	11	11	etc 
+2869	1	3	1	1	mango 
+2868	1	3	1	1	apple 
+2867	1	27	26	26	at 
+2866	2	3	3	3	at least 
+2865	2	2	2	2	at all 
+2864	2	2	2	8	at a 
+2863	2	7	7	16	at the 
+2862	3	2	2	2	at the beginning 
+2860	1	15	14	14	request 
+2859	2	2	2	7	request to 
+2857	1	3	3	3	cross 
+2856	1	7	7	7	handle 
+2854	1	3	3	3	mechanism 
+2853	1	6	5	5	element 
+2851	1	8	8	8	pass 
+2850	4	2	2	2	pass a code fragment 
+2849	1	2	2	2	original 
+2848	1	8	7	7	long 
+2847	2	3	2	2	long term 
+2843	1	5	5	5	main 
+2842	2	2	2	2	main thread 
+2841	1	6	6	6	current 
+2840	1	4	4	4	fail 
+2839	2	2	2	3	fail pron 
+2837	1	7	7	7	4 
+2835	1	11	11	11	e 
+2834	2	7	7	7	e g 
+2833	4	2	2	4	e g code fragment 
+2832	3	2	2	5	e g pron 
+2831	1	5	4	4	x 
+2830	1	20	20	20	2 
+2828	1	4	4	4	delete 
+2826	1	10	8	8	8 
+2825	3	3	1	1	8 pm in 
+2824	1	6	6	6	solve 
+2823	2	3	3	5	solve pron 
+2822	1	9	9	9	thing 
+2821	2	2	2	7	thing pron 
+2819	1	3	3	3	signature 
+2818	1	3	3	3	must 
+2817	1	9	9	9	error 
+2816	2	2	2	2	error message 
+2814	1	4	4	4	invoke 
+2813	1	7	7	7	block 
+2811	1	16	16	16	after 
+2809	1	6	6	6	expect 
+2806	1	3	3	3	approach 
+2805	1	8	8	8	different 
+2804	2	2	2	2	less than 
+2803	1	6	6	6	initialize 
+2802	1	5	5	5	throw 
+2799	1	13	13	13	than 
+2798	2	3	3	3	than 5 
+2797	4	2	2	2	than 5 hobby pron 
+2796	1	5	5	5	5 
+2794	1	5	5	5	size 
+2793	1	5	5	5	fix 
+2792	2	2	2	4	fix pron 
+2791	1	14	12	12	array 
+2790	2	2	2	4	array of 
+2789	2	2	2	3	array with 
+2788	2	2	2	3	array and 
+2787	2	2	2	5	array be 
+2785	1	12	11	11	class 
+2784	2	2	1	1	class like 
+2781	1	59	59	59	here 
+2780	3	2	2	2	here web address 
+2779	2	3	3	24	here pron 
+2777	2	31	31	43	here be 
+2776	4	2	2	3	here be how pron 
+2771	3	11	11	23	here be the 
+2770	5	4	4	5	here be the file name 
+2762	1	7	7	7	appreciate 
+2760	1	9	9	9	possible 
+2759	2	5	5	6	possible to 
+2757	1	6	6	6	however 
+2756	2	4	4	5	however pron 
+2755	3	2	2	2	however pron be 
+2754	1	20	19	19	write 
+2753	2	7	7	9	write a 
+2752	2	2	2	15	write pron 
+2749	1	7	7	7	information 
+2748	2	3	3	4	information pron 
+2747	1	15	15	15	output 
+2746	2	3	3	4	output directory 
+2744	2	3	3	3	output of 
+2742	1	4	4	4	relate 
+2741	2	2	2	2	relate to 
+2740	1	18	16	16	datum 
+2739	2	2	2	2	datum which 
+2738	2	3	3	6	datum from 
+2736	1	2	2	2	performance 
+2735	1	3	3	3	yes 
+2734	2	2	2	2	yes pron 
+2731	1	5	5	5	leave 
+2730	2	3	3	4	leave the 
+2729	1	2	2	2	cell 
+2728	1	2	2	2	populate 
+2727	1	11	10	10	first 
+2725	1	17	14	14	path 
+2724	2	2	2	2	path of 
+2723	2	2	2	2	path from 
+2721	1	13	12	12	build 
+2720	2	3	3	3	build path 
+2719	2	3	3	11	build pron 
+2718	1	42	41	41	add 
+2717	2	2	2	3	add more 
+2716	2	7	7	14	add a 
+2715	4	2	2	2	add file name file 
+2714	2	4	4	18	add the 
+2712	2	2	2	6	add this 
+2711	3	2	2	10	add code fragment 
+2710	1	6	5	5	rule 
+2709	1	3	3	3	annotation 
+2708	2	2	2	3	annotation pron 
+2707	1	14	13	13	result 
+2705	2	2	2	4	result in 
+2703	1	8	8	8	test 
+2702	1	2	2	2	powermock 
+2701	1	4	4	4	integrate 
+2699	1	26	26	26	work 
+2698	2	2	2	2	work fine 
+2697	2	2	2	2	work without 
+2695	2	2	2	7	work for 
+2694	2	5	5	8	work with 
+2692	1	2	2	2	injection 
+2691	2	3	3	3	due to 
+2690	1	20	20	20	more 
+2689	2	2	2	2	more detail 
+2688	2	5	5	5	more than 
+2687	3	2	2	2	more than 5 
+2685	1	8	8	8	order 
+2683	1	10	10	10	client 
+2681	1	17	16	16	change 
+2680	2	8	8	13	change the 
+2679	1	4	4	4	inputstream 
+2678	1	2	2	2	agent 
+2677	1	4	4	4	font 
+2676	1	3	3	3	attach 
+2675	2	2	2	2	attach to 
+2674	1	2	2	2	maintain 
+2673	1	3	2	2	executorservice 
+2672	1	4	4	4	runnable 
+2671	1	3	3	3	submit 
+2670	2	2	2	2	submit button 
+2669	1	19	17	17	thread 
+2668	2	2	2	2	thread 2 
+2666	1	2	2	2	internal 
+2665	1	42	40	40	s 
+2663	2	2	2	2	s parent 
+2662	3	7	6	13	s code fragment 
+2661	4	2	2	3	s code fragment method 
+2660	6	2	1	2	s code fragment with code fragment 
+2659	1	42	36	36	call 
+2658	2	2	2	19	call the 
+2657	3	3	3	5	call api name 
+2656	4	2	2	2	call api name test1 
+2655	2	2	2	6	call this 
+2654	3	8	8	12	call code fragment 
+2653	4	2	2	3	call code fragment with 
+2651	2	4	4	25	call pron 
+2648	1	64	57	57	will 
+2647	5	2	2	2	will take care of the 
+2645	2	2	2	3	will see 
+2644	4	2	1	2	will depend on the 
+2643	3	4	4	5	will need to 
+2642	2	2	2	3	will help 
+2639	2	3	3	9	will not 
+2638	2	3	2	45	will pron 
+2637	3	2	1	5	will pron get 
+2634	2	13	11	26	will be 
+2633	3	2	2	2	will be initialize 
+2632	3	3	2	2	will be call 
+2631	1	67	63	63	method 
+2630	2	2	2	5	method call 
+2628	2	2	2	5	method which 
+2627	2	2	2	3	method should 
+2626	2	4	3	13	method of 
+2625	3	2	1	10	method of the 
+2624	2	2	2	8	method for 
+2623	2	3	3	12	method that 
+2622	3	2	2	5	method that do 
+2621	2	3	3	43	method pron 
+2620	2	2	2	16	method in 
+2619	2	5	4	28	method to 
+2618	2	2	2	20	method be 
+2612	1	7	7	7	specify 
+2611	2	2	2	3	specify in 
+2610	1	9	9	9	parameter 
+2609	2	2	2	3	parameter and 
+2608	3	2	2	4	parameter code fragment 
+2607	1	3	3	3	o 
+2606	1	46	38	38	object 
+2604	2	2	2	7	object that 
+2603	2	4	4	12	object and 
+2602	3	3	3	13	object code fragment 
+2601	2	2	2	26	object pron 
+2600	2	3	3	12	object in 
+2599	2	2	2	13	object be 
+2594	1	2	2	2	manager 
+2593	1	3	2	2	decision 
+2592	1	4	3	3	custom 
+2590	1	47	44	44	create 
+2589	2	3	3	5	create new 
+2588	3	2	2	2	create new rule 
+2587	2	4	4	4	create an 
+2586	3	2	2	2	create an object 
+2585	2	11	11	20	create a 
+2584	3	2	2	2	create a new 
+2583	3	2	2	9	create file name 
+2582	2	8	8	22	create the 
+2581	3	2	2	9	create the file 
+2580	2	3	2	5	create by 
+2578	1	2	2	2	convention 
+2577	1	2	2	2	site 
+2576	1	6	6	6	tool 
+2575	1	4	4	4	management 
+2574	1	18	18	18	dependency 
+2573	2	2	2	2	dependency include 
+2572	2	2	2	2	dependency management 
+2570	2	3	3	6	dependency to 
+2568	1	3	3	3	similar 
+2567	1	14	14	14	start 
+2566	2	2	2	9	start the 
+2564	1	8	8	8	these 
+2563	1	4	4	4	retrieve 
+2562	1	2	2	2	automatically 
+2561	1	2	2	2	netbeans 
+2560	1	39	38	38	want 
+2555	2	23	23	27	want to 
+2554	3	2	2	2	want to know 
+2552	3	2	2	2	want to check 
+2551	3	2	2	4	want to create 
+2550	3	3	3	9	want to use 
+2547	1	30	30	30	only 
+2546	2	2	2	2	only accept 
+2545	2	4	4	19	only the 
+2544	1	6	6	6	service 
+2543	2	2	2	3	service and 
+2541	1	6	6	6	several 
+2540	1	11	11	11	provide 
+2539	2	3	3	5	provide a 
+2538	1	81	76	76	if 
+2537	3	4	4	6	if there be 
+2536	4	2	2	3	if there be any 
+2534	2	2	2	13	if not 
+2533	2	2	2	3	if i 
+2532	2	5	4	39	if the 
+2531	3	2	2	2	if the user 
+2528	2	2	2	11	if this 
+2527	2	50	50	66	if pron 
+2526	3	2	2	4	if pron add 
+2523	3	2	2	5	if pron need 
+2522	3	3	3	21	if pron use 
+2521	3	3	3	14	if pron can 
+2520	3	5	5	11	if pron have 
+2519	4	2	2	6	if pron have a 
+2518	3	8	8	32	if pron be 
+2517	4	2	2	10	if pron be use 
+2516	1	33	33	33	example 
+2514	2	3	3	7	example of 
+2510	1	2	2	2	btw 
+2509	1	8	7	7	without 
+2508	2	3	2	3	without a 
+2507	3	2	1	2	without a time 
+2506	1	15	13	13	bean 
+2505	1	24	22	22	make 
+2504	2	3	3	3	make sure 
+2503	2	4	4	10	make a 
+2502	2	4	4	10	make the 
+2501	2	3	3	17	make pron 
+2499	1	2	2	2	developer 
+2498	1	36	36	36	how 
+2494	2	6	6	13	how do 
+2492	2	5	5	25	how pron 
+2491	3	2	2	10	how pron can 
+2490	3	2	2	4	how pron could 
+2489	2	9	9	15	how to 
+2488	3	2	2	6	how to do 
+2484	1	24	24	24	new 
+2482	2	2	2	5	new object 
+2479	1	3	3	3	certain 
+2478	1	9	8	8	implementation 
+2477	2	2	1	3	implementation of 
+2475	1	4	3	3	specific 
+2474	1	48	44	44	or 
+2473	2	4	4	6	or if 
+2472	3	2	2	6	or if pron 
+2471	2	6	6	19	or a 
+2468	2	2	2	18	or be 
+2467	1	20	20	20	two 
+2465	1	27	27	27	follow 
+2460	1	5	5	5	either 
+2459	1	2	2	2	initialization 
+2458	1	5	5	5	simple 
+2457	1	10	10	10	interface 
+2454	1	3	3	3	central 
+2453	1	2	2	2	model 
+2452	1	4	4	4	part 
+2451	2	3	3	4	part of 
+2450	1	4	4	4	wrap 
+2449	1	10	10	10	since 
+2448	3	2	2	4	since code fragment 
+2447	2	2	2	9	since pron 
+2446	1	8	7	7	context 
+2445	2	2	2	2	context object 
+2444	1	13	13	13	spring 
+2443	2	2	2	2	spring context 
+2442	2	2	2	11	spring be 
+2441	1	2	2	2	module 
+2440	1	3	3	3	notification 
+2439	1	59	58	58	get 
+2438	2	3	3	6	get an 
+2437	2	6	6	18	get a 
+2436	2	10	10	32	get the 
+2435	3	2	2	2	get the following 
+2434	2	6	6	11	get this 
+2433	3	2	2	2	get this string 
+2432	3	2	2	13	get code fragment 
+2431	2	5	5	46	get pron 
+2430	2	2	2	24	get to 
+2429	1	47	46	46	see 
+2428	2	3	3	4	see if 
+2427	2	2	2	3	see some 
+2426	2	11	11	25	see the 
+2425	2	2	2	5	see from 
+2424	2	4	4	8	see that 
+2421	2	2	2	22	see pron 
+2419	1	23	21	21	run 
+2418	2	2	2	3	run on 
+2417	2	3	3	4	run this 
+2416	3	2	1	2	run code fragment 
+2415	2	3	3	18	run pron 
+2414	2	2	2	4	run in 
+2412	1	9	9	9	assume 
+2411	2	5	5	5	assume that 
+2410	3	3	3	5	assume that pron 
+2409	5	2	2	2	assume that pron have a 
+2408	2	3	3	8	assume pron 
+2407	1	45	44	44	there 
+2406	2	2	2	5	there should 
+2402	2	24	24	40	there be 
+2400	3	2	2	2	there be one 
+2399	3	5	5	18	there be a 
+2398	3	3	3	7	there be any 
+2397	4	2	2	3	there be any good 
+2396	3	2	2	7	there be not 
+2394	1	24	23	23	out 
+2393	2	2	2	3	out how 
+2392	2	3	3	4	out there 
+2390	2	2	2	5	out of 
+2389	2	2	2	10	out the 
+2388	2	4	4	6	out that 
+2387	3	2	2	4	out that pron 
+2386	1	8	8	8	solution 
+2385	2	2	2	3	solution for 
+2383	1	14	14	14	through 
+2381	2	2	2	7	through a 
+2380	2	4	4	7	through the 
+2379	1	2	2	2	upload 
+2378	1	32	32	32	when 
+2377	2	5	5	17	when the 
+2376	3	2	2	2	when the user 
+2375	2	17	17	28	when pron 
+2374	3	2	2	5	when pron get 
+2373	4	2	2	3	when pron run this 
+2372	3	2	2	8	when pron have 
+2371	1	2	2	2	ftpserver 
+2370	1	10	10	10	apache 
+2369	2	2	2	2	apache poi 
+2368	2	2	2	2	apache commons 
+2364	1	6	6	6	idea 
+2362	1	3	3	3	intellij 
+2361	2	2	2	2	intellij idea 
+2360	1	19	19	19	below 
+2359	2	2	2	2	below show 
+2358	2	3	3	11	below code 
+2354	1	11	11	11	come 
+2353	2	2	2	2	come from 
+2352	2	2	2	3	come with 
+2351	1	10	8	8	tomcat 
+2350	2	2	1	1	tomcat embed 
+2349	2	2	2	2	tomcat 6 
+2348	1	13	12	12	server 
+2347	2	2	1	1	server object 
+2345	1	59	56	56	which 
+2344	2	3	2	3	which take 
+2343	2	4	4	6	which will 
+2342	2	2	2	3	which mean 
+2340	2	2	2	3	which return 
+2339	2	3	3	13	which can 
+2338	3	2	2	11	which can be 
+2337	2	5	5	40	which pron 
+2336	3	2	2	12	which pron can 
+2335	2	9	9	40	which be 
+2334	3	2	2	7	which be not 
+2333	3	2	2	22	which be the 
+2332	1	70	66	66	on 
+2331	2	2	2	2	on windows 
+2330	2	2	2	4	on start 
+2329	2	5	5	20	on a 
+2328	2	26	25	48	on the 
+2326	3	2	2	3	on what pron 
+2325	2	3	3	17	on and 
+2324	3	2	2	14	on code fragment 
+2323	2	2	2	21	on to 
+2322	1	7	6	6	depend 
+2321	2	5	4	4	depend on 
+2319	1	15	14	14	because 
+2318	2	4	4	4	because of 
+2317	2	2	2	2	because i 
+2316	2	2	2	7	because the 
+2315	2	3	3	11	because pron 
+2314	1	14	14	14	mean 
+2313	2	3	3	4	mean that 
+2312	4	2	2	2	mean that if pron 
+2311	2	4	4	14	mean pron 
+2310	3	2	2	3	mean pron can 
+2308	1	14	14	14	app 
+2307	2	2	2	2	app page 
+2306	2	2	2	2	app engine 
+2303	1	4	4	4	google 
+2302	1	2	2	2	stuff 
+2301	1	4	4	4	small 
+2300	1	25	24	24	some 
+2299	2	4	4	10	some of 
+2298	3	3	3	10	some of the 
+2297	1	4	4	4	develop 
+2296	1	5	5	5	actually 
+2295	2	2	2	4	actually pron 
+2294	1	5	5	5	put 
+2293	2	2	2	3	put pron 
+2292	1	4	4	4	trigger 
+2290	1	6	6	6	inside 
+2289	1	23	22	22	application 
+2288	2	4	4	12	application be 
+2286	1	18	18	18	other 
+2284	1	3	3	3	most 
+2283	1	8	8	8	system 
+2282	1	2	2	2	normal 
+2281	1	28	27	27	just 
+2280	2	2	2	2	just go 
+2278	2	3	3	12	just a 
+2277	2	3	3	5	just use 
+2275	2	3	3	11	just to 
+2274	1	2	2	2	treat 
+2273	1	13	13	13	jar 
+2272	2	3	3	5	jar file 
+2269	1	18	18	18	read 
+2268	2	2	2	2	read more 
+2267	2	3	3	5	read a 
+2266	2	4	4	11	read pron 
+2265	1	58	54	54	java 
+2264	2	2	2	3	java se 
+2263	2	2	2	3	java 7 
+2262	2	2	2	3	java 6 
+2261	2	3	3	4	java 8 
+2260	3	2	2	2	java build path 
+2259	2	2	2	26	java be 
+2256	1	10	10	10	while 
+2255	2	2	2	9	while pron 
+2254	1	13	13	13	into 
+2253	2	3	3	6	into the 
+2252	1	35	33	33	library 
+2251	2	2	2	2	library which 
+2250	2	2	2	3	library like 
+2249	2	2	2	5	library for 
+2247	2	2	2	6	library that 
+2246	2	3	3	12	library to 
+2245	2	2	2	16	library be 
+2243	1	8	8	8	require 
+2242	1	9	9	9	package 
+2241	2	3	3	7	package name 
+2239	1	10	10	10	option 
+2238	2	2	2	2	option on 
+2236	1	11	10	10	directory 
+2233	1	5	5	5	source 
+2232	2	3	3	3	source code 
+2231	1	6	6	6	keep 
+2230	1	14	13	13	program 
+2229	2	2	2	2	program which 
+2228	2	2	2	6	program to 
+2226	1	4	4	4	batch 
+2225	2	3	3	4	batch file 
+2224	1	3	3	3	execute 
+2223	1	2	2	2	draw 
+2222	1	9	9	9	declare 
+2221	2	3	3	7	declare pron 
+2220	1	53	53	53	should 
+2218	2	3	3	3	should look 
+2217	3	2	2	3	should look like 
+2216	2	4	4	8	should not 
+2215	3	2	2	7	should not be 
+2213	2	4	4	35	should pron 
+2212	2	4	4	5	should have 
+2211	3	2	2	3	should have be 
+2210	2	16	16	30	should be 
+2209	3	4	4	6	should be use 
+2207	1	69	66	66	like 
+2206	2	2	2	28	like the 
+2205	2	3	3	9	like so 
+2203	2	33	33	36	like this 
+2195	3	3	3	8	like code fragment 
+2189	1	17	15	15	access 
+2187	2	3	3	9	access a 
+2186	2	2	2	8	access the 
+2185	2	3	3	13	access pron 
+2184	2	2	2	7	access to 
+2183	1	5	4	4	key 
+2181	1	8	8	8	once 
+2180	2	4	4	6	once pron 
+2178	1	2	1	1	authorize 
+2177	1	13	13	13	think 
+2176	2	5	5	6	think of 
+2173	1	12	12	12	well 
+2172	2	4	4	8	well pron 
+2169	1	2	2	2	whereas 
+2168	1	10	10	10	function 
+2167	2	2	2	3	function for 
+2164	1	3	3	3	actual 
+2163	1	81	81	81	an 
+2162	2	2	2	2	an appointment 
+2161	2	2	2	2	an alternative 
+2160	2	3	3	3	an android 
+2159	3	3	3	3	an instance of 
+2158	2	3	3	4	an array 
+2157	2	2	2	2	an inputstream 
+2156	2	8	8	12	an object 
+2155	2	10	10	13	an example 
+2152	3	2	2	12	an file name 
+2151	2	4	4	6	an api 
+2150	3	5	5	22	an code fragment 
+2148	1	20	20	20	question 
+2147	2	7	7	14	question be 
+2143	1	25	24	24	one 
+2142	2	2	2	2	one byte 
+2141	2	3	3	7	one of 
+2139	1	4	4	4	step 
+2138	1	11	11	11	documentation 
+2137	2	3	3	4	documentation of 
+2135	1	17	17	17	up 
+2134	2	3	3	12	up the 
+2133	2	6	6	12	up to 
+2132	3	2	2	2	up to date 
+2130	1	29	29	29	look 
+2129	2	7	7	7	look at 
+2128	3	3	3	3	look at the 
+2127	2	13	13	16	look like 
+2125	3	2	2	9	look like pron 
+2122	2	2	2	6	look to 
+2121	1	4	4	4	complete 
+2119	1	5	5	5	task 
+2118	1	194	164	164	of 
+2116	2	3	2	2	of utf 
+2113	2	2	2	4	of str 
+2112	2	2	2	3	of day 
+2111	2	4	4	4	of course 
+2109	2	2	2	4	of input 
+2108	2	2	2	8	of time 
+2107	2	3	2	3	of datum 
+2106	2	2	2	12	of object 
+2104	2	2	2	4	of spring 
+2103	2	9	9	61	of a 
+2102	5	2	2	3	of a code fragment in 
+2101	3	3	3	16	of file name 
+2100	2	40	37	105	of the 
+2099	3	2	1	1	of the give 
+2098	3	3	3	31	of the code 
+2097	4	2	2	22	of the code fragment 
+2096	2	2	2	25	of that 
+2095	2	6	6	15	of this 
+2094	3	2	2	3	of this method 
+2093	2	12	12	48	of code 
+2092	3	8	8	37	of code fragment 
+2088	2	15	15	90	of pron 
+2084	1	36	34	34	all 
+2083	3	2	1	1	all sort of 
+2082	2	2	2	2	all variable 
+2081	2	3	3	7	all of 
+2080	3	2	2	5	all of the 
+2079	2	8	8	22	all the 
+2078	2	3	3	24	all pron 
+2077	1	332	276	276	a 
+2075	2	3	3	3	a resolution 
+2073	3	2	2	2	a piece of 
+2072	2	3	2	3	a static 
+2071	2	2	2	3	a dynamic 
+2070	2	2	2	4	a native 
+2069	2	2	2	5	a reference 
+2067	2	2	2	2	a particular 
+2066	2	2	2	2	a date 
+2065	2	3	3	3	a bug 
+2064	2	3	3	3	a couple 
+2063	3	2	2	2	a couple of 
+2062	2	6	6	12	a string 
+2060	2	3	3	4	a json 
+2059	3	2	2	2	a json structure 
+2058	2	3	2	3	a list 
+2057	2	2	2	2	a sample 
+2056	2	2	2	2	a positive 
+2054	2	5	5	5	a few 
+2053	2	2	2	3	a download 
+2051	2	5	5	5	a single 
+2050	2	2	2	6	a good 
+2048	2	4	4	4	a lot 
+2047	2	2	2	2	a unix 
+2046	2	3	2	10	a time 
+2045	3	2	2	3	a time zone 
+2044	2	3	3	5	a different 
+2042	2	7	7	24	a method 
+2040	4	2	1	1	a custom access decision 
+2039	2	2	2	3	a tool 
+2038	2	2	2	9	a dependency 
+2037	2	2	2	3	a similar 
+2036	2	8	8	12	a new 
+2035	2	2	2	2	a certain 
+2034	2	3	2	3	a specific 
+2033	2	2	2	2	a simple 
+2032	2	2	2	6	a spring 
+2031	2	4	4	6	a solution 
+2030	3	2	2	4	a solution to 
+2029	2	3	3	3	a small 
+2028	2	6	6	21	a java 
+2027	2	3	3	12	a library 
+2026	3	2	2	2	a library project 
+2025	2	3	3	10	a program 
+2023	3	3	3	4	a look at 
+2022	3	3	3	3	a for loop 
+2021	2	8	8	40	a file 
+2020	3	6	6	28	a file name 
+2019	3	4	4	7	a way to 
+2018	2	42	38	79	a code 
+2017	3	41	37	70	a code fragment 
+2016	4	3	3	5	a code fragment object 
+2014	5	2	2	4	a code fragment or a 
+2013	5	2	1	1	a code fragment which take 
+2012	4	3	3	21	a code fragment and 
+2011	4	3	3	46	a code fragment pron 
+2010	5	2	2	11	a code fragment pron can 
+2009	4	3	3	16	a code fragment in 
+2007	1	18	17	17	say 
+2006	2	2	2	7	say the 
+2005	2	2	2	8	say that 
+2004	4	2	1	3	say code fragment and 
+2003	2	3	3	12	say pron 
+2002	4	2	2	3	say pron have a 
+2000	1	4	4	4	per 
+1999	2	3	3	3	per the 
+1998	1	4	4	4	query 
+1996	1	52	49	49	need 
+1995	2	2	2	14	need a 
+1994	2	3	3	7	need for 
+1993	2	2	2	23	need the 
+1992	2	33	32	41	need to 
+1991	3	4	4	7	need to use 
+1990	3	2	2	7	need to do 
+1988	3	2	2	12	need to be 
+1985	2	2	2	2	guess pron 
+1984	1	7	7	7	edit 
+1982	1	2	2	2	await 
+1981	1	5	5	5	wait 
+1980	1	3	3	3	between 
+1979	1	3	3	3	difference 
+1977	1	37	37	37	also 
+1976	2	3	3	3	also try 
+1975	2	2	2	8	also use 
+1974	2	2	2	4	also do 
+1973	3	2	2	9	also code fragment 
+1972	2	2	2	27	also pron 
+1970	2	4	4	15	also be 
+1968	1	24	24	24	help 
+1967	2	5	5	15	help pron 
+1964	1	33	33	33	any 
+1962	2	2	2	2	any hint 
+1960	2	4	4	4	any idea 
+1959	2	2	2	2	any other 
+1958	2	5	5	7	any help 
+1956	1	7	7	7	connect 
+1955	2	2	2	6	connect to 
+1953	1	2	2	2	datasource 
+1952	1	6	5	5	null 
+1951	1	13	13	13	return 
+1950	2	3	3	4	return an 
+1949	4	2	2	2	return an instance of 
+1947	3	2	2	5	return code fragment 
+1946	1	35	35	35	but 
+1945	2	2	2	11	but not 
+1944	2	2	2	9	but this 
+1943	2	15	15	31	but pron 
+1942	3	2	2	4	but pron get 
+1941	3	2	2	2	but pron can 
+1940	3	3	3	19	but pron be 
+1939	1	2	2	2	jdbc 
+1938	1	119	113	113	for 
+1936	2	3	3	6	for each 
+1935	2	2	2	2	for eclipse 
+1934	2	2	2	4	for more 
+1933	2	5	5	9	for example 
+1932	3	2	2	3	for example if 
+1931	3	2	2	5	for which pron 
+1930	2	2	2	2	for read 
+1929	2	2	2	11	for java 
+1928	2	2	2	10	for an 
+1927	2	5	5	37	for a 
+1926	3	2	2	6	for a java 
+1925	2	3	3	5	for any 
+1924	3	2	2	12	for file name 
+1923	2	18	18	50	for the 
+1922	4	3	3	14	for the code fragment 
+1920	2	5	5	15	for this 
+1918	2	3	3	24	for code 
+1917	3	2	2	23	for code fragment 
+1916	2	9	9	75	for pron 
+1914	1	2	2	2	jndi 
+1913	1	48	47	47	try 
+1911	2	4	4	13	try use 
+1910	2	3	3	9	try this 
+1909	2	23	22	27	try to 
+1908	3	2	2	2	try to compile 
+1907	3	2	2	2	try to write 
+1906	3	2	2	2	try to make 
+1905	3	3	3	8	try to use 
+1903	1	88	83	83	not 
+1901	2	3	3	5	not at 
+1900	2	2	2	5	not create 
+1899	2	2	2	4	not get 
+1898	2	3	3	22	not a 
+1897	2	4	4	7	not need 
+1895	2	2	2	44	not the 
+1894	2	5	5	18	not use 
+1892	2	3	3	22	not code 
+1890	2	4	4	64	not pron 
+1889	2	2	2	22	not in 
+1886	2	6	6	46	not be 
+1884	1	155	136	136	file 
+1882	2	3	2	6	file path 
+1881	2	2	2	6	file s 
+1880	2	2	2	4	file into 
+1879	3	3	2	12	file file name 
+1878	2	2	2	21	file use 
+1877	2	100	93	100	file name 
+1876	3	2	2	4	file name number 
+1875	4	2	1	3	file name create by 
+1874	4	2	2	3	file name dependency in 
+1873	3	2	2	6	file name which 
+1871	3	3	3	12	file name for 
+1870	3	5	5	12	file name file 
+1869	3	2	2	13	file name name 
+1868	3	3	3	13	file name api 
+1867	4	2	2	3	file name api for 
+1865	3	3	3	12	file name that 
+1864	3	2	2	17	file name code 
+1863	3	3	3	60	file name pron 
+1862	4	2	2	16	file name in pron 
+1861	3	3	3	34	file name to 
+1860	3	3	3	39	file name be 
+1857	2	2	2	6	file as 
+1856	3	2	2	22	file in the 
+1855	2	2	2	26	file have 
+1854	2	2	2	51	file be 
+1851	1	2	2	2	associate 
+1850	1	32	29	29	i 
+1849	2	2	2	4	i find 
+1848	2	4	4	4	i e 
+1847	2	2	2	2	i need 
+1846	2	2	2	5	i can 
+1845	2	2	2	5	i do 
+1844	2	4	3	5	i have 
+1843	3	2	2	2	i have find 
+1842	2	5	5	12	i be 
+1841	3	3	3	5	i be use 
+1840	1	23	22	22	project 
+1839	2	2	2	2	project s 
+1838	2	2	2	10	project and 
+1837	2	2	2	6	project in 
+1835	1	26	25	25	way 
+1834	2	2	2	8	way this 
+1833	2	3	3	15	way pron 
+1832	2	8	8	13	way to 
+1830	1	5	5	5	doc 
+1828	2	2	2	2	accord to 
+1827	1	2	2	2	construct 
+1826	1	18	18	18	thank 
+1825	2	7	7	9	thank pron 
+1824	3	2	2	3	thank pron for 
+1818	1	3	3	3	many 
+1815	1	655	470	470	the 
+1814	2	3	3	6	the appointment 
+1813	2	3	3	4	the customer 
+1812	2	2	2	3	the callback 
+1811	2	3	3	3	the timeline 
+1809	3	2	2	2	the slice operator 
+1808	2	4	4	4	the music 
+1807	2	2	2	2	the 1st 
+1806	2	2	2	4	the term 
+1805	2	2	2	5	the oracle 
+1804	2	2	2	3	the xml 
+1803	2	2	2	4	the repository 
+1802	2	2	2	2	the exact 
+1800	2	2	2	2	the appcompat 
+1799	2	2	2	2	the priority 
+1798	2	2	2	4	the issue 
+1797	3	2	2	2	the article pron 
+1796	2	2	1	2	the item 
+1795	2	6	6	9	the stream 
+1793	2	2	2	5	the regex 
+1792	2	2	2	5	the map 
+1791	2	2	2	3	the reason 
+1790	2	4	4	8	the loop 
+1789	3	2	2	2	the loop will 
+1788	2	3	3	3	the console 
+1787	4	2	2	2	the console tell pron 
+1786	2	2	2	4	the database 
+1785	2	2	2	2	the event 
+1783	2	3	2	8	the component 
+1782	2	2	2	11	the string 
+1781	2	2	2	3	the id 
+1780	2	2	2	3	the processing 
+1779	2	2	2	3	the desire 
+1778	2	3	3	6	the progress 
+1777	2	2	2	10	the list 
+1776	2	3	3	5	the problem 
+1774	2	4	3	7	the message 
+1773	2	2	2	2	the whole 
+1772	2	2	2	3	the content 
+1771	2	4	4	15	the number 
+1770	3	3	3	3	the number of 
+1769	2	2	2	2	the word 
+1768	2	2	2	8	the button 
+1767	2	2	2	2	the getter 
+1766	2	2	2	6	the property 
+1765	2	4	4	7	the byte 
+1764	2	2	2	2	the next 
+1763	2	3	3	4	the root 
+1762	2	12	12	13	the same 
+1760	2	3	3	10	the input 
+1759	2	5	5	12	the line 
+1758	2	2	2	7	the good 
+1757	2	3	3	5	the right 
+1756	2	4	4	9	the above 
+1754	2	2	2	5	the data 
+1753	3	2	2	3	the time zone 
+1752	2	5	5	7	the user 
+1751	2	4	3	9	the request 
+1749	2	2	2	3	the main 
+1748	2	2	2	2	the initial 
+1747	2	2	2	6	the error 
+1746	2	2	2	3	the size 
+1745	2	2	2	6	the array 
+1744	2	2	2	3	the information 
+1743	2	6	6	9	the output 
+1742	2	2	2	6	the first 
+1741	2	2	2	7	the build 
+1740	2	7	6	10	the result 
+1739	3	2	1	1	the result set 
+1738	2	5	5	6	the client 
+1737	2	2	2	2	the font 
+1736	2	5	5	38	the method 
+1734	2	2	2	20	the object 
+1733	2	4	4	19	the only 
+1732	2	2	2	5	the service 
+1731	2	2	2	2	the target 
+1730	2	3	3	7	the bean 
+1729	2	10	10	14	the follow 
+1728	3	2	2	2	the follow two 
+1727	2	2	2	4	the apache 
+1726	2	3	3	11	the below 
+1725	3	2	2	6	the below code 
+1724	2	5	5	9	the server 
+1723	2	3	3	6	the app 
+1722	2	6	6	13	the application 
+1721	3	3	3	7	the application be 
+1720	2	7	7	20	the java 
+1719	2	2	2	5	the option 
+1718	2	3	3	4	the source 
+1717	3	2	2	2	the source code 
+1716	2	3	3	8	the program 
+1715	3	2	2	2	the batch file 
+1714	2	2	2	2	the actual 
+1713	3	3	3	9	the question be 
+1712	2	5	5	8	the documentation 
+1711	3	2	2	4	the documentation of 
+1709	2	2	2	6	the help 
+1708	2	3	3	11	the return 
+1707	2	20	20	55	the file 
+1706	3	2	2	2	the file chooser 
+1705	3	16	16	41	the file name 
+1704	5	2	2	2	the file name but pron 
+1702	2	3	3	12	the way 
+1701	3	2	2	8	the way pron 
+1700	2	2	2	3	the doc 
+1699	2	10	10	10	the following 
+1697	2	2	2	3	the maven 
+1696	2	6	5	8	the value 
+1695	3	3	2	4	the value of 
+1694	2	4	3	66	the name 
+1693	4	3	3	11	the name of the 
+1692	3	8	8	21	the api name 
+1691	4	2	2	6	the api name file 
+1690	2	55	49	130	the code 
+1689	4	2	2	5	the code above pron 
+1686	3	38	32	98	the code fragment 
+1685	4	6	5	18	the code fragment method 
+1683	5	2	2	6	the code fragment with the 
+1682	4	5	5	29	the code fragment and 
+1681	6	2	2	17	the code fragment and code fragment 
+1680	5	2	2	36	the code fragment code fragment 
+1679	4	2	2	55	the code fragment pron 
+1678	3	3	3	74	the code pron 
+1677	3	2	2	44	the code to 
+1676	3	2	2	67	the code be 
+1673	1	12	12	12	post 
+1672	2	2	2	3	post request 
+1671	1	3	3	3	already 
+1670	1	21	20	20	set 
+1669	3	2	2	2	set amount of 
+1668	2	2	2	10	set the 
+1666	1	16	16	16	about 
+1665	2	2	2	6	about the 
+1664	2	2	2	4	about what 
+1663	2	3	3	3	about this 
+1662	2	2	2	12	about pron 
+1661	1	199	191	191	use 
+1660	2	2	2	5	use eclipse 
+1659	2	3	3	5	use apache 
+1658	2	5	5	14	use java 
+1657	3	2	2	2	use java 8 
+1656	2	2	2	14	use an 
+1655	2	2	2	5	use one 
+1654	2	19	19	55	use a 
+1653	3	2	2	2	use a regex 
+1652	3	2	2	2	use a concurrent 
+1651	4	4	4	18	use a code fragment 
+1649	2	26	25	74	use the 
+1648	3	8	7	26	use the code 
+1647	4	6	5	18	use the code fragment 
+1646	5	3	2	5	use the code fragment method 
+1645	2	4	4	5	use maven 
+1644	3	3	3	5	use api name 
+1643	2	10	10	30	use this 
+1641	3	22	21	48	use code fragment 
+1640	4	3	3	4	use code fragment instead 
+1638	4	3	3	9	use code fragment with 
+1637	5	2	2	5	use code fragment with a 
+1636	4	2	2	31	use code fragment pron 
+1635	4	2	2	12	use code fragment to 
+1632	2	11	11	139	use pron 
+1631	3	2	2	59	use pron to 
+1629	2	6	6	73	use to 
+1625	1	15	15	15	now 
+1624	2	6	6	11	now pron 
+1622	2	2	2	3	now in 
+1621	1	46	44	44	what 
+1619	2	4	4	21	what the 
+1618	2	2	2	7	what can 
+1617	3	2	2	11	what do pron 
+1616	2	15	15	28	what pron 
+1615	3	2	2	3	what pron need 
+1613	2	11	9	33	what be 
+1612	3	4	3	8	what be a 
+1611	5	3	2	2	what be a code fragment 
+1609	5	2	2	2	what be the difference between 
+1608	1	4	4	4	setting 
+1607	2	2	2	2	setting that 
+1606	1	71	70	70	from 
+1605	2	2	2	2	from eclipse 
+1604	2	2	2	2	from apache 
+1603	2	4	4	5	from java 
+1601	2	2	2	12	from an 
+1600	2	2	2	19	from a 
+1599	2	13	13	31	from the 
+1598	2	2	2	11	from this 
+1596	2	6	6	45	from pron 
+1594	1	11	9	9	maven 
+1593	1	40	37	37	by 
+1592	3	2	2	2	by add the 
+1591	2	2	2	4	by call 
+1590	2	5	5	25	by the 
+1589	2	4	4	4	by default 
+1588	3	4	4	16	by code fragment 
+1587	2	2	2	22	by pron 
+1586	1	6	5	5	fill 
+1585	2	2	1	1	fill all 
+1584	2	2	2	2	fill by 
+1583	1	19	17	17	value 
+1581	2	5	4	5	value of 
+1580	1	5	5	5	resource 
+1579	2	2	2	2	resource and 
+1578	1	5	5	5	filter 
+1577	1	2	2	2	setup 
+1576	1	133	129	129	can 
+1569	2	6	6	13	can get 
+1568	2	5	5	6	can see 
+1567	2	2	2	4	can just 
+1566	2	3	3	3	can read 
+1565	3	2	2	6	can access pron 
+1564	2	8	8	10	can also 
+1563	3	2	2	5	can also be 
+1560	2	9	9	16	can not 
+1558	3	2	2	10	can not be 
+1557	2	3	3	5	can i 
+1553	2	9	9	26	can do 
+1550	2	6	6	113	can pron 
+1549	3	2	2	34	can pron use 
+1548	2	14	14	45	can be 
+1547	3	4	4	6	can be find 
+1545	3	2	2	3	can be make 
+1544	3	2	2	6	can be do 
+1543	1	176	152	152	name 
+1540	2	3	3	7	name number 
+1539	2	2	2	4	name type 
+1538	3	2	2	2	name instead of 
+1534	2	2	2	8	name library 
+1531	2	6	6	18	name for 
+1530	3	2	2	9	name for the 
+1529	2	8	8	100	name file 
+1527	2	3	3	20	name name 
+1526	2	6	6	52	name api 
+1521	2	4	4	17	name that 
+1520	2	4	4	34	name and 
+1519	2	4	4	22	name code 
+1518	3	2	2	17	name code fragment 
+1517	2	5	5	88	name pron 
+1515	2	5	5	48	name to 
+1514	2	5	5	57	name be 
+1507	1	81	74	74	api 
+1506	2	2	2	2	api key 
+1504	2	54	49	52	api name 
+1502	3	2	2	2	api name str 
+1501	3	2	2	8	api name for 
+1500	3	3	3	13	api name file 
+1499	3	3	3	5	api name api 
+1498	4	2	2	5	api name api name 
+1497	3	2	2	4	api name as 
+1496	3	2	2	11	api name and 
+1495	3	2	2	27	api name pron 
+1489	2	2	2	8	api that 
+1487	1	4	4	4	profile 
+1486	1	8	8	8	default 
+1485	3	2	2	5	default code fragment 
+1484	1	81	76	76	as 
+1483	3	3	3	3	as long as 
+1482	4	2	2	3	as long as the 
+1478	3	2	2	3	as part of 
+1476	2	7	7	7	as well 
+1475	3	2	2	4	as well pron 
+1474	2	2	2	10	as an 
+1473	2	9	9	26	as a 
+1472	4	4	4	10	as a code fragment 
+1471	3	2	2	2	as per the 
+1470	2	7	7	41	as the 
+1469	3	3	3	18	as code fragment 
+1467	2	8	8	53	as pron 
+1465	1	4	4	4	environment 
+1464	1	3	3	3	production 
+1463	1	6	6	6	define 
+1462	3	2	2	2	define an object 
+1461	2	2	2	4	define pron 
+1460	1	113	101	101	do 
+1459	2	2	2	3	do nothing 
+1457	4	5	5	5	do something like this 
+1455	2	2	2	3	do anything 
+1454	2	4	3	24	do a 
+1453	2	26	26	27	do not 
+1450	3	2	2	5	do not do 
+1449	3	2	2	23	do not pron 
+1448	3	3	3	7	do not have 
+1447	4	2	2	5	do not have to 
+1446	2	3	3	5	do i 
+1445	2	7	7	40	do the 
+1444	3	2	2	3	do the same 
+1443	2	4	4	19	do that 
+1442	2	2	2	12	do with 
+1441	2	7	7	27	do this 
+1440	3	2	2	6	do this with 
+1439	2	19	19	84	do pron 
+1438	3	3	3	10	do pron need 
+1437	4	2	2	6	do pron need to 
+1436	3	2	2	10	do pron as 
+1435	2	3	3	15	do in 
+1432	1	19	19	19	could 
+1427	1	148	137	137	that 
+1426	2	2	2	2	that is 
+1425	2	2	2	5	that add 
+1424	2	2	2	10	that will 
+1423	3	3	3	11	that if pron 
+1422	3	3	3	16	that there be 
+1421	2	2	2	11	that should 
+1420	3	3	3	4	that look like 
+1419	2	2	2	48	that a 
+1417	2	3	3	10	that i 
+1416	2	9	9	78	that the 
+1415	2	3	3	19	that do 
+1414	4	2	2	15	that code fragment be 
+1413	2	36	36	101	that pron 
+1412	3	2	2	2	that pron choose 
+1411	3	3	3	7	that pron want 
+1410	3	4	4	11	that pron need 
+1409	4	3	3	8	that pron need to 
+1408	3	2	2	17	that pron use 
+1407	3	3	3	12	that pron can 
+1406	3	6	6	25	that pron have 
+1404	3	3	3	67	that pron be 
+1403	2	4	4	28	that have 
+1402	2	14	14	91	that be 
+1401	3	2	2	5	that be why 
+1400	3	2	2	13	that be use 
+1399	2	2	2	9	that would 
+1397	1	65	65	65	so 
+1396	2	3	3	4	so far 
+1395	3	2	2	4	so instead of 
+1394	2	3	3	13	so if 
+1393	3	2	2	11	so if pron 
+1392	3	2	2	7	so there be 
+1390	2	5	5	30	so the 
+1388	2	4	4	13	so that 
+1387	3	3	3	12	so that pron 
+1386	4	2	2	4	so that pron can 
+1385	2	22	22	54	so pron 
+1384	3	7	7	14	so pron can 
+1383	3	3	3	29	so pron be 
+1380	1	98	90	90	with 
+1379	2	2	2	2	with no 
+1378	2	2	2	10	with an 
+1377	2	2	2	8	with all 
+1376	2	16	16	39	with a 
+1374	4	2	2	14	with a code fragment 
+1373	2	17	16	42	with the 
+1372	3	3	3	4	with the follow 
+1371	2	5	5	18	with this 
+1369	3	14	13	28	with code fragment 
+1368	4	2	2	9	with code fragment and 
+1367	4	2	2	23	with code fragment pron 
+1364	2	3	3	66	with pron 
+1363	1	179	174	174	this 
+1362	2	2	2	2	this topic 
+1359	2	4	4	4	this answer 
+1357	2	2	2	2	this error 
+1356	2	4	4	13	this method 
+1355	2	3	3	5	this example 
+1354	2	2	2	8	this when 
+1353	2	2	2	11	this on 
+1351	2	3	3	4	this library 
+1350	2	2	2	5	this one 
+1349	2	2	2	4	this up 
+1347	2	3	3	8	this way 
+1346	2	5	5	15	this api 
+1345	2	2	2	8	this as 
+1344	2	3	3	18	this with 
+1343	2	5	5	35	this code 
+1342	3	2	2	22	this code fragment 
+1340	2	2	2	52	this to 
+1339	2	16	16	59	this be 
+1338	3	3	3	17	this be a 
+1337	4	2	2	2	this be what pron 
+1327	1	2	2	2	override 
+1326	1	32	30	30	then 
+1325	5	2	1	1	then updatebar will be call 
+1324	2	12	12	28	then pron 
+1322	1	205	179	179	and 
+1320	2	2	2	2	and append 
+1319	2	2	2	2	and deploy 
+1318	2	2	2	5	and store 
+1317	2	3	3	6	and find 
+1316	2	2	2	3	and pass 
+1313	2	3	3	9	and add 
+1312	2	4	4	11	and call 
+1310	2	2	2	15	and create 
+1309	2	2	2	3	and retrieve 
+1308	2	2	2	5	and make 
+1307	2	2	2	11	and get 
+1306	2	2	2	8	and see 
+1305	2	2	2	7	and run 
+1304	2	2	2	20	and an 
+1303	2	2	2	12	and all 
+1302	2	5	5	65	and a 
+1301	2	3	3	10	and try 
+1300	2	2	2	14	and not 
+1299	2	9	9	103	and the 
+1298	2	3	3	31	and use 
+1297	2	3	3	7	and what 
+1296	3	2	2	5	and what be 
+1295	2	2	2	20	and do 
+1294	3	2	2	3	and so on 
+1293	2	12	12	16	and then 
+1292	3	3	3	16	and then pron 
+1291	3	9	9	46	and code fragment 
+1289	2	19	19	120	and pron 
+1288	3	2	2	7	and pron will 
+1287	3	2	2	6	and pron only 
+1286	3	2	2	9	and pron get 
+1285	3	2	2	7	and pron should 
+1284	3	3	3	51	and pron be 
+1283	2	4	4	42	and in 
+1282	3	2	2	34	and in pron 
+1281	1	308	206	206	fragment 
+1230	2	7	7	56	fragment to 
+1205	1	376	259	259	code 
+1204	2	3	2	2	code fragments 
+1201	2	3	3	48	code of 
+1200	3	2	2	31	code of the 
+1199	3	2	2	14	code for the 
+1198	2	3	3	36	code that 
+1197	2	306	205	205	code fragment 
+1196	3	2	2	2	code fragment folder 
+1193	3	2	2	3	code fragment after 
+1192	3	2	2	3	code fragment class 
+1191	3	2	2	5	code fragment work 
+1190	3	3	3	13	code fragment s 
+1189	3	2	2	16	code fragment will 
+1188	3	16	15	24	code fragment method 
+1187	4	3	3	6	code fragment method will 
+1185	3	8	8	13	code fragment object 
+1183	3	11	9	15	code fragment or 
+1181	5	4	3	10	code fragment or code fragment 
+1180	6	2	1	1	code fragment or code fragment or 
+1179	3	5	4	10	code fragment which 
+1177	3	3	3	14	code fragment on 
+1176	4	2	2	13	code fragment on the 
+1175	3	4	4	15	code fragment should 
+1174	3	2	2	37	code fragment of 
+1173	3	3	3	7	code fragment but 
+1172	3	5	5	23	code fragment for 
+1171	4	2	2	5	code fragment for that 
+1170	5	2	2	11	code fragment not code fragment 
+1169	3	6	6	17	code fragment file 
+1168	3	2	2	48	code fragment use 
+1167	3	2	2	7	code fragment from 
+1166	3	2	2	16	code fragment by 
+1165	3	2	2	22	code fragment can 
+1164	3	4	4	18	code fragment as 
+1163	4	2	2	2	code fragment as well 
+1162	3	10	8	28	code fragment with 
+1161	4	3	3	14	code fragment with a 
+1160	4	4	3	13	code fragment with the 
+1158	3	2	2	22	code fragment this 
+1157	3	21	19	46	code fragment and 
+1156	6	2	2	4	code fragment and call code fragment 
+1155	5	7	7	23	code fragment and code fragment 
+1153	3	5	4	80	code fragment code 
+1152	4	4	3	71	code fragment code fragment 
+1151	3	12	12	124	code fragment pron 
+1150	4	6	6	19	code fragment pron can 
+1149	3	6	5	38	code fragment in 
+1148	4	3	2	29	code fragment in pron 
+1147	3	2	2	28	code fragment have 
+1146	3	6	6	56	code fragment to 
+1145	5	2	2	4	code fragment to get the 
+1144	3	23	21	85	code fragment be 
+1142	4	4	4	33	code fragment be a 
+1141	4	2	2	50	code fragment be pron 
+1121	2	5	5	159	code pron 
+1120	2	5	5	72	code to 
+1119	2	6	6	110	code be 
+1114	1	1024	701	701	pron 
+1113	2	2	2	4	pron usually 
+1112	2	2	2	4	pron seem 
+1111	2	3	3	3	pron probably 
+1110	2	3	3	3	pron believe 
+1108	2	2	2	3	pron back 
+1107	2	2	2	3	pron hold 
+1106	2	2	2	2	pron controller 
+1104	2	2	2	6	pron field 
+1103	2	2	2	4	pron simply 
+1102	2	2	2	4	pron classpath 
+1101	2	2	2	4	pron suggest 
+1100	2	6	6	12	pron know 
+1098	3	3	3	6	pron know the 
+1097	2	2	2	7	pron contain 
+1096	2	8	8	21	pron find 
+1095	3	2	2	2	pron find out 
+1094	2	5	5	5	pron own 
+1093	2	8	8	12	pron may 
+1092	4	3	3	4	pron may want to 
+1091	2	3	3	11	pron check 
+1090	3	2	2	6	pron check the 
+1089	2	4	4	6	pron miss 
+1087	2	3	3	11	pron take 
+1086	2	2	2	3	pron select 
+1085	2	3	3	3	pron current 
+1084	2	2	2	2	pron must 
+1083	2	2	2	4	pron invoke 
+1082	2	3	3	5	pron expect 
+1081	3	2	2	2	pron expect to 
+1080	2	2	2	24	pron here 
+1079	2	2	2	15	pron write 
+1078	2	3	3	10	pron output 
+1077	3	2	2	4	pron output directory 
+1076	2	3	3	7	pron datum 
+1075	2	2	2	11	pron build 
+1074	2	8	8	30	pron add 
+1073	3	2	2	9	pron change the 
+1072	2	2	2	27	pron s 
+1071	2	5	4	25	pron call 
+1070	4	2	2	5	pron call api name 
+1069	2	27	26	45	pron will 
+1068	3	2	2	5	pron will get 
+1066	3	3	3	3	pron will return 
+1065	4	2	2	3	pron will return the 
+1064	3	2	2	8	pron will not 
+1063	3	4	4	9	pron will have 
+1061	2	7	7	34	pron create 
+1060	3	3	3	17	pron create a 
+1059	3	2	2	18	pron create the 
+1058	2	3	3	12	pron start 
+1057	2	28	28	37	pron want 
+1056	3	2	2	6	pron want with 
+1055	3	2	2	4	pron want this 
+1054	3	3	3	18	pron want pron 
+1052	3	13	13	26	pron want to 
+1051	4	2	2	2	pron want to print 
+1047	2	3	3	10	pron bean 
+1046	2	3	3	17	pron make 
+1045	3	2	2	10	pron how to 
+1044	2	2	2	17	pron new 
+1043	2	2	2	6	pron interface 
+1042	2	18	17	46	pron get 
+1041	3	4	4	13	pron get a 
+1040	3	4	4	9	pron get this 
+1039	3	2	2	21	pron get pron 
+1038	2	10	10	22	pron see 
+1037	3	2	2	14	pron see the 
+1036	3	3	3	7	pron see that 
+1035	2	5	5	18	pron run 
+1032	2	2	2	7	pron come 
+1031	2	2	2	42	pron on 
+1029	2	5	5	14	pron mean 
+1028	2	3	3	13	pron app 
+1027	4	2	2	2	pron app so pron 
+1026	2	2	2	12	pron other 
+1025	2	4	4	11	pron just 
+1024	2	4	4	11	pron read 
+1023	3	3	3	5	pron read pron 
+1022	2	2	2	9	pron program 
+1021	2	24	24	35	pron should 
+1020	3	2	2	2	pron should always 
+1019	3	4	4	11	pron should use 
+1018	3	5	5	17	pron should be 
+1017	4	2	2	5	pron should be use 
+1016	2	3	3	47	pron like 
+1014	2	7	7	11	pron think 
+1013	3	5	5	7	pron think pron 
+1012	2	3	3	15	pron question 
+1011	2	2	2	18	pron look 
+1010	2	3	3	195	pron a 
+1009	2	2	2	12	pron say 
+1008	2	34	33	46	pron need 
+1007	3	24	23	39	pron need to 
+1006	4	2	2	6	pron need to use 
+1004	4	2	2	11	pron need be to 
+1003	2	6	6	27	pron also 
+1002	3	2	2	8	pron also have 
+1001	2	4	4	15	pron help 
+999	2	4	4	75	pron for 
+998	3	2	2	26	pron for pron 
+997	2	10	10	39	pron try 
+996	3	6	6	24	pron try to 
+995	2	4	4	16	pron project 
+993	2	6	6	279	pron the 
+992	2	19	19	139	pron use 
+991	3	3	3	55	pron use the 
+990	4	2	2	31	pron use code fragment 
+989	3	2	2	47	pron use pron 
+988	3	3	3	59	pron use to 
+987	2	3	3	45	pron from 
+986	2	91	91	113	pron can 
+984	4	2	2	5	pron can change the 
+983	3	4	4	8	pron can create 
+982	4	2	2	3	pron can create the 
+981	3	5	5	13	pron can get 
+980	3	4	4	5	pron can see 
+979	3	2	2	3	pron can read 
+978	3	6	6	8	pron can also 
+977	3	5	5	9	pron can try 
+976	4	2	2	2	pron can try the 
+975	3	6	6	14	pron can not 
+974	4	2	2	6	pron can not use 
+973	3	7	7	34	pron can use 
+970	3	7	7	22	pron can do 
+967	3	2	2	37	pron can be 
+966	2	8	8	39	pron api 
+965	3	6	6	27	pron api name 
+963	2	4	4	53	pron as 
+962	2	23	21	84	pron do 
+961	3	12	12	23	pron do not 
+960	4	3	3	6	pron do not need 
+959	5	2	2	2	pron do not need to 
+958	2	15	15	18	pron could 
+957	3	2	2	2	pron could make 
+954	3	2	2	3	pron could do 
+953	2	2	2	66	pron with 
+952	2	23	23	159	pron code 
+951	3	14	14	124	pron code fragment 
+947	2	9	9	132	pron in 
+945	3	3	3	49	pron in a 
+944	3	2	2	54	pron in pron 
+943	2	92	91	128	pron have 
+942	3	2	2	4	pron have find 
+941	3	2	2	8	pron have an 
+940	3	22	22	51	pron have a 
+938	3	3	3	8	pron have also 
+937	3	2	2	48	pron have the 
+936	3	2	2	22	pron have this 
+935	3	12	12	56	pron have to 
+933	4	2	2	9	pron have to do 
+931	2	11	11	249	pron to 
+930	3	2	2	18	pron to get 
+929	2	131	121	281	pron be 
+928	3	2	2	2	pron be worth 
+927	3	2	2	3	pron be equivalent 
+926	3	2	2	2	pron be finish 
+925	3	2	2	5	pron be miss 
+924	4	3	3	6	pron be possible to 
+923	5	2	2	3	pron be possible to do 
+922	3	4	4	7	pron be work 
+921	4	2	2	2	pron be work on 
+920	3	3	3	3	pron be wonder 
+919	4	2	2	3	pron be wonder if 
+918	3	3	3	7	pron be new 
+917	4	2	2	3	pron be new to 
+916	3	2	2	14	pron be get 
+914	5	2	2	2	pron be think of create 
+913	4	3	3	7	pron be up to 
+912	6	2	2	3	pron be up to pron to 
+911	3	3	3	7	pron be look 
+910	4	2	2	4	pron be look for 
+909	3	2	2	88	pron be a 
+908	4	11	10	17	pron be try to 
+906	3	5	5	35	pron be not 
+905	3	23	23	59	pron be use 
+903	4	3	3	21	pron be use a 
+902	4	2	2	28	pron be use the 
+901	5	2	2	13	pron be use code fragment 
+900	3	2	2	6	pron be now 
+899	3	3	3	32	pron be do 
+898	3	3	3	38	pron be have 
+897	3	2	2	51	pron be be 
+896	2	19	18	22	pron would 
+895	4	2	2	2	pron would like to 
+894	3	2	2	6	pron would have 
+893	3	2	2	9	pron would be 
+887	1	221	198	198	in 
+884	2	2	2	7	in number 
+883	2	3	3	3	in combination 
+882	3	2	2	2	in combination with 
+881	2	4	4	4	in memory 
+880	2	2	2	3	in main 
+879	2	7	7	7	in advance 
+877	3	7	7	7	in order to 
+876	2	5	5	13	in which 
+875	3	2	2	9	in which pron 
+874	2	8	8	17	in java 
+873	2	2	2	21	in an 
+872	2	20	19	71	in a 
+870	4	3	3	16	in a code fragment 
+869	2	51	48	100	in the 
+868	4	2	2	3	in the above code 
+866	3	2	2	7	in the java 
+865	4	2	2	14	in the file name 
+864	3	5	5	33	in the code 
+863	4	2	2	20	in the code fragment 
+862	2	5	5	28	in this 
+861	2	2	2	42	in and 
+860	3	3	3	38	in code fragment 
+859	2	33	32	132	in pron 
+858	3	2	2	2	in pron constructor 
+856	3	5	5	40	in pron code 
+855	4	4	4	29	in pron code fragment 
+853	3	2	2	56	in pron be 
+851	1	157	150	150	have 
+850	2	4	4	6	have find 
+848	2	2	2	7	have add 
+847	2	2	2	13	have method 
+846	2	4	4	10	have an 
+845	2	34	34	64	have a 
+843	3	3	3	6	have a method 
+842	4	2	2	14	have a code fragment 
+840	2	2	2	2	have any 
+839	3	2	2	8	have not be 
+838	3	4	4	18	have file name 
+837	2	3	3	58	have the 
+836	2	2	2	4	have set 
+835	2	3	3	28	have that 
+834	2	3	3	24	have this 
+833	2	21	21	67	have to 
+832	3	2	2	3	have to write 
+829	2	6	6	47	have be 
+827	1	408	337	337	to 
+826	2	2	2	3	to utc 
+825	2	2	2	4	to translate 
+824	2	2	2	4	to display 
+823	2	2	2	2	to inject 
+822	2	2	2	4	to iterate 
+821	2	3	3	6	to date 
+819	2	4	4	5	to include 
+818	2	4	4	5	to know 
+817	3	2	2	2	to know if 
+816	2	2	2	6	to list 
+815	2	2	2	4	to re 
+814	2	2	2	7	to convert 
+811	2	4	4	6	to send 
+810	3	2	2	3	to send a 
+809	2	2	2	3	to figure 
+808	2	3	3	3	to avoid 
+807	2	3	3	5	to generate 
+806	2	2	2	2	to achieve 
+805	2	2	2	3	to ensure 
+804	2	4	4	6	to check 
+803	2	3	3	4	to implement 
+802	2	4	4	5	to handle 
+801	3	2	2	5	to handle the 
+800	2	2	2	4	to pass 
+799	2	2	2	7	to 2 
+798	2	2	2	2	to solve 
+797	2	7	7	9	to write 
+796	3	3	3	4	to write a 
+795	2	3	3	7	to build 
+794	2	8	8	23	to add 
+793	2	2	2	9	to change 
+792	2	5	5	15	to call 
+791	3	2	2	11	to call pron 
+790	2	9	9	17	to create 
+789	3	2	2	3	to create an 
+788	3	2	2	9	to create a 
+787	3	2	2	10	to create the 
+786	2	6	6	15	to make 
+785	3	2	2	8	to make a 
+784	2	13	13	24	to get 
+783	3	3	3	12	to get the 
+782	2	4	4	10	to see 
+781	3	2	2	3	to see if 
+780	2	2	2	4	to read 
+779	2	2	2	2	to keep 
+778	2	3	3	7	to access 
+777	3	2	2	3	to access a 
+776	2	2	2	29	to an 
+775	3	2	2	3	to look at 
+774	2	10	10	105	to a 
+773	2	4	4	6	to connect 
+771	2	6	6	47	to file 
+770	3	3	3	34	to file name 
+769	2	31	31	158	to the 
+768	3	2	2	4	to the client 
+767	3	2	2	19	to the method 
+766	3	3	3	44	to the code 
+765	2	2	2	4	to post 
+764	2	23	23	73	to use 
+763	3	3	3	25	to use a 
+762	3	4	4	36	to use the 
+761	4	2	2	12	to use code fragment 
+760	3	2	2	59	to use pron 
+759	3	3	3	13	to api name 
+757	2	19	18	44	to do 
+756	3	3	3	14	to do this 
+755	3	4	4	38	to do pron 
+754	4	2	2	4	to do be get 
+753	2	2	2	44	to that 
+752	2	4	4	52	to this 
+751	3	5	5	56	to code fragment 
+749	2	16	15	249	to pron 
+747	2	11	10	67	to have 
+746	3	3	3	26	to have a 
+745	2	11	11	152	to be 
+744	3	2	2	2	to be copy 
+740	1	562	467	467	be 
+739	2	2	2	2	be ready 
+738	2	2	1	1	be asymmetric 
+737	2	2	2	2	be curious 
+736	2	2	2	3	be exactly 
+735	5	2	2	2	be replace with code fragment 
+734	2	2	2	2	be configure 
+731	2	3	3	6	be basically 
+730	2	2	2	3	be translate 
+729	2	2	2	4	be reference 
+727	2	2	2	4	be happen 
+726	2	2	2	2	be almost 
+724	2	2	2	6	be go 
+723	3	4	4	5	be able to 
+722	2	3	3	5	be available 
+721	2	2	2	4	be no 
+720	2	3	3	6	be compile 
+719	2	2	2	6	be send 
+718	2	7	7	14	be find 
+716	3	2	2	4	be find in 
+715	2	3	3	7	be why 
+714	2	3	3	4	be empty 
+712	2	3	3	13	be good 
+710	2	2	2	7	be request 
+709	2	2	2	5	be 4 
+708	2	5	5	6	be initialize 
+704	2	2	2	9	be write 
+703	2	5	5	10	be work 
+701	2	10	9	16	be call 
+699	2	2	2	14	be only 
+698	2	4	4	14	be make 
+697	2	3	3	17	be how 
+691	2	5	5	15	be get 
+690	2	3	3	12	be run 
+689	2	11	11	40	be there 
+688	3	4	4	18	be there a 
+687	3	3	3	7	be there any 
+685	2	6	6	17	be some 
+683	2	2	2	4	be actually 
+681	2	3	3	13	be just 
+680	2	2	2	26	be java 
+679	2	2	2	3	be execute 
+677	2	13	13	49	be an 
+674	2	4	4	14	be one 
+668	2	3	3	77	be of 
+667	2	30	29	131	be a 
+666	3	2	2	5	be a question 
+665	3	6	5	38	be a code 
+664	4	5	4	33	be a code fragment 
+662	2	2	2	15	be also 
+661	2	4	4	17	be any 
+659	2	2	2	50	be for 
+658	3	12	11	17	be try to 
+656	2	19	19	46	be not 
+655	4	2	2	2	be not able to 
+654	3	2	2	3	be not at 
+653	3	2	2	15	be not a 
+652	2	7	7	51	be file 
+651	3	5	5	39	be file name 
+650	2	30	30	222	be the 
+646	3	3	3	67	be the code 
+644	2	4	4	11	be set 
+643	3	2	2	4	be set to 
+642	2	35	35	73	be use 
+641	3	2	2	4	be use apache 
+638	3	3	3	36	be use the 
+637	4	3	3	15	be use code fragment 
+636	3	2	2	37	be use to 
+635	3	2	2	21	be use be 
+632	2	6	6	33	be what 
+631	3	5	5	20	be what pron 
+630	4	2	2	5	be what pron have 
+629	2	6	6	36	be as 
+626	2	6	6	36	be do 
+625	2	6	6	91	be that 
+624	3	3	3	67	be that pron 
+623	2	4	4	59	be this 
+622	3	5	5	85	be code fragment 
+620	2	16	16	281	be pron 
+618	3	3	3	65	be pron code 
+617	2	3	3	86	be in 
+615	2	11	11	152	be to 
+613	2	5	5	80	be be 
+607	1	32	31	31	would 
+606	2	2	2	3	would basically 
+603	2	9	9	17	would be 
